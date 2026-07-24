@@ -307,7 +307,9 @@
           h('div', { class: 'side-counts' },
             h('span', null, 'Core ' + c.coreN), h('span', null, 'Deep ' + c.deepN),
             h('span', null, 'Research ' + c.resN), h('span', null, 'Essays ' + c.essayN),
-            h('span', null, 'Lectio ' + c.lectioDone + '/' + c.lectioTotal))),
+            h('span', null, 'Texts ' + c.textsRead + '/' + c.textsTotal),
+            h('span', null, 'Lectio ' + c.lectioDone + '/' + c.lectioTotal),
+            c.reading.length ? h('span', null, 'Reading ' + c.reading.length) : null)),
         h('div', { class: 'side-stages' }, data.stages.map(function (st, i) {
           var sc = c.stages[i];
           return h('div', { class: 'side-stage', onclick: jumpTo('stage-' + st.id) },
