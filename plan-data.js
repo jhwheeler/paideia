@@ -4286,7 +4286,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "The conciliar spine otherwise runs Chalcedon to Constantinople III and then to the hesychast councils, skipping the seventh council entire. Stage 12 presupposes the theology of matter this stage supplies."
+          "text": "The seventh council and the theology of the icon, read through John of Damascus. Stage 12 presupposes its theology of matter."
         },
         {
           "type": "list",
