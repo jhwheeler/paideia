@@ -497,13 +497,13 @@
             { class: "side-counts" },
             h("span", null, "Texts " + c.textsRead + "/" + c.textsTotal),
             h("span", null, "Lectio " + c.lectioDone + "/" + c.lectioTotal),
+            c.reading.length
+              ? h("span", null, "Reading " + c.reading.length)
+              : null,
             h("span", null, "Core " + c.coreN),
             h("span", null, "Deep " + c.deepN),
             h("span", null, "Research " + c.resN),
             h("span", null, "Essays " + c.essayN),
-            c.reading.length
-              ? h("span", null, "Reading " + c.reading.length)
-              : null,
           ),
         ),
         h(
