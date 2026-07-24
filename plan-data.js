@@ -29,7 +29,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Spiritual knowledge and communion. To read the Fathers not only as objects of study but as fathers: the plan's contemplative strand orders the reading toward prayer, the liturgical year, and communion with Christ through His saints, since the texts themselves — from Gregory's Theological Orations to the Centuries on Love — insist that theology without purification and prayer is not yet theology."
+          "text": "Spiritual knowledge and communion. To read the Fathers not only as objects of study but as fathers: the plan's contemplative strand orders the reading toward prayer, the liturgical year, and communion with Christ through His saints."
         },
         {
           "type": "para",
@@ -41,7 +41,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "A frame of reference for Orthodoxy. To situate Orthodox theology consciously in relation to the Western tradition — Augustine, Aquinas, and the broader Latin inheritance familiar from an American cultural background and classical education — so that the Eastern synthesis is held with understanding rather than mere preference."
+          "text": "A frame of reference for Orthodoxy. To situate Orthodox theology consciously in relation to the Western tradition — Augustine, Aquinas, and the broader Latin inheritance familiar from an American cultural background and classical education — so that the Eastern synthesis is held with understanding."
         },
         {
           "type": "para",
@@ -81,13 +81,13 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "The reflection questions are invitations rather than a checklist. Some may remain as marginal notes; others may become short compositions or longer essays. Choose the questions that genuinely sharpen the reading, and formulate better questions when the texts require them."
+          "text": "The reflection questions are optional. Some may remain as marginal notes; others may become short compositions or longer essays. Choose the questions that sharpen the reading, and formulate better ones when the texts require them."
         },
         {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "At the end of each stage, choose one synthesis theme or devise a comparable one. A mature stage essay will usually be 3,000–5,000 words and will make a definite argument from primary texts while engaging selected modern scholarship. Scripture and the prayer the reading is ordered toward are the ground the whole plan stands on, and belong in the essay wherever the argument reaches them."
+          "text": "At the end of each stage, choose one synthesis theme or devise a comparable one. A stage essay will usually be 3,000–5,000 words and will make a definite argument from primary texts while engaging selected modern scholarship. Scripture belongs in the essay wherever the argument reaches it."
         },
         {
           "type": "para",
@@ -100,7 +100,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "The plan is a map of possible depth, not a demand that every component be completed at once. Each unit may be completed in one of three modes and revisited later."
+          "text": "Each unit may be completed in one of three modes and revisited later; not every component need be completed at once."
         },
         {
           "type": "list",
@@ -136,20 +136,20 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Core completion is sufficient to move forward. Deep and research completion are selective: no unit requires every exercise merely because it appears on the page."
+          "text": "Core completion is sufficient to move forward. Deep and research completion are selective."
         },
         { "type": "subhead", "text": "The two modes of reading" },
         {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Each unit carries, beside its analytical apparatus, a short block headed Πρὸς προσευχὴν καὶ θεωρίαν — toward prayer and contemplation. These prompts move in the opposite direction from the reflection questions: not from text to argument, but from text to prayer, liturgy, and life. They presuppose an existing rule of prayer and a liturgical life; they do not replace either, but locate the place where each unit's text touches them. The two modes are not rivals: the Fathers to be read here — Gregory Nazianzen above all — hold that analytical reading is only trustworthy inside a life of purification, prayer, and communion."
+          "text": "Each unit carries, beside its analytical apparatus, a short block headed Πρὸς προσευχὴν καὶ θεωρίαν — toward prayer and contemplation. These prompts move from the text toward prayer, liturgy, and life rather than toward argument. They presuppose an existing rule of prayer and a liturgical life; they do not replace either."
         },
         {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Ecclesial boundary. These prompts direct attention; they do not independently prescribe changes to a prayer rule, fasting discipline, bodily prayer method, sacramental practice, or relationship with a confessor. Any such changes belong under established ecclesial and pastoral guidance. Where a prompt touches those matters, adapt it to the rule and counsel already received."
+          "text": "Note. The prompts direct attention; they do not prescribe changes to a prayer rule, fasting discipline, bodily prayer method, or sacramental practice — such changes belong under pastoral guidance."
         },
         { "type": "subhead", "text": "Scripture in parallel" },
         {
@@ -168,7 +168,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "Lectio continua (continuous, by stage)",
-          "text": ". Whole books of Scripture, assigned stage by stage and read alongside the stage's texts at whatever daily measure the evening allows — a chapter, a paragraph, a column. This is Scripture in its own voice and at its own length: not a passage chosen to illuminate Plato, but the Word read as the Fathers read it, continuously — so that when Origen reaches for John, the whole Gospel is already present, and so that after a heavy dose of dialectic there is somewhere to go that is not dialectic. Scripture is usually the more approachable register, and it carries the greater mystery. The strand assigns books, not languages: Greek where it feeds, English where the Greek would merely slow the reading, the key passages always in Greek. Books are anchored to stages, not to calendars — a book that outlasts its stage simply carries over into the next. Assignments stand at each stage head."
+          "text": ". Whole books of Scripture, assigned stage by stage and read alongside the stage's texts at whatever daily measure the day allows — a chapter, a paragraph, a column — so that when Origen reaches for John, the whole Gospel is already present. The strand assigns books, not languages: Greek where it feeds, English where the Greek would slow the reading, the key passages always in Greek. Books are anchored to stages, not to calendars — a book that outlasts its stage carries over into the next. Assignments stand at each stage head."
         },
         {
           "type": "para",
@@ -193,14 +193,14 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Selected units and stages carry a short Secondary reading block: two to four titles, each with a sentence on what it does that the primary texts cannot. These are companions, not gatekeepers; the plan's primary-text priority is untouched, and no unit depends on them. The lists draw on English, French, and Bulgarian scholarship as a matter of course, with Latin and Italian where the best edition or study requires it. Two consequences of the French in particular deserve notice at the outset. First, Sources Chrétiennes functions throughout as a primary working series alongside the Loeb Classical Library and Dumbarton Oaks Medieval Library: it prints the Greek with facing French translation and full apparatus for much of this corpus — Ignatius (SC 10), the Life of Moses (SC 1), the Protrepticus (SC 2), Contra Celsum (SC 132 ff.), the Theological Orations (SC 250), the Mystagogy (SC 583), and more — and is frequently the best available edition of the assigned text. Second, several of the field's foundational studies were never translated out of French and appear below in the original — Daniélou on Nyssa, Roques on Dionysius, Larchet on Maximus, Hausherr on the Jesus Prayer."
+          "text": "Selected units and stages carry a short Secondary reading block: two to four titles, each with a sentence on what it does that the primary texts cannot. These are optional companions; no unit depends on them. The lists draw on English, French, and Bulgarian scholarship, with Latin and Italian where the best edition or study requires it. Sources Chrétiennes functions throughout as a primary working series alongside the Loeb Classical Library and Dumbarton Oaks Medieval Library: it prints the Greek with facing French translation and full apparatus for much of this corpus — Ignatius (SC 10), the Life of Moses (SC 1), the Protrepticus (SC 2), Contra Celsum (SC 132 ff.), the Theological Orations (SC 250), the Mystagogy (SC 583), and more — and is frequently the best available edition of the assigned text. Several of the field's foundational studies were never translated out of French and appear below in the original — Daniélou on Nyssa, Roques on Dionysius, Larchet on Maximus, Hausherr on the Jesus Prayer."
         },
         { "type": "subhead", "text": "Greek composition" },
         {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Reading alone does not produce the syntactic control that translation demands; composition does. The exercises should develop in stages rather than treating all Greek as one uniform target."
+          "text": "Composition trains the syntactic control that translation demands. The exercises should develop in stages rather than treating all Greek as one uniform target."
         },
         {
           "type": "para",
@@ -244,7 +244,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Each unit carries a suggested piece under the rubric Ἀπὸ στήθους — anywhere from a single line to twenty — with several units prescribing only maintenance of the accumulated repertoire. The suggestions are a menu, not a quota; optional additions belong only where they do not displace the reading itself. Recitation aloud develops prosody, syntax, and possession of the text; hymns and prayers also join memorization to liturgical life. The κεφάλαιον genre is especially suited to this form of retention."
+          "text": "Each unit carries a suggested piece under the rubric Ἀπὸ στήθους — anywhere from a single line to twenty — with several units prescribing only maintenance of the accumulated repertoire. The suggestions are optional; additions belong only where they do not displace the reading itself. Recitation aloud develops prosody, syntax, and possession of the text; hymns and prayers also join memorization to liturgical life. The κεφάλαιον genre is especially suited to this form of retention."
         },
         {
           "type": "para",
@@ -1401,7 +1401,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "secondary",
           "label": "Secondary reading (stage-wide)",
-          "text": "John Behr, The Way to Nicaea — the theological stakes of the second century, so that the Apostolic Fathers read as beginnings rather than curiosities. Primary edition note: Holmes's Apostolic Fathers diglot is the working edition for the whole stage; the SC volumes supply commentary where the textual studies want it, and the Ehrman Loeb (LCL 24–25) covers the same corpus for the series shelf."
+          "text": "John Behr, The Way to Nicaea — the theological stakes of the second century. Primary edition note: Holmes's Apostolic Fathers diglot is the working edition for the whole stage; the SC volumes supply commentary where the textual studies want it, and the Ehrman Loeb (LCL 24–25) covers the same corpus for the series shelf."
         },
         {
           "type": "list",
@@ -1755,7 +1755,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "Satellite — the seeds of the Logos",
-          "text": "Justin Martyr, Second Apology 8 and 13 — τὸ ἔμφυτον σπέρμα τοῦ λόγου, the passages the plan's subtitle quotes, and First Apology 46, the thesis at its fullest — οἱ μετὰ λόγου βιώσαντες Χριστιανοί εἰσι, Socrates and Heraclitus by name — with Dialogue with Trypho 1–8, the philosophical conversion narrative: the schools tried in sequence, the old man by the sea, the prophets, Christ. Two afternoons, not a unit; but a plan that bears his phrase on its cover should read the pages it comes from. Editions: the Apologies in SC 507 (Munier); the Dialogue in Bobichon's Fribourg critical edition, English in Falls–Halton (verify against the catalogue, per standing rule)."
+          "text": "Justin Martyr, Second Apology 8 and 13 — τὸ ἔμφυτον σπέρμα τοῦ λόγου, the passages the plan's subtitle quotes, and First Apology 46, the thesis at its fullest — οἱ μετὰ λόγου βιώσαντες Χριστιανοί εἰσι, Socrates and Heraclitus by name — with Dialogue with Trypho 1–8, the philosophical conversion narrative: the schools tried in sequence, the old man by the sea, the prophets, Christ. Two afternoons, not a unit. Editions: the Apologies in SC 507 (Munier); the Dialogue in Bobichon's Fribourg critical edition, English in Falls–Halton (verify against the catalogue, per standing rule)."
         },
         {
           "type": "list",
@@ -1875,7 +1875,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "This stage moves historically from Philo through Clement and Origen into Athanasius, Basil, and Gregory of Nyssa. It allows Origen to appear as a genuine earlier achievement and problem-field rather than as a deviation from a Nicene settlement that had not yet occurred. The stage falls into two movements — the Alexandrians, Clement and Origen (Units 18–21), and the Nicene–Cappadocian transformation (Units 22–26) — and may be paced, and its synthesis drafted, accordingly."
+          "text": "This stage moves historically from Philo through Clement and Origen into Athanasius, Basil, and Gregory of Nyssa, reading Origen as an earlier achievement and problem-field in his own right. The stage falls into two movements — the Alexandrians, Clement and Origen (Units 18–21), and the Nicene–Cappadocian transformation (Units 22–26) — and may be paced, and its synthesis drafted, accordingly."
         },
         {
           "type": "para",
@@ -3577,7 +3577,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "Maximus has three tributaries",
-          "text": "Nazianzen and Dionysius, just read; the Evagrian ascetical tradition; and the conciliar Christological tradition from Cyril through Chalcedon. This stage supplies the second and third, so that the Centuries on Love open with recognition rather than introduction, and the two-wills doctrine of the later units arrives as the resolution of a felt problem rather than technical excursus."
+          "text": "Nazianzen and Dionysius, just read; the Evagrian ascetical tradition; and the conciliar Christological tradition from Cyril through Chalcedon. This stage supplies the second and third."
         },
         {
           "type": "list",
@@ -4280,7 +4280,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "The conciliar spine otherwise runs Chalcedon to Constantinople III and then to the hesychast councils, skipping the seventh council entire. With the northern stage (Stage 12) ahead, the gap is load-bearing: everything read there presupposes the theology of matter this stage supplies."
+          "text": "The conciliar spine otherwise runs Chalcedon to Constantinople III and then to the hesychast councils, skipping the seventh council entire. Stage 12 presupposes the theology of matter this stage supplies."
         },
         {
           "type": "list",
@@ -4414,7 +4414,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "This stage may be taken before or after Stage 11. Its purpose is comparison, not the construction of a single East-West contest with a predetermined winner."
+          "text": "This stage may be taken before or after Stage 11. Its purpose is comparison of the two traditions."
         },
         {
           "type": "list",
@@ -4873,7 +4873,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "This stage studies one major later Byzantine reception of themes encountered in Athanasius, the Cappadocians, Dionysius, and Maximus. Climacus supplies an ascetical pedagogy, Symeon an experiential and poetic witness, and Palamas a fourteenth-century conceptual and conciliar defense. The stage should not be used to make every earlier author a latent Palamite; its purpose is to test continuity, development, and genuine novelty."
+          "text": "This stage studies one major later Byzantine reception of themes encountered in Athanasius, the Cappadocians, Dionysius, and Maximus. Climacus supplies an ascetical pedagogy, Symeon an experiential and poetic witness, and Palamas a fourteenth-century conceptual and conciliar defense. The points of comparison are continuity, development, and genuine novelty."
         },
         {
           "type": "list",
@@ -5285,13 +5285,13 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "What is sought under the popular name \"Christian Druidism\" is pursued here under a name the sources can bear. The stage tests, on the North's own documents, the operation Gregory prescribed to Mellitus — consecrate the temple, destroy only the idol — and receives creation-as-theophany as doctrine rather than mood, from Maximus through Eriugena. Latin becomes a primary reading language for long stretches; the vernaculars are read in translation with the source text always on the desk; Greek islands keep the spine taut. The stage ends at the Mother of God as the personal face of creation — the doorstep of Stage 13."
+          "text": "Insular Christianity and its meeting with the pre-Christian North, read from the primary documents; creation-as-theophany from Maximus through Eriugena. Latin becomes a primary reading language for long stretches; vernaculars are read in translation with the source text on the desk. The stage ends at the Mother of God and leads into Stage 13."
         },
         {
           "type": "para",
           "kind": "note",
           "label": "",
-          "text": "Methodological caution. The historical druids are nearly unrecoverable: Caesar (BG VI.13–14) and the Posidonian tradition are most of what exists, and the one doctrine reliably reported of them — transmigration of souls — is precisely what must be dropped, an operation this plan has already rehearsed on Origen's pre-existent souls (Unit 20). The hagiography sets Patrick against the druids, not beside them; and the nature-mystic \"Celtic Church\" is substantially a modern construct (Meek is the corrective, O'Loughlin the sober reconstruction, Wendy Davies the demolition of the \"Celtic Church\" itself). The primary texts are read here and the construct is allowed to fall away. The stage's native vocabulary is instead the Cambrai Homily's: bánmartre, glasmartre, dercmartre — white, green, and red martyrdom — the green martyrdom naming the vocation studied throughout: asceticism as the engine of enchantment."
+          "text": "Note. Sources for the historical druids are thin: Caesar (BG VI.13–14) and the Posidonian tradition are most of what exists; the one doctrine reliably reported of them is transmigration of souls (cf. Unit 20 on Origen's pre-existent souls). The hagiography sets Patrick against the druids, and the nature-mystic \"Celtic Church\" is largely a modern construct — Meek, O'Loughlin, and Wendy Davies are the correctives. Vocabulary from the Cambrai Homily: bánmartre, glasmartre, dercmartre — white, green, red martyrdom."
         },
         {
           "type": "para",
@@ -5896,7 +5896,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "The Russian school is read here with the patristic dossier assembled first, so that the Russians are judged from the sources and not the sources through the Russians — and so that the plan's whole-plan companion at last receives his day in court: the second, critical reading of Lossky's Essai belongs to Unit 64, where its opponent is finally in the room. The school is studied, not joined: the Church that issued the 1935 judgments and the exarchate that declined to convict are both heard, from their documents. Reading languages are noted at the units, per the standing decision: Russian originals with the Paris school's own French (Andronikof for Florensky and Bulgakov; Solovyov's Leçons at Cerf) facing, and Jakim's English as the crib."
+          "text": "The Russian school is read with the patristic dossier assembled first; the second, critical reading of Lossky's Essai belongs to Unit 64. The Church that issued the 1935 judgments and the exarchate that declined to convict are both read from their documents. Reading languages are noted at the units: Russian originals with the Paris school's own French (Andronikof for Florensky and Bulgakov; Solovyov's Leçons at Cerf) facing, and Jakim's English as the crib."
         },
         {
           "type": "para",
@@ -6392,7 +6392,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Historical sequence is not theological inevitability. Later authors may receive, reject, or transform earlier materials, but they should not be treated as the conclusions secretly contained in their predecessors. Let each author remain a genuine interlocutor before placing him within a larger Orthodox synthesis."
+          "text": "Later authors may receive, reject, or transform earlier materials; they should not be treated as the conclusions contained in their predecessors."
         }
       ]
     },
@@ -6404,7 +6404,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Before the pilot corpus, the charter. Read the founding documents of Slavic translation: Vita Constantini 16 — the Venice disputation against the trilingual heresy, with its argument that God's rain falls on all alike; the Proglas, the verse prologue to the Gospel attributed to Constantine-Cyril — the soul without letters as an eye without light; and Chernorizets Hrabar, О писменехь, the Preslav apology for the alphabet. Old Church Slavonic with Bulgarian support satisfies the source rule natively; English in Kantor, Medieval Slavic Lives of Saints and Princes; Bulgarian editions standard (verify per rule). The defeat of the trilingual heresy is the theological warrant of this entire final project; Hrabar is its apology; the Proglas its poem. Question: what did Cyril claim for Slavic that Jerome's Latin already presupposed — and does the capstone inherit the claim, or merely the permission? Timing: let the capstone's formal launch meet the 24th of May, the feast of the holy brothers and of Bulgarian letters."
+          "text": "Before the pilot corpus, read the founding documents of Slavic translation: Vita Constantini 16 — the Venice disputation against the trilingual heresy, with its argument that God's rain falls on all alike; the Proglas, the verse prologue to the Gospel attributed to Constantine-Cyril — the soul without letters as an eye without light; and Chernorizets Hrabar, О писменехь, the Preslav apology for the alphabet. Old Church Slavonic with Bulgarian support satisfies the source rule natively; English in Kantor, Medieval Slavic Lives of Saints and Princes; Bulgarian editions standard (verify per rule). Question: what did Cyril claim for Slavic that Jerome's Latin already presupposed — and does the capstone inherit the claim, or merely the permission? Timing: the capstone's formal launch may meet the 24th of May, the feast of the holy brothers and of Bulgarian letters."
         },
         {
           "type": "para",
@@ -6479,7 +6479,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Whatever form the final project takes, its standard should be the same: a precise question, direct command of the primary texts, transparent translation decisions, serious engagement with alternative interpretations, competent external review, and a conclusion that clarifies rather than merely accumulates."
+          "text": "Whatever form the final project takes, its standard should be the same: a precise question, direct command of the primary texts, transparent translation decisions, serious engagement with alternative interpretations, and competent external review."
         }
       ]
     },
