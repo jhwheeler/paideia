@@ -3931,14 +3931,14 @@ window.PLAN_DATA = {
               "items": [
                 "Maximus, Four Hundred Chapters on Love, Centuries 3–4",
                 "Maximus, Questions to Thalassius, selected",
-                "Optional: Maximus, Commentary on the Our Father, alongside the Lord's Prayer as energy allows."
+                "Maximus, Commentary on the Our Father."
               ]
             },
             {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria; selected questions and chapters stataria."
+              "text": "The Questions to Thalassius and the Commentary on the Our Father stataria; the Centuries cursoria."
             },
             {
               "type": "para",
@@ -3994,7 +3994,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria"
+          "level": "stataria"
         },
         {
           "id": "u41",
@@ -4093,7 +4093,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cycle 1: cursoria, with Greek sampling. Cycle 2: stataria, sustained, for translation work."
+              "text": "Stataria, in both cycles; the second sustained, for translation work."
             },
             {
               "type": "para",
@@ -4239,7 +4239,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": ""
+          "level": "stataria"
         },
         {
           "id": "syn8",
