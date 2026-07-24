@@ -47,7 +47,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Essays for publication. To quarry the stage syntheses and textual studies into public essays: word studies, grammatical-theological explorations, and dispatches from the translation work, continuing an established practice of writing at the intersection of philology and theology."
+          "text": "Essays for publication. To quarry the stage syntheses and textual studies into public essays: word studies, grammatical-theological explorations, and dispatches from the translation work — writing at the intersection of philology and theology."
         },
         {
           "type": "para",
@@ -187,6 +187,12 @@ window.PLAN_DATA = {
           "kind": "para",
           "label": "The order of reading",
           "text": "The plan is anchored in Christ, and the philosophy is read in service of that. Where Scripture falls in a given sitting is a matter of discernment."
+        },
+        {
+          "type": "para",
+          "kind": "para",
+          "label": "",
+          "text": "Languages. The plan assumes a working knowledge of English, Latin, French, Bulgarian, and Russian, alongside the Greek under study. Occasional German or Italian titles appear in the secondary literature; Old Church Slavonic, Old Irish, and Old English sources come with facing translations."
         },
         { "type": "subhead", "text": "Secondary reading" },
         {
@@ -4309,7 +4315,7 @@ window.PLAN_DATA = {
               "items": [
                 "John of Damascus, Three Treatises on the Divine Images: Treatise I complete; II–III as energy allows (they overlap by design).",
                 "John of Damascus, Exact Exposition of the Orthodox Faith, selections: I.1–4 (knowability, beside Oration 28), Book III on the Incarnation, IV.16 on images — read as the systematization of this plan's whole Greek inheritance and as the handbook the Latin West received as \"Damascene.\"",
-                "The horos of Nicaea II (787) — Tanner, vol. 1 (the edition already owned for Unit 38).",
+                "The horos of Nicaea II (787) — Tanner, vol. 1 (the edition used at Unit 38).",
                 "Theodore the Studite, On the Holy Icons, selections from the third refutation (the circumscribability argument).",
                 "Optional: the iconological chapters of the Synodikon of Orthodoxy (Gouillard, as at Unit 53).",
                 "John of Damascus, Dialectica (Philosophical Chapters), selections (Kotter I) — the East codifying the vocabulary Units 10 and 38 built."
@@ -5880,7 +5886,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "para",
               "label": "Between Stages 12 and 13 — the hinge shelf",
-              "text": "Michael Martin, Sophia in Exile; and Meditations on the Tarot, letters XII–XXII, with Balthasar's afterword to the German edition — the completion, from inside the Church, of a conversion document; flags as named; the second half crests at the Fool, so let it keep company with Unit 58."
+              "text": "Michael Martin, Sophia in Exile; and Meditations on the Tarot, letters XII–XXII, with Balthasar's afterword to the German edition; flags as named; the second half crests at the Fool, so let it keep company with Unit 58."
             }
           ]
         }
@@ -5998,7 +6004,7 @@ window.PLAN_DATA = {
               "kind": "prayer",
               "label": "Πρὸς προσευχὴν καὶ θεωρίαν",
               "items": [
-                "Attend one liturgy counting the Σοφία exclamations; and walk once to the basilica of Holy Wisdom that named your city — the sixth-century church still stands: the stage's subject is your postal address."
+                "Attend one liturgy counting the Σοφία exclamations; and where one is within reach, visit a church of Holy Wisdom — Sofia's sixth-century basilica, which named its city, still stands."
               ]
             }
           ],
@@ -6222,7 +6228,7 @@ window.PLAN_DATA = {
                 "The two Sophias, and ипостасность — hypostaticity, the coinage under judgment: ousia-revealed, energy, or quasi-hypostasis, across a corpus that never quite settles.",
                 "Kenosis as Ur-act — Balthasar's acknowledged debt, closing a loop with Stage 8's Cosmic Liturgy.",
                 "The Burning Bush against Unit 59: the Mother as created Sophia's summit — the Unburnt Bush as icon and thesis.",
-                "The logoi question: is created Sophia Unit 43's doctrine renamed? Wood and Loudovikos are already arguing it on the Stage 8 shelf."
+                "The logoi question: is created Sophia Unit 43's doctrine renamed? Wood and Loudovikos are already arguing it in the Stage 8 secondary reading."
               ]
             },
             {
@@ -6281,7 +6287,7 @@ window.PLAN_DATA = {
                 "Lossky, Спор о Софии — Russian; untranslated so far as known (verify).",
                 "Florovsky, Ways of Russian Theology — the sophiology sections and the pseudomorphosis thesis: the judge's alternative program, itself a party to the war.",
                 "E. Trubetskoy, Icons: Theology in Color — the loyal internal critic.",
-                "The critical reread, entire: Lossky, Essai sur la théologie mystique de l'Église d'Orient — the second pass the whole-plan companions have promised since page one, now legible as synthesis and polemic at once."
+                "The critical reread, entire: Lossky, Essai sur la théologie mystique de l'Église d'Orient — now legible as synthesis and polemic at once."
               ]
             },
             {
@@ -6364,7 +6370,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "seeds",
               "label": "Essay seeds",
-              "text": "ипостасность — a coinage under judgment; the mirror of the ἐνέργεια — Wisdom 7:26 before Palamas; Σοφία! — what the liturgy cries, and about whom; the city named Wisdom; the two readings of Lossky — a conversion document reread."
+              "text": "ипостасность — a coinage under judgment; the mirror of the ἐνέργεια — Wisdom 7:26 before Palamas; Σοφία! — what the liturgy cries, and about whom; the city named Wisdom; the two readings of Lossky."
             }
           ]
         }
@@ -6535,7 +6541,7 @@ window.PLAN_DATA = {
           "kind": "list",
           "label": "Stage 2",
           "items": [
-            "The Apostolic Fathers — Holmes, The Apostolic Fathers: Greek Texts and English Translations, already on the shelf, as the working edition: the complete corpus, full Hermas included, with a serviceable select apparatus. The SC volumes serve as the commentary layer, consulted where a unit's close work wants them — above all Camelot's Ignatius (SC 10) for the Smyrnaeans textual study and Marrou's À Diognète (SC 33); the rest as needed: 1 Clement (SC 167), Didache (SC 248), Barnabas (SC 172), Hermas (SC 53). Ehrman's Loeb (LCL 24–25) duplicates Holmes and is for the collection only."
+            "The Apostolic Fathers — Holmes, The Apostolic Fathers: Greek Texts and English Translations, as the working edition: the complete corpus, full Hermas included, with a serviceable select apparatus. The SC volumes serve as the commentary layer, consulted where a unit's close work wants them — above all Camelot's Ignatius (SC 10) for the Smyrnaeans textual study and Marrou's À Diognète (SC 33); the rest as needed: 1 Clement (SC 167), Didache (SC 248), Barnabas (SC 172), Hermas (SC 53). Ehrman's Loeb (LCL 24–25) duplicates Holmes and is for the collection only."
           ]
         },
         {
