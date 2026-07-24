@@ -153,6 +153,9 @@
     render();
   }
 
+  // Chi-Rho mark — same drawing as the favicon, in the sidebar's lighter gold
+  var CHI_RHO = "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><g fill='none' stroke='%23e1ad66' stroke-width='10' stroke-linecap='round'><path d='M50 8 V92'/><path d='M50 12 C76 12 76 44 50 44'/><path d='M26 40 74 90 M74 40 26 90'/></g></svg>";
+
   // ── dom helper ───────────────────────────────────────────
   function h(tag, attrs) {
     var el = document.createElement(tag);
@@ -323,7 +326,9 @@
     return h('nav', { class: 'sidebar' + (navOpen ? ' open' : '') },
       h('div', { class: 'side-head' },
         h('div', null,
-          h('div', { class: 'side-brand' }, 'Paideia'),
+          h('div', { class: 'side-brand-row' },
+            h('img', { class: 'side-mark', src: CHI_RHO, alt: '' }),
+            h('div', { class: 'side-brand' }, 'Paideia')),
           h('div', { class: 'side-sub' }, 'Seeds of the Logos'),
           h('div', { class: 'side-version' }, data ? data.version : '')),
         h('button', {
@@ -548,7 +553,11 @@
       pageHeader(c),
       h('div', { class: 'doc-stack' }, data.front.map(function (sec, i) { return docSection(sec, 'f' + i); })),
       data.stages.map(function (st, i) { return stageSection(st, c.stages[i]); }),
-      h('div', { class: 'doc-stack back' }, data.back.map(function (sec, i) { return docSection(sec, 'b' + i); })));
+      h('div', { class: 'doc-stack back' }, data.back.map(function (sec, i) { return docSection(sec, 'b' + i); })),
+      h('footer', { class: 'page-foot' },
+        h('a', { href: 'https://github.com/jhwheeler/paideia', target: '_blank', rel: 'noreferrer' }, 'GitHub'),
+        h('span', { class: 'foot-sep' }, '·'),
+        h('span', null, h('span', { class: 'copyleft' }, '©'), ' ' + new Date().getFullYear() + ' Jackson Holiday Wheeler')));
   }
 
   function render() {
