@@ -168,7 +168,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "Lectio continua (continuous, by stage)",
-          "text": ". Whole books of Scripture, assigned stage by stage and read alongside the stage's texts at whatever daily measure the day allows — a chapter, a paragraph, a column — so that when Origen reaches for John, the whole Gospel is already present. The strand assigns books, not languages: Greek where it feeds, English where the Greek would slow the reading, the key passages always in Greek. Books are anchored to stages, not to calendars — a book that outlasts its stage carries over into the next. Assignments stand at each stage head."
+          "text": ". Whole books of Scripture, assigned stage by stage and read alongside the stage's texts at whatever daily measure the day allows — a chapter, a paragraph, a column — so that when Origen reaches for John, the whole Gospel is already present. The reading is in Greek by default — Septuagint and New Testament — with a translation at hand where it helps; from Stage 10 the Vulgate stands beside it for reference. Books are anchored to stages, not to calendars — a book that outlasts its stage carries over into the next. Assignments stand at each stage head."
         },
         {
           "type": "para",
