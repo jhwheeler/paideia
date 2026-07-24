@@ -68,7 +68,7 @@ window.PLAN_DATA = {
           "items": [
             "Lectio stataria — the halting read: slow, construing work in the Greek, with a translation as backup.",
             "Lectio cursoria — the running read: continuous reading with the translation at hand, the Greek consulted for terms, famous passages, and spot checks.",
-            "Mixed units name both modes, dominant first: cursoria/stataria reads cursorily with stataria passes on the key sections; stataria/cursoria the reverse."
+            "Every text is read in one mode; where a unit mixes texts, its lectio note assigns them. In a cursoria unit, the passages named by the textual studies are read stataria — the studies are the stataria of a cursoria unit. The unit chip shows the dominant mode."
           ]
         }
       ]
@@ -366,7 +366,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria. Read continuously with the English translation available, while close-reading selected passages in Greek. Homeric dialect is valuable but is not the main route toward patristic Greek."
+              "text": "Cursoria; the study passages stataria. Homeric dialect is valuable but is not the main route toward patristic Greek."
             },
             {
               "type": "para",
@@ -440,7 +440,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u2",
@@ -458,7 +458,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria for direct fragments, especially Heraclitus, Parmenides, Empedocles, and Anaxagoras. Read longer testimonia translation-first and check the Greek where the philosophical vocabulary matters."
+              "text": "The direct fragments stataria — Heraclitus, Parmenides, Empedocles, Anaxagoras; the longer testimonia cursoria, checking the Greek where the philosophical vocabulary matters."
             },
             {
               "type": "para",
@@ -564,7 +564,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "stataria"
         },
         {
           "id": "u3",
@@ -662,7 +662,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Meno stataria; Phaedo cursoria/stataria."
+              "text": "Meno stataria; Phaedo cursoria."
             },
             {
               "type": "para",
@@ -747,7 +747,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria. Read in English first, then selected Greek."
+              "text": "Cursoria; the study passages stataria."
             },
             {
               "type": "para",
@@ -801,7 +801,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u6",
@@ -819,7 +819,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria."
+              "text": "Cursoria."
             },
             {
               "type": "para",
@@ -876,7 +876,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u7",
@@ -894,7 +894,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria, with the central passages in Greek."
+              "text": "Cursoria; the central passages stataria."
             },
             {
               "type": "para",
@@ -951,7 +951,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u8",
@@ -971,7 +971,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria. The first half is approachable and essential; the deductions of the second half are dense dialectical Greek — work the first deduction word by word and survey the rest with a translation."
+              "text": "Cursoria; the first deduction stataria, word by word. The first half is approachable and essential; the deductions of the second half are dense dialectical Greek — survey them with a translation."
             },
             {
               "type": "para",
@@ -1030,7 +1030,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u9",
@@ -1050,7 +1050,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria, with the cosmological core (27d–37d) in Greek."
+              "text": "Cursoria; the cosmological core (27d–37d) stataria."
             },
             {
               "type": "para",
@@ -1110,7 +1110,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u10",
@@ -1210,7 +1210,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria. Read mainly in translation, with sustained attention to Greek terminology."
+              "text": "Cursoria, with sustained attention to Greek terminology."
             },
             {
               "type": "para",
@@ -1455,7 +1455,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria. Greek primary if energy allows; English support."
+              "text": "Stataria if energy allows; otherwise cursoria."
             },
             {
               "type": "para",
@@ -1502,7 +1502,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u14",
@@ -1524,7 +1524,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria, especially for Ignatius."
+              "text": "Cursoria; Ignatius stataria."
             },
             {
               "type": "para",
@@ -1583,7 +1583,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u15",
@@ -1605,7 +1605,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria, with selected sections in Greek."
+              "text": "Cursoria; selected sections stataria."
             },
             {
               "type": "para",
@@ -1652,7 +1652,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u16",
@@ -1939,7 +1939,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria. Clement's Greek is literary and densely allusive — every page assumes the poets of Unit 1. Read the Protrepticus's opening and the key Stromateis passages closely in Greek; the rest with translation support."
+              "text": "Cursoria; the Protrepticus's opening and the key Stromateis passages stataria. Clement's Greek is literary and densely allusive — every page assumes the poets of Unit 1."
             },
             {
               "type": "para",
@@ -2024,7 +2024,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u19",
@@ -2045,7 +2045,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Origen cursoria with key sections in Greek; Philo cursoria."
+              "text": "Cursoria; Origen's key sections stataria."
             },
             {
               "type": "para",
@@ -2121,7 +2121,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria, with stataria passes on important passages."
+              "text": "Cursoria; the important passages stataria."
             },
             {
               "type": "para",
@@ -2195,7 +2195,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria. Read in translation; consult Greek for key terms."
+              "text": "Cursoria, with Greek for key terms."
             },
             {
               "type": "para",
@@ -2264,7 +2264,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Stataria/cursoria. On the Incarnation is an excellent intensive-Greek text: relatively short, rhetorically clear, and doctrinally dense."
+              "text": "Stataria. On the Incarnation is an excellent Greek training text: relatively short, rhetorically clear, and doctrinally dense."
             },
             {
               "type": "para",
@@ -2330,7 +2330,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "stataria/cursoria"
+          "level": "stataria"
         },
         {
           "id": "u23",
@@ -2353,7 +2353,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria. The Address is suitable for close Greek; On the Holy Spirit should be read selectively in Greek where prepositions, doxological formulas, and technical terms bear the argument."
+              "text": "The Address stataria; On the Holy Spirit cursoria, construing where prepositions, doxological formulas, and technical terms bear the argument."
             },
             {
               "type": "para",
@@ -2418,7 +2418,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u24",
@@ -2436,7 +2436,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Stataria/cursoria. This is a major Greek training text."
+              "text": "Stataria. This is a major Greek training text."
             },
             {
               "type": "para",
@@ -2498,7 +2498,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "stataria/cursoria"
+          "level": "stataria"
         },
         {
           "id": "u25",
@@ -2519,7 +2519,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria, with key ascent passages in Greek."
+              "text": "Cursoria; the key ascent passages stataria."
             },
             {
               "type": "para",
@@ -2567,7 +2567,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u26",
@@ -2590,7 +2590,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Nyssa cursoria/stataria; Origen cursoria with Greek sampling."
+              "text": "Nyssa cursoria, the ascent passages stataria; Origen cursoria, sampling the Greek."
             },
             {
               "type": "para",
@@ -2648,7 +2648,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "syn4",
@@ -2731,7 +2731,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria. Graceful revelatory Koine contemporary with the New Testament's; the Asclepius survives in Latin. Nock–Festugière's Budé prints both with facing French."
+              "text": "Cursoria. Graceful revelatory Koine contemporary with the New Testament's; the Asclepius survives in Latin. Nock–Festugière's Budé prints both with facing French."
             },
             {
               "type": "para",
@@ -2802,7 +2802,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u28",
@@ -2888,7 +2888,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria, translation-first."
+              "text": "Cursoria."
             },
             {
               "type": "para",
@@ -3175,7 +3175,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria, with selected Greek sections."
+              "text": "Cursoria; selected sections stataria."
             },
             {
               "type": "para",
@@ -3228,7 +3228,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u33",
@@ -3249,7 +3249,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria. Read one oration closely in Greek and the others selectively."
+              "text": "One oration stataria; the rest cursoria."
             },
             {
               "type": "para",
@@ -3306,7 +3306,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u34",
@@ -3324,7 +3324,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria, with core chapters in Greek."
+              "text": "Cursoria; the core chapters stataria."
             },
             {
               "type": "para",
@@ -3386,7 +3386,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u35",
@@ -3409,7 +3409,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria for Mystical Theology and selected Divine Names; Proclus in translation."
+              "text": "The Mystical Theology stataria; the Divine Names selections cursoria; Proclus in translation."
             },
             {
               "type": "para",
@@ -3466,7 +3466,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "stataria"
         },
         {
           "id": "u36",
@@ -3487,7 +3487,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria, with key chapters in Greek."
+              "text": "Cursoria; the key chapters stataria."
             },
             {
               "type": "para",
@@ -3537,7 +3537,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "syn6",
@@ -3626,7 +3626,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria. The κεφάλαιον genre — short, aphoristic chapters — is ideal Greek practice and the direct formal ancestor of the Centuries on Love."
+              "text": "Cursoria, with κεφάλαια taken singly stataria — the genre's short, aphoristic chapters are ideal Greek practice and the direct formal ancestor of the Centuries on Love."
             },
             {
               "type": "para",
@@ -3691,7 +3691,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u38",
@@ -3714,7 +3714,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria for Cyril's letters and the conciliar definitions — short, formulaic, terminologically decisive Greek; the Disputation cursoria/stataria."
+              "text": "Cyril's letters and the conciliar definitions stataria — short, formulaic, terminologically decisive Greek; the Disputation with Pyrrhus cursoria."
             },
             {
               "type": "para",
@@ -3787,7 +3787,7 @@ window.PLAN_DATA = {
               "text": "πάθος → passion — how suffering became romance; θέλημα φυσικόν versus γνωμικόν — Gethsemane and the patristic resolution of the freedom paradox; learning the Creed by heart in the Greek that wrote it."
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "stataria"
         }
       ]
     },
@@ -3861,7 +3861,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria, possibly one century in Greek."
+              "text": "Cursoria; possibly one full century stataria."
             },
             {
               "type": "para",
@@ -3916,7 +3916,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u40",
@@ -3938,7 +3938,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria, with selected questions and chapters in Greek."
+              "text": "Cursoria; selected questions and chapters stataria."
             },
             {
               "type": "para",
@@ -3994,7 +3994,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u41",
@@ -4016,7 +4016,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria, with the ecclesiological chapters (1–7) in Greek."
+              "text": "Cursoria; the ecclesiological chapters (1–7) stataria."
             },
             {
               "type": "para",
@@ -4073,7 +4073,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u42",
@@ -4093,7 +4093,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cycle 1: cursoria/stataria, using a modern translation with Greek sampling. Cycle 2: sustained Greek for translation work."
+              "text": "Cycle 1: cursoria, with Greek sampling. Cycle 2: stataria, sustained, for translation work."
             },
             {
               "type": "para",
@@ -4159,7 +4159,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "stataria"
         },
         {
           "id": "u43",
@@ -4325,7 +4325,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Stataria/cursoria. The Damascene's Greek is the clearest technical Greek in the plan after Athanasius."
+              "text": "Stataria. The Damascene's Greek is the clearest technical Greek in the plan after Athanasius."
             },
             {
               "type": "para",
@@ -4403,7 +4403,7 @@ window.PLAN_DATA = {
               "text": "ὕλη — the rehabilitation of matter; ἀπερίγραπτος/περιεγράφη — one prefix bearing a council; προσκύνησις lost in Latin — the Libri Carolini as translation-failure; εἰκών from Genesis to the seventh council."
             }
           ],
-          "level": "stataria/cursoria"
+          "level": "stataria"
         }
       ]
     },
@@ -4695,7 +4695,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria for the Aristotle reread; the Commentary in Latin with translation support."
+              "text": "The Aristotle reread cursoria; the Commentary in Latin with translation support."
             },
             {
               "type": "para",
@@ -4760,7 +4760,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u49",
@@ -4914,7 +4914,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria. Climacus's Greek is aphoristic, image-rich, and syntactically kinder than Maximus; excellent training prose."
+              "text": "Cursoria. Climacus's Greek is aphoristic, image-rich, and syntactically kinder than Maximus; excellent training prose."
             },
             {
               "type": "para",
@@ -4980,7 +4980,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u51",
@@ -5002,7 +5002,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria. Symeon's Greek is vivid, personal, and syntactically kinder than Maximus."
+              "text": "Cursoria. Symeon's Greek is vivid, personal, and syntactically kinder than Maximus."
             },
             {
               "type": "para",
@@ -5065,7 +5065,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u52",
@@ -5086,7 +5086,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria. Palamas's polemical Greek is late-Byzantine and scholastically inflected; read the Triads selections closely in Greek, the Chapters selectively."
+              "text": "The Triads selections stataria; the Chapters cursoria. Palamas's polemical Greek is late-Byzantine and scholastically inflected."
             },
             {
               "type": "para",
@@ -5151,7 +5151,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u53",
@@ -5173,7 +5173,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria for the Tome and Synodikon chapters; Cabasilas translation-first."
+              "text": "The Tome and Synodikon chapters cursoria; Cabasilas in translation."
             },
             {
               "type": "para",
@@ -5230,7 +5230,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "coda-st11",
@@ -5364,7 +5364,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "para",
               "label": "Latin lectio",
-              "text": "Stataria/cursoria. Patrick's Latin is rough, humble, and moving — rusticissimus by his own confession — and is excellent practice precisely because it is unliterary. Old Irish in facing translation (Murphy's diglot), the source on the desk per the standing rule."
+              "text": "Stataria. Patrick's Latin is rough, humble, and moving — rusticissimus by his own confession — and is excellent practice precisely because it is unliterary. Old Irish in facing translation (Murphy's diglot), the source on the desk per the standing rule."
             },
             {
               "type": "para",
@@ -5445,7 +5445,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "para",
               "label": "Latin lectio",
-              "text": "Cursoria/stataria. The Navigatio's Latin is simple, formulaic, and pleasant."
+              "text": "Cursoria. The Navigatio's Latin is simple, formulaic, and pleasant."
             },
             {
               "type": "para",
@@ -5532,7 +5532,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "para",
               "label": "Intensity",
-              "text": "Translation-first with facing Old English and Old Saxon per the standing rule; Bede's Latin cursoria/stataria."
+              "text": "Translation-first with facing Old English and Old Saxon per the standing rule; Bede's Latin cursoria."
             },
             {
               "type": "para",
@@ -5619,7 +5619,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "para",
               "label": "Latin lectio",
-              "text": "Cursoria/stataria. Eriugena's Latin is Greek-haunted; that is part of the pleasure."
+              "text": "Cursoria. Eriugena's Latin is Greek-haunted; that is part of the pleasure."
             },
             {
               "type": "para",
@@ -5707,7 +5707,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Cursoria/stataria for Leontius and Andrew; the Insular texts in facing translation."
+              "text": "Leontius and Andrew cursoria; the Insular texts in facing translation."
             },
             {
               "type": "para",
@@ -5772,7 +5772,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "cursoria/stataria"
+          "level": "cursoria"
         },
         {
           "id": "u59",
@@ -5797,7 +5797,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Stataria/cursoria for the Akathist — liturgical Greek already half-known by ear."
+              "text": "Stataria for the Akathist — liturgical Greek already half-known by ear."
             },
             {
               "type": "para",
@@ -5862,7 +5862,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "stataria/cursoria"
+          "level": "stataria"
         },
         {
           "id": "syn12",
@@ -5950,7 +5950,7 @@ window.PLAN_DATA = {
               "type": "para",
               "kind": "intensity",
               "label": "Greek lectio",
-              "text": "Stataria/cursoria — the stage's Greek anchor."
+              "text": "Stataria — the stage's Greek anchor."
             },
             {
               "type": "para",
@@ -6008,7 +6008,7 @@ window.PLAN_DATA = {
               ]
             }
           ],
-          "level": "stataria/cursoria"
+          "level": "stataria"
         },
         {
           "id": "u61",
