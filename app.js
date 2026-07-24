@@ -884,7 +884,7 @@
           "div",
           { class: "unit-controls" },
           u.level
-            ? h("span", { class: "level-chip" }, "Greek L" + u.level)
+            ? h("span", { class: "level-chip" }, "Greek: " + u.level)
             : null,
           control,
           h(

@@ -59,16 +59,16 @@
     },
     {
       "id": "doc1",
-      "title": "Legend for Greek intensity",
+      "title": "Legend for the lectio: stataria and cursoria",
       "blocks": [
         {
           "type": "list",
           "kind": "list",
           "label": "",
           "items": [
-            "Level 1 — Deep Greek: Read carefully in Greek, with a translation as backup.",
-            "Level 2 — Selective Greek: Read in translation or diglot, then work closely through key sections in Greek.",
-            "Level 3 — Translation-first: Read primarily in translation; consult Greek for terms, famous passages, and spot checks."
+            "Lectio stataria — the halting read: slow, construing work in the Greek, with a translation as backup.",
+            "Lectio cursoria — the running read: continuous reading with the translation at hand, the Greek consulted for terms, famous passages, and spot checks.",
+            "Mixed units name both modes, dominant first: cursoria/stataria reads cursorily with stataria passes on the key sections; stataria/cursoria the reverse."
           ]
         }
       ]
@@ -365,8 +365,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2–3. Read continuously with the English translation available, while close-reading selected passages in Greek. Homeric dialect is valuable but is not the main route toward patristic Greek."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria. Read continuously with the English translation available, while close-reading selected passages in Greek. Homeric dialect is valuable but is not the main route toward patristic Greek."
             },
             {
               "type": "para",
@@ -440,7 +440,7 @@
               ]
             }
           ],
-          "level": "2–3"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u2",
@@ -457,8 +457,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2 for direct fragments, especially Heraclitus, Parmenides, Empedocles, and Anaxagoras. Read longer testimonia translation-first and check the Greek where the philosophical vocabulary matters."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria for direct fragments, especially Heraclitus, Parmenides, Empedocles, and Anaxagoras. Read longer testimonia translation-first and check the Greek where the philosophical vocabulary matters."
             },
             {
               "type": "para",
@@ -564,7 +564,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u3",
@@ -581,8 +581,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 1. These are short and excellent texts for intensive Greek reading."
+              "label": "Greek lectio",
+              "text": "Stataria. These are short and excellent texts for intensive Greek reading."
             },
             {
               "type": "para",
@@ -640,7 +640,7 @@
               ]
             }
           ],
-          "level": "1"
+          "level": "stataria"
         },
         {
           "id": "u4",
@@ -661,8 +661,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Meno Level 1; Phaedo Level 2."
+              "label": "Greek lectio",
+              "text": "Meno stataria; Phaedo cursoria/stataria."
             },
             {
               "type": "para",
@@ -729,7 +729,7 @@
               ]
             }
           ],
-          "level": "1"
+          "level": "stataria"
         },
         {
           "id": "u5",
@@ -746,8 +746,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2. Read in English first, then selected Greek."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria. Read in English first, then selected Greek."
             },
             {
               "type": "para",
@@ -801,7 +801,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u6",
@@ -818,8 +818,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria."
             },
             {
               "type": "para",
@@ -876,7 +876,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u7",
@@ -893,8 +893,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2, with the central passages in Greek."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria, with the central passages in Greek."
             },
             {
               "type": "para",
@@ -951,7 +951,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u8",
@@ -970,8 +970,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2. The first half is approachable and essential; the deductions of the second half are dense dialectical Greek — work the first deduction word by word and survey the rest with a translation."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria. The first half is approachable and essential; the deductions of the second half are dense dialectical Greek — work the first deduction word by word and survey the rest with a translation."
             },
             {
               "type": "para",
@@ -1030,7 +1030,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u9",
@@ -1049,8 +1049,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2, with the cosmological core (27d–37d) in Greek."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria, with the cosmological core (27d–37d) in Greek."
             },
             {
               "type": "para",
@@ -1110,7 +1110,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u10",
@@ -1131,8 +1131,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 3, concept-first, with Greek for key definitions."
+              "label": "Greek lectio",
+              "text": "Cursoria, concept-first, with Greek for key definitions."
             },
             {
               "type": "para",
@@ -1189,7 +1189,7 @@
               ]
             }
           ],
-          "level": "3"
+          "level": "cursoria"
         },
         {
           "id": "u11",
@@ -1209,8 +1209,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 3. Read mainly in translation, with sustained attention to Greek terminology."
+              "label": "Greek lectio",
+              "text": "Cursoria. Read mainly in translation, with sustained attention to Greek terminology."
             },
             {
               "type": "para",
@@ -1268,7 +1268,7 @@
               ]
             }
           ],
-          "level": "3"
+          "level": "cursoria"
         },
         {
           "id": "u12",
@@ -1292,8 +1292,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 3, with Greek for key definitions."
+              "label": "Greek lectio",
+              "text": "Cursoria, with Greek for key definitions."
             },
             {
               "type": "para",
@@ -1358,7 +1358,7 @@
               "text": "Epictetus, Enchiridion (Boter; any Loeb) — an afternoon's read standing behind πάθος, ἀπάθεια, and προαίρεσις before Clement baptizes them (Unit 18) and Evagrius maps them (Unit 37). Its plain imperative Greek is also the easiest sustained active-Greek text in the plan, and the paraphrase under Nilus's name is the same handbook rewritten for monks."
             }
           ],
-          "level": "3"
+          "level": "cursoria"
         },
         {
           "id": "syn1",
@@ -1454,8 +1454,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2–3. Greek primary if energy allows; English support."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria. Greek primary if energy allows; English support."
             },
             {
               "type": "para",
@@ -1502,7 +1502,7 @@
               ]
             }
           ],
-          "level": "2–3"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u14",
@@ -1523,8 +1523,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2, especially for Ignatius."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria, especially for Ignatius."
             },
             {
               "type": "para",
@@ -1583,7 +1583,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u15",
@@ -1604,8 +1604,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2, with selected sections in Greek."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria, with selected sections in Greek."
             },
             {
               "type": "para",
@@ -1652,7 +1652,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u16",
@@ -1801,8 +1801,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 3. Against Heresies survives chiefly in an ancient Latin translation, while the Demonstration survives in Armenian. Read in translation or Latin where available, consult surviving Greek fragments, and keep the Greek of the governing scriptural texts in view."
+              "label": "Greek lectio",
+              "text": "Cursoria. Against Heresies survives chiefly in an ancient Latin translation, while the Demonstration survives in Armenian. Read in translation or Latin where available, consult surviving Greek fragments, and keep the Greek of the governing scriptural texts in view."
             },
             {
               "type": "para",
@@ -1867,7 +1867,7 @@
               ]
             }
           ],
-          "level": "3"
+          "level": "cursoria"
         }
       ]
     },
@@ -1938,8 +1938,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2–3. Clement's Greek is literary and densely allusive — every page assumes the poets of Unit 1. Read the Protrepticus's opening and the key Stromateis passages closely in Greek; the rest with translation support."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria. Clement's Greek is literary and densely allusive — every page assumes the poets of Unit 1. Read the Protrepticus's opening and the key Stromateis passages closely in Greek; the rest with translation support."
             },
             {
               "type": "para",
@@ -2024,7 +2024,7 @@
               ]
             }
           ],
-          "level": "2–3"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u19",
@@ -2044,8 +2044,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Origen Level 3 with key sections in Greek; Philo Level 3."
+              "label": "Greek lectio",
+              "text": "Origen cursoria with key sections in Greek; Philo cursoria."
             },
             {
               "type": "para",
@@ -2099,7 +2099,7 @@
               ]
             }
           ],
-          "level": "3"
+          "level": "cursoria"
         },
         {
           "id": "u20",
@@ -2120,8 +2120,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 3, with selective Level 2 work on important passages."
+              "label": "Greek lectio",
+              "text": "Cursoria, with stataria passes on important passages."
             },
             {
               "type": "para",
@@ -2177,7 +2177,7 @@
               ]
             }
           ],
-          "level": "3"
+          "level": "cursoria"
         },
         {
           "id": "u21",
@@ -2194,8 +2194,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 3. Read in translation; consult Greek for key terms."
+              "label": "Greek lectio",
+              "text": "Cursoria. Read in translation; consult Greek for key terms."
             },
             {
               "type": "para",
@@ -2243,7 +2243,7 @@
               ]
             }
           ],
-          "level": "3"
+          "level": "cursoria"
         },
         {
           "id": "u22",
@@ -2263,8 +2263,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 1–2. On the Incarnation is an excellent intensive-Greek text: relatively short, rhetorically clear, and doctrinally dense."
+              "label": "Greek lectio",
+              "text": "Stataria/cursoria. On the Incarnation is an excellent intensive-Greek text: relatively short, rhetorically clear, and doctrinally dense."
             },
             {
               "type": "para",
@@ -2330,7 +2330,7 @@
               ]
             }
           ],
-          "level": "1–2"
+          "level": "stataria/cursoria"
         },
         {
           "id": "u23",
@@ -2352,8 +2352,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2. The Address is suitable for close Greek; On the Holy Spirit should be read selectively in Greek where prepositions, doxological formulas, and technical terms bear the argument."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria. The Address is suitable for close Greek; On the Holy Spirit should be read selectively in Greek where prepositions, doxological formulas, and technical terms bear the argument."
             },
             {
               "type": "para",
@@ -2418,7 +2418,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u24",
@@ -2435,8 +2435,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 1–2. This is a major Greek training text."
+              "label": "Greek lectio",
+              "text": "Stataria/cursoria. This is a major Greek training text."
             },
             {
               "type": "para",
@@ -2498,7 +2498,7 @@
               ]
             }
           ],
-          "level": "1–2"
+          "level": "stataria/cursoria"
         },
         {
           "id": "u25",
@@ -2518,8 +2518,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2, with key ascent passages in Greek."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria, with key ascent passages in Greek."
             },
             {
               "type": "para",
@@ -2567,7 +2567,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u26",
@@ -2589,8 +2589,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Nyssa Level 2; Origen Level 3 with Greek sampling."
+              "label": "Greek lectio",
+              "text": "Nyssa cursoria/stataria; Origen cursoria with Greek sampling."
             },
             {
               "type": "para",
@@ -2648,7 +2648,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "syn4",
@@ -2730,8 +2730,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2. Graceful revelatory Koine contemporary with the New Testament's; the Asclepius survives in Latin. Nock–Festugière's Budé prints both with facing French."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria. Graceful revelatory Koine contemporary with the New Testament's; the Asclepius survives in Latin. Nock–Festugière's Budé prints both with facing French."
             },
             {
               "type": "para",
@@ -2802,7 +2802,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u28",
@@ -2822,8 +2822,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 3."
+              "label": "Greek lectio",
+              "text": "Cursoria."
             },
             {
               "type": "para",
@@ -2870,7 +2870,7 @@
               ]
             }
           ],
-          "level": "3"
+          "level": "cursoria"
         },
         {
           "id": "u29",
@@ -2887,8 +2887,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 3, translation-first."
+              "label": "Greek lectio",
+              "text": "Cursoria, translation-first."
             },
             {
               "type": "para",
@@ -2946,7 +2946,7 @@
               ]
             }
           ],
-          "level": "3"
+          "level": "cursoria"
         },
         {
           "id": "u30",
@@ -2963,8 +2963,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 3."
+              "label": "Greek lectio",
+              "text": "Cursoria."
             },
             {
               "type": "para",
@@ -3020,7 +3020,7 @@
               ]
             }
           ],
-          "level": "3"
+          "level": "cursoria"
         },
         {
           "id": "u31",
@@ -3037,8 +3037,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 3."
+              "label": "Greek lectio",
+              "text": "Cursoria."
             },
             {
               "type": "para",
@@ -3086,7 +3086,7 @@
               ]
             }
           ],
-          "level": "3"
+          "level": "cursoria"
         },
         {
           "id": "syn5",
@@ -3174,8 +3174,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2, with selected Greek sections."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria, with selected Greek sections."
             },
             {
               "type": "para",
@@ -3228,7 +3228,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u33",
@@ -3248,8 +3248,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2. Read one oration closely in Greek and the others selectively."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria. Read one oration closely in Greek and the others selectively."
             },
             {
               "type": "para",
@@ -3306,7 +3306,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u34",
@@ -3323,8 +3323,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2, with core chapters in Greek."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria, with core chapters in Greek."
             },
             {
               "type": "para",
@@ -3386,7 +3386,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u35",
@@ -3408,8 +3408,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2 for Mystical Theology and selected Divine Names; Proclus in translation."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria for Mystical Theology and selected Divine Names; Proclus in translation."
             },
             {
               "type": "para",
@@ -3466,7 +3466,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u36",
@@ -3486,8 +3486,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2, with key chapters in Greek."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria, with key chapters in Greek."
             },
             {
               "type": "para",
@@ -3537,7 +3537,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "syn6",
@@ -3625,8 +3625,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2. The κεφάλαιον genre — short, aphoristic chapters — is ideal Greek practice and the direct formal ancestor of the Centuries on Love."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria. The κεφάλαιον genre — short, aphoristic chapters — is ideal Greek practice and the direct formal ancestor of the Centuries on Love."
             },
             {
               "type": "para",
@@ -3691,7 +3691,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u38",
@@ -3713,8 +3713,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2 for Cyril's letters and the conciliar definitions — short, formulaic, terminologically decisive Greek; the Disputation Level 2–3."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria for Cyril's letters and the conciliar definitions — short, formulaic, terminologically decisive Greek; the Disputation cursoria/stataria."
             },
             {
               "type": "para",
@@ -3787,7 +3787,7 @@
               "text": "πάθος → passion — how suffering became romance; θέλημα φυσικόν versus γνωμικόν — Gethsemane and the patristic resolution of the freedom paradox; learning the Creed by heart in the Greek that wrote it."
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         }
       ]
     },
@@ -3860,8 +3860,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2, possibly one century in Greek."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria, possibly one century in Greek."
             },
             {
               "type": "para",
@@ -3916,7 +3916,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u40",
@@ -3937,8 +3937,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2, with selected questions and chapters in Greek."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria, with selected questions and chapters in Greek."
             },
             {
               "type": "para",
@@ -3994,7 +3994,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u41",
@@ -4015,8 +4015,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2, with the ecclesiological chapters (1–7) in Greek."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria, with the ecclesiological chapters (1–7) in Greek."
             },
             {
               "type": "para",
@@ -4073,7 +4073,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u42",
@@ -4092,8 +4092,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Cycle 1: Level 2, using a modern translation with Greek sampling. Cycle 2: sustained Greek for translation work."
+              "label": "Greek lectio",
+              "text": "Cycle 1: cursoria/stataria, using a modern translation with Greek sampling. Cycle 2: sustained Greek for translation work."
             },
             {
               "type": "para",
@@ -4159,7 +4159,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u43",
@@ -4178,7 +4178,7 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
+              "label": "Greek lectio",
               "text": "Use the same two-cycle pattern as Unit 42, later returning to selected Ambigua for targeted translation into Bulgarian."
             },
             {
@@ -4324,8 +4324,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 1–2. The Damascene's Greek is the clearest technical Greek in the plan after Athanasius."
+              "label": "Greek lectio",
+              "text": "Stataria/cursoria. The Damascene's Greek is the clearest technical Greek in the plan after Athanasius."
             },
             {
               "type": "para",
@@ -4403,7 +4403,7 @@
               "text": "ὕλη — the rehabilitation of matter; ἀπερίγραπτος/περιεγράφη — one prefix bearing a council; προσκύνησις lost in Latin — the Libri Carolini as translation-failure; εἰκών from Genesis to the seventh council."
             }
           ],
-          "level": "1–2"
+          "level": "stataria/cursoria"
         }
       ]
     },
@@ -4694,8 +4694,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2 for the Aristotle reread; the Commentary in Latin with translation support."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria for the Aristotle reread; the Commentary in Latin with translation support."
             },
             {
               "type": "para",
@@ -4760,7 +4760,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u49",
@@ -4913,8 +4913,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2. Climacus's Greek is aphoristic, image-rich, and syntactically kinder than Maximus; excellent training prose."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria. Climacus's Greek is aphoristic, image-rich, and syntactically kinder than Maximus; excellent training prose."
             },
             {
               "type": "para",
@@ -4980,7 +4980,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u51",
@@ -5001,8 +5001,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2. Symeon's Greek is vivid, personal, and syntactically kinder than Maximus."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria. Symeon's Greek is vivid, personal, and syntactically kinder than Maximus."
             },
             {
               "type": "para",
@@ -5065,7 +5065,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u52",
@@ -5085,8 +5085,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2–3. Palamas's polemical Greek is late-Byzantine and scholastically inflected; read the Triads selections closely in Greek, the Chapters selectively."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria. Palamas's polemical Greek is late-Byzantine and scholastically inflected; read the Triads selections closely in Greek, the Chapters selectively."
             },
             {
               "type": "para",
@@ -5151,7 +5151,7 @@
               ]
             }
           ],
-          "level": "2–3"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u53",
@@ -5172,8 +5172,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2–3 for the Tome and Synodikon chapters; Cabasilas translation-first."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria for the Tome and Synodikon chapters; Cabasilas translation-first."
             },
             {
               "type": "para",
@@ -5230,7 +5230,7 @@
               ]
             }
           ],
-          "level": "2–3"
+          "level": "cursoria/stataria"
         },
         {
           "id": "coda-st11",
@@ -5363,8 +5363,8 @@
             {
               "type": "para",
               "kind": "para",
-              "label": "Latin intensity",
-              "text": "Level 1–2. Patrick's Latin is rough, humble, and moving — rusticissimus by his own confession — and is excellent practice precisely because it is unliterary. Old Irish in facing translation (Murphy's diglot), the source on the desk per the standing rule."
+              "label": "Latin lectio",
+              "text": "Stataria/cursoria. Patrick's Latin is rough, humble, and moving — rusticissimus by his own confession — and is excellent practice precisely because it is unliterary. Old Irish in facing translation (Murphy's diglot), the source on the desk per the standing rule."
             },
             {
               "type": "para",
@@ -5444,8 +5444,8 @@
             {
               "type": "para",
               "kind": "para",
-              "label": "Latin intensity",
-              "text": "Level 2. The Navigatio's Latin is simple, formulaic, and pleasant."
+              "label": "Latin lectio",
+              "text": "Cursoria/stataria. The Navigatio's Latin is simple, formulaic, and pleasant."
             },
             {
               "type": "para",
@@ -5532,7 +5532,7 @@
               "type": "para",
               "kind": "para",
               "label": "Intensity",
-              "text": "Translation-first with facing Old English and Old Saxon per the standing rule; Bede's Latin at Level 2."
+              "text": "Translation-first with facing Old English and Old Saxon per the standing rule; Bede's Latin cursoria/stataria."
             },
             {
               "type": "para",
@@ -5618,8 +5618,8 @@
             {
               "type": "para",
               "kind": "para",
-              "label": "Latin intensity",
-              "text": "Level 2. Eriugena's Latin is Greek-haunted; that is part of the pleasure."
+              "label": "Latin lectio",
+              "text": "Cursoria/stataria. Eriugena's Latin is Greek-haunted; that is part of the pleasure."
             },
             {
               "type": "para",
@@ -5706,8 +5706,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 2 for Leontius and Andrew; the Insular texts in facing translation."
+              "label": "Greek lectio",
+              "text": "Cursoria/stataria for Leontius and Andrew; the Insular texts in facing translation."
             },
             {
               "type": "para",
@@ -5772,7 +5772,7 @@
               ]
             }
           ],
-          "level": "2"
+          "level": "cursoria/stataria"
         },
         {
           "id": "u59",
@@ -5796,8 +5796,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 1–2 for the Akathist — liturgical Greek already half-known by ear."
+              "label": "Greek lectio",
+              "text": "Stataria/cursoria for the Akathist — liturgical Greek already half-known by ear."
             },
             {
               "type": "para",
@@ -5862,7 +5862,7 @@
               ]
             }
           ],
-          "level": "1–2"
+          "level": "stataria/cursoria"
         },
         {
           "id": "syn12",
@@ -5949,8 +5949,8 @@
             {
               "type": "para",
               "kind": "intensity",
-              "label": "Greek intensity",
-              "text": "Level 1–2 — the stage's Greek anchor."
+              "label": "Greek lectio",
+              "text": "Stataria/cursoria — the stage's Greek anchor."
             },
             {
               "type": "para",
@@ -6008,7 +6008,7 @@
               ]
             }
           ],
-          "level": "1–2"
+          "level": "stataria/cursoria"
         },
         {
           "id": "u61",
