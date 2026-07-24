@@ -557,7 +557,9 @@
       h('footer', { class: 'page-foot' },
         h('a', { href: 'https://github.com/jhwheeler/paideia', target: '_blank', rel: 'noreferrer' }, 'GitHub'),
         h('span', { class: 'foot-sep' }, '·'),
-        h('span', null, h('span', { class: 'copyleft' }, '©'), ' ' + new Date().getFullYear() + ' Jackson Holiday Wheeler')));
+        h('span', null, h('span', { class: 'copyleft' }, '©'), ' ' + new Date().getFullYear() + ' Jackson Holiday Wheeler'),
+        h('span', { class: 'foot-sep' }, '·'),
+        h('a', { href: 'https://creativecommons.org/licenses/by-sa/4.0/', target: '_blank', rel: 'noreferrer' }, 'CC BY-SA 4.0')));
   }
 
   function render() {

@@ -57,3 +57,7 @@ gh api repos/{owner}/paideia/pages -X POST -f build_type=workflow # or enable Pa
 
 Note: Pages sites are public even on private repos (the URL is just unlisted).
 That's fine here — progress lives in the gist, not the site.
+
+## License
+
+[CC BY-SA 4.0](LICENSE) — share and adapt freely, with attribution, under the same terms.
