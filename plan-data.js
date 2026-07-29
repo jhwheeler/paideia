@@ -1,7 +1,7 @@
 window.PLAN_DATA = {
   "title": "Paideia",
   "subtitle": "Seeds of the Logos",
-  "version": "July 2026 · v7.2",
+  "version": "July 2026 · v7.3",
   "front": [
     {
       "id": "doc0",
@@ -6497,7 +6497,7 @@ window.PLAN_DATA = {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Everything the plan asks to be acquired or borrowed, gathered from the stage and unit notes. Editions repeat the document's own recommendations; where the plan names none, a standard available edition is suggested, and any reliable version serves. Per the document's working rule, Sources Chrétiennes is primary wherever it covers a text — Greek with facing French and full apparatus — and English versions appear only where no SC exists. Series numbers come from standard bibliographies: verify against the catalogue before bulk ordering."
+          "text": "Everything the plan asks to be acquired or borrowed, gathered from the stage and unit notes. In C.2, editions are grouped by the stage of first assigned use; bridge readings are listed between stages, and later reuse is noted explicitly. Editions repeat the document's own recommendations; where the plan names none, a standard available edition is suggested, and any reliable version serves. Per the document's working rule, Sources Chrétiennes is primary wherever it covers a text — Greek with facing French and full apparatus — and English versions appear only where no SC exists. Series numbers come from standard bibliographies: verify against the catalogue before bulk ordering."
         },
         { "type": "subhead", "text": "C.1 — Scripture" },
         {
@@ -6510,7 +6510,7 @@ window.PLAN_DATA = {
             "Latin Vulgate — Weber–Gryson, Biblia Sacra Vulgata, editio quinta. On the shelf from Stage 10, for reference beside Augustine, Boethius, and Aquinas; nothing assigned from it — but Romans 5:12, in quo omnes peccaverunt beside ἐφ' ᾧ πάντες ἥμαρτον, is the one verse where the Latin must be seen to understand what the West built on it."
           ]
         },
-        { "type": "subhead", "text": "C.2 — Primary texts by stage" },
+        { "type": "subhead", "text": "C.2 — Primary editions by first-use stage" },
         {
           "type": "list",
           "kind": "list",
@@ -6526,14 +6526,13 @@ window.PLAN_DATA = {
             "Plato, Parmenides — LCL 167 (with Cratylus, Greater Hippias, Lesser Hippias).",
             "Plato, Timaeus — LCL 234 (with Critias, Cleitophon, Menexenus, Epistles).",
             "Plato, Symposium — LCL 166 (Diotima's speech).",
-            "Plato, Theaetetus — LCL 123 (for the 176b satellite at Clement).",
             "Aristotle, Categories and On Interpretation — LCL 325.",
             "Aristotle, On the Soul — LCL 288.",
             "Aristotle, Physics — LCL 228 and 255.",
             "Aristotle, Nicomachean Ethics — LCL 73.",
             "Aristotle, Metaphysics — LCL 271 and 287 (reused at Stage 10).",
             "Porphyry, Isagoge — Barnes (Clarendon); Busse's CAG text.",
-            "Epictetus, Enchiridion — Boter's critical text; any Loeb."
+            "Epictetus, Enchiridion — Boter's critical text; or Oldfather, Epictetus II, LCL 218 (any printing)."
           ]
         },
         {
@@ -6559,6 +6558,8 @@ window.PLAN_DATA = {
           "kind": "list",
           "label": "Stage 4",
           "items": [
+            "Plato, Theaetetus 176a–b — LCL 123 (Unit 18 satellite).",
+            "Tertullian, De praescriptione haereticorum 7 — short Unit 18 satellite; any reliable Latin text or digital edition; no separate purchase required.",
             "Clement of Alexandria, Protrepticus, with Quis dives salvetur — LCL 92 (Butterworth, 1919); Greek–French in SC 2.",
             "Clement, Paedagogus — SC 70, 108, 158.",
             "Clement, Stromateis — Stromate I in SC 30, V in SC 278–279, VII in SC 428.",
@@ -6686,6 +6687,15 @@ window.PLAN_DATA = {
         {
           "type": "list",
           "kind": "list",
+          "label": "Bridge: Stages 12–13",
+          "items": [
+            "Michael Martin, Sophia in Exile.",
+            "Tomberg, Meditations on the Tarot, Letters XII–XXII — Powell's translation, with Balthasar's afterword."
+          ]
+        },
+        {
+          "type": "list",
+          "kind": "list",
           "label": "Stage 13",
           "items": [
             "Athanasius, Contra Arianos II — Anatolios's selections or NPNF; Metzler–Savvidis for the text.",
@@ -6696,8 +6706,7 @@ window.PLAN_DATA = {
             "Lossky — Спор о Софии (Russian; verify translation status).",
             "Florovsky — Ways of Russian Theology, 2 vols.",
             "E. Trubetskoy — Icons: Theology in Color (SVS).",
-            "Frank — The Unknowable (Jakim).",
-            "Tomberg — Meditations on the Tarot (Powell's translation, with Balthasar's afterword)."
+            "Frank — The Unknowable (Jakim)."
           ]
         },
         { "type": "subhead", "text": "C.3 — Reference tools" },
