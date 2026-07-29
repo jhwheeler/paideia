@@ -1,6 +1,6 @@
 # Paideia — Seeds of the Logos: study tracker
 
-A single-page study tracker for the *Paideia — Seeds of the Logos* reading plan (v7.3).
+A single-page study tracker for the *Paideia — Seeds of the Logos* reading plan (v7.4).
 Static site, no build step, no dependencies.
 
 ## Files

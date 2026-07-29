@@ -20,6 +20,7 @@
   } catch (e) {}
   if (!track.memos) track.memos = {};
   if (!track.lectio) track.lectio = {};
+  if (!track.library) track.library = {};
   if (!track.updatedAt) track.updatedAt = 0;
 
   var sync = { token: "", gistId: "" };
@@ -33,6 +34,7 @@
   var expanded = {};
   var open = {};
   var navOpen = false;
+  var libNeededOnly = false;
   var syncPanelOpen = false;
   var syncStatus = {
     state: sync.token && sync.gistId ? "idle" : "off",
@@ -132,6 +134,7 @@
           track = remote;
           if (!track.memos) track.memos = {};
           if (!track.lectio) track.lectio = {};
+          if (!track.library) track.library = {};
           saveLocal();
           setSync("synced");
           render();
@@ -313,9 +316,23 @@
       memosTotal: 0,
       lectioDone: 0,
       lectioTotal: 0,
+      libOwned: 0,
+      libOrdered: 0,
+      libTotal: 0,
       reading: [],
       stages: [],
     };
+    data.back.forEach(function (sec) {
+      (sec.blocks || []).forEach(function (b) {
+        if (b.kind !== "library") return;
+        b.items.forEach(function (it) {
+          c.libTotal++;
+          var v = track.library[it.id];
+          if (v === true) c.libOwned++;
+          else if (v === "wip") c.libOrdered++;
+        });
+      });
+    });
     data.stages.forEach(function (st) {
       var sDone = 0,
         sTotal = 0;
@@ -497,6 +514,7 @@
             { class: "side-counts" },
             h("span", null, "Texts " + c.textsRead + "/" + c.textsTotal),
             h("span", null, "Lectio " + c.lectioDone + "/" + c.lectioTotal),
+            h("span", null, "Library " + c.libOwned + "/" + c.libTotal),
             c.reading.length
               ? h("span", null, "Reading " + c.reading.length)
               : null,
@@ -614,20 +632,113 @@
         "ul",
         null,
         (b.items || []).map(function (it) {
-          return h("li", null, it);
+          return h("li", null, typeof it === "string" ? it : it.t);
         }),
       ),
     );
   }
 
   // ── documents (front / back matter) ──────────────────────
+  // library items are keyed by their id in plan-data, so plan edits never
+  // shift ownership marks
+  var LIB_HINT = "Click: needed → ordered → owned";
+  function libraryList(b) {
+    var owned = 0;
+    b.items.forEach(function (it) {
+      if (track.library[it.id] === true) owned++;
+    });
+    var shown = libNeededOnly
+      ? b.items.filter(function (it) {
+          return track.library[it.id] !== true;
+        })
+      : b.items;
+    if (libNeededOnly && !shown.length) return null;
+    return h(
+      "div",
+      { class: "checklist" },
+      h(
+        "div",
+        { class: "checklist-label lib-head" },
+        h("span", null, b.label || ""),
+        h("span", { class: "lib-count" }, owned + "/" + b.items.length),
+      ),
+      h(
+        "div",
+        { class: "checklist-items" },
+        shown.map(function (it) {
+          var s = checkState(track.library[it.id]);
+          return h(
+            "label",
+            { class: "check-row", title: LIB_HINT },
+            h("input", {
+              type: "checkbox",
+              checked: s.done,
+              indeterminate: s.wip,
+              onclick: function (e) {
+                e.preventDefault();
+                setMark(track.library, it.id);
+              },
+            }),
+            h(
+              "span",
+              { class: "check-text" + (s.done ? " lib-owned" : "") },
+              it.t,
+            ),
+            s.wip ? h("span", { class: "wip-chip" }, "ordered") : null,
+          );
+        }),
+      ),
+    );
+  }
+  function libToolbar(sec) {
+    var total = 0,
+      owned = 0,
+      ordered = 0;
+    sec.blocks.forEach(function (b) {
+      if (b.kind !== "library") return;
+      b.items.forEach(function (it) {
+        total++;
+        var v = track.library[it.id];
+        if (v === true) owned++;
+        else if (v === "wip") ordered++;
+      });
+    });
+    return h(
+      "div",
+      { class: "lib-toolbar" },
+      h(
+        "span",
+        { class: "lib-summary" },
+        owned +
+          " of " +
+          total +
+          " owned" +
+          (ordered ? " · " + ordered + " ordered" : ""),
+      ),
+      h(
+        "button",
+        {
+          class: "btn-line " + (libNeededOnly ? "accent" : "neutral"),
+          onclick: function () {
+            libNeededOnly = !libNeededOnly;
+            render();
+          },
+        },
+        libNeededOnly ? "Showing needed only" : "Show needed only",
+      ),
+    );
+  }
   function docBlock(b) {
     if (b.type === "subhead") return h("h3", { class: "doc-subhead" }, b.text);
+    if (b.kind === "library") return libraryList(b);
     if (b.type === "list") return genList(b);
     return h("p", { class: "doc-para" }, labelStrong(b), b.text);
   }
   function docSection(sec, key) {
     var isOpen = !!open[key];
+    var hasLibrary = sec.blocks.some(function (b) {
+      return b.kind === "library";
+    });
     return h(
       "section",
       { id: "doc-" + key, class: "doc-card" },
@@ -643,7 +754,13 @@
         h("span", { class: "doc-title" }, sec.title),
         h("span", { class: "chev" }, isOpen ? "▾" : "▸"),
       ),
-      isOpen && h("div", { class: "doc-body" }, sec.blocks.map(docBlock)),
+      isOpen &&
+        h(
+          "div",
+          { class: "doc-body" },
+          hasLibrary && libToolbar(sec),
+          sec.blocks.map(docBlock),
+        ),
     );
   }
 
