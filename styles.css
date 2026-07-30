@@ -1,6 +1,45 @@
 /* Classical — design-system tokens and component classes. This file is the source of truth for the system's look; retune it here and see readme.md. */
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600&family=Lora:wght@400;600&display=swap');
 
+/* Google now ships Lora with a "math" subset whose unicode-range covers the
+   unaccented Greek alphabet, so bare Greek letters render in Lora while
+   accented/polytonic ones fall through to another font at a different size.
+   This family claims all Greek codepoints for EB Garamond (same files Google
+   serves for its greek/greek-ext subsets); put it before Lora in a stack and
+   Greek renders uniformly while Latin is untouched. */
+@font-face {
+  font-family: 'EB Garamond Greek';
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ebgaramond/v33/SlGUmQSNjdsmc35JDF1K5GR2SDktYw.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'EB Garamond Greek';
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ebgaramond/v33/SlGUmQSNjdsmc35JDF1K5GR5SDktYw.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+@font-face {
+  font-family: 'EB Garamond Greek';
+  font-style: italic;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ebgaramond/v33/SlGWmQSNjdsmc35JDF1K5GRweDg1ZzPJ.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+@font-face {
+  font-family: 'EB Garamond Greek';
+  font-style: italic;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/ebgaramond/v33/SlGWmQSNjdsmc35JDF1K5GRweDc1ZzPJ.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+
 :root {
   --color-bg: #f3f2f2;
   --color-surface: #eae9e9;
@@ -41,11 +80,11 @@
   --color-accent-2-800: #573d14;
   --color-accent-2-900: #382810;
 
-  --font-heading: "Cormorant Garamond", system-ui, sans-serif;
+  --font-heading: "EB Garamond Greek", "Cormorant Garamond", system-ui, sans-serif;
   --font-heading-weight: 600; /* review round 3: bold retired — semibold is the
      interface headings' ceiling (they need the weight at small sizes); display
      text goes lighter still, to the normal cut (see the deck) */
-  --font-body: "Lora", system-ui, sans-serif;
+  --font-body: "EB Garamond Greek", "Lora", system-ui, sans-serif;
 
   --space-1: 4.6px;
   --space-2: 9.2px;
