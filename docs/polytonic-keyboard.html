@@ -1,0 +1,371 @@
+<title>Πολυτονικόν — polytonic keyboard reference</title>
+<style>
+  :root {
+    --bg: #F1F1EC;
+    --panel: #FBFBF7;
+    --key: #FFFFFF;
+    --ink: #23262E;
+    --muted: #71757F;
+    --line: #D8D8D0;
+    --edge: #C4C4BA;
+    --acc: #31609F;   /* ; key — acute / smooth breathing */
+    --grv: #8F3B2E;   /* ' key — grave / rough breathing */
+    --crn: #3E7C72;   /* [ key — circumflex / trema / macron */
+    --iot: #77497A;   /* ] key — iota subscript / breve */
+    --acc-bg: #E7EDF6;
+    --grv-bg: #F4E8E4;
+    --crn-bg: #E5F0EE;
+    --iot-bg: #F0E7F1;
+    --greek: "Gentium Plus", "GFS Didot", "New Athena Unicode", "Palatino Linotype", Palatino, "DejaVu Serif", "Times New Roman", serif;
+    --ui: Seravek, "Segoe UI", Avenir, system-ui, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16181D; --panel: #1E2127; --key: #262A32;
+      --ink: #DCDEE4; --muted: #8B8F99; --line: #33373F; --edge: #0E0F12;
+      --acc: #82A8DC; --grv: #DA8E77; --crn: #7FBCB0; --iot: #C393C7;
+      --acc-bg: #232E3E; --grv-bg: #382A26; --crn-bg: #21322F; --iot-bg: #322639;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #16181D; --panel: #1E2127; --key: #262A32;
+    --ink: #DCDEE4; --muted: #8B8F99; --line: #33373F; --edge: #0E0F12;
+    --acc: #82A8DC; --grv: #DA8E77; --crn: #7FBCB0; --iot: #C393C7;
+    --acc-bg: #232E3E; --grv-bg: #382A26; --crn-bg: #21322F; --iot-bg: #322639;
+  }
+  :root[data-theme="light"] {
+    --bg: #F1F1EC; --panel: #FBFBF7; --key: #FFFFFF;
+    --ink: #23262E; --muted: #71757F; --line: #D8D8D0; --edge: #C4C4BA;
+    --acc: #31609F; --grv: #8F3B2E; --crn: #3E7C72; --iot: #77497A;
+    --acc-bg: #E7EDF6; --grv-bg: #F4E8E4; --crn-bg: #E5F0EE; --iot-bg: #F0E7F1;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    background: var(--bg); color: var(--ink);
+    font-family: var(--ui); font-size: 15px; line-height: 1.5;
+    margin: 0; padding: 2.2rem 1.2rem 3rem;
+  }
+  .wrap { max-width: 1060px; margin: 0 auto; display: grid; gap: 1.9rem; }
+
+  header { display: flex; flex-wrap: wrap; align-items: baseline; gap: .4rem 1.2rem; }
+  h1 {
+    font-family: var(--greek); font-size: 2.5rem; font-weight: 500;
+    margin: 0; letter-spacing: .01em; text-wrap: balance;
+  }
+  .sub { color: var(--muted); font-size: .95rem; }
+  .sub kbd { font-size: .85em; }
+  h2 {
+    font-size: .8rem; text-transform: uppercase; letter-spacing: .14em;
+    color: var(--muted); font-weight: 600; margin: 0 0 .8rem;
+  }
+
+  kbd {
+    font-family: var(--ui); font-size: .8rem; font-weight: 600;
+    background: var(--key); border: 1px solid var(--line);
+    border-bottom: 2px solid var(--edge); border-radius: 5px;
+    padding: .1em .45em; white-space: nowrap;
+  }
+
+  /* ---------- keyboard ---------- */
+  .board {
+    background: var(--panel); border: 1px solid var(--line); border-radius: 14px;
+    padding: 14px; overflow-x: auto;
+  }
+  .board-inner { min-width: 780px; }
+  .krow { display: flex; gap: 6px; margin-bottom: 6px; }
+  .krow:last-child { margin-bottom: 0; }
+  .key {
+    flex: var(--u, 1) 1 0; min-width: 0; height: 56px; position: relative;
+    background: var(--key); border: 1px solid var(--line);
+    border-bottom: 3px solid var(--edge); border-radius: 7px;
+    padding: 4px 6px;
+  }
+  .key .b {
+    position: absolute; left: 8px; bottom: 3px;
+    font-family: var(--greek); font-size: 1.3rem; line-height: 1;
+  }
+  .key .s { position: absolute; left: 8px; top: 4px; font-size: .72rem; color: var(--muted); font-family: var(--greek); }
+  .key .r { position: absolute; right: 7px; bottom: 4px; font-size: .72rem; color: var(--muted); font-family: var(--greek); }
+  .key .lat { position: absolute; right: 7px; top: 4px; font-size: .62rem; color: var(--muted); opacity: .65; text-transform: uppercase; }
+  .key.mod .b { font-family: var(--ui); font-size: .72rem; color: var(--muted); bottom: 6px; }
+  .key.dim { background: color-mix(in srgb, var(--key) 55%, var(--panel)); }
+  .key.dim .b { font-size: 1rem; color: var(--muted); }
+
+  .key.dk-a { background: var(--acc-bg); border-color: var(--acc); box-shadow: inset 0 0 0 1px var(--acc); }
+  .key.dk-g { background: var(--grv-bg); border-color: var(--grv); box-shadow: inset 0 0 0 1px var(--grv); }
+  .key.dk-c { background: var(--crn-bg); border-color: var(--crn); box-shadow: inset 0 0 0 1px var(--crn); }
+  .key.dk-i { background: var(--iot-bg); border-color: var(--iot); box-shadow: inset 0 0 0 1px var(--iot); }
+  .key.dk-a .b, .key.dk-a .s { color: var(--acc); }
+  .key.dk-g .b, .key.dk-g .s { color: var(--grv); }
+  .key.dk-c .b, .key.dk-c .s { color: var(--crn); }
+  .key.dk-i .b, .key.dk-i .s { color: var(--iot); }
+  .key.dk-c .r, .key.dk-i .r { opacity: .8; }
+  .key.lv3 { border-style: dashed; }
+  .key.lv3 .b { color: var(--ink); }
+
+  .boardnote { margin: 10px 4px 0; font-size: .85rem; color: var(--muted); }
+
+  /* ---------- legend cards ---------- */
+  .legend { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; }
+  .lcard {
+    background: var(--panel); border: 1px solid var(--line); border-radius: 12px;
+    padding: 14px 16px; display: grid; gap: .55rem; align-content: start;
+  }
+  .lcard h3 { margin: 0; font-size: .95rem; display: flex; align-items: center; gap: .6rem; font-weight: 600; }
+  .bigkey {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 2rem; height: 2rem; border-radius: 7px; font-family: var(--ui);
+    font-size: 1rem; font-weight: 700; border: 1px solid; border-bottom-width: 3px;
+  }
+  .lcard.a .bigkey { color: var(--acc); background: var(--acc-bg); border-color: var(--acc); }
+  .lcard.g .bigkey { color: var(--grv); background: var(--grv-bg); border-color: var(--grv); }
+  .lcard.c .bigkey { color: var(--crn); background: var(--crn-bg); border-color: var(--crn); }
+  .lcard.i .bigkey { color: var(--iot); background: var(--iot-bg); border-color: var(--iot); }
+  .lrow { display: flex; justify-content: space-between; gap: .8rem; font-size: .9rem; border-top: 1px dotted var(--line); padding-top: .5rem; }
+  .lrow .g { font-family: var(--greek); font-size: 1.15rem; }
+  .lcard .mn { font-size: .8rem; color: var(--muted); font-style: italic; }
+
+  /* ---------- recipes ---------- */
+  .recipes { display: flex; flex-wrap: wrap; gap: 10px; }
+  .recipe {
+    background: var(--panel); border: 1px solid var(--line); border-radius: 10px;
+    padding: 10px 14px; display: flex; align-items: center; gap: .55rem;
+  }
+  .recipe .seq { display: flex; gap: .3rem; align-items: center; }
+  .recipe .arrow { color: var(--muted); }
+  .recipe .out { font-family: var(--greek); font-size: 1.7rem; line-height: 1; }
+  .order { font-size: .9rem; color: var(--muted); margin: .5rem 0 0; }
+  .order b { color: var(--ink); }
+
+  /* ---------- matrix ---------- */
+  .scroll { overflow-x: auto; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 6px; }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { padding: .55rem .8rem; text-align: center; }
+  th { font-size: .78rem; font-weight: 600; color: var(--muted); }
+  th .g { font-family: var(--greek); font-size: 1rem; display: block; }
+  tbody th { text-align: left; white-space: nowrap; }
+  td { font-family: var(--greek); font-size: 1.5rem; border-top: 1px dotted var(--line); }
+  td small { display: block; font-size: .95rem; color: var(--muted); }
+  .matnote { font-size: .85rem; color: var(--muted); margin-top: .5rem; }
+  .matnote .g { font-family: var(--greek); }
+
+  /* ---------- punctuation + archaic ---------- */
+  .twocol { display: grid; grid-template-columns: 1fr 1fr; gap: 1.9rem; align-items: start; }
+  @media (max-width: 760px) { .twocol { grid-template-columns: 1fr; } }
+  .plist { background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 6px 16px; }
+  .prow { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: .55rem 0; border-top: 1px dotted var(--line); font-size: .92rem; }
+  .prow:first-child { border-top: 0; }
+  .prow .g { font-family: var(--greek); font-size: 1.25rem; min-width: 2rem; }
+  .prow .what { color: var(--muted); flex: 1; }
+  .chips { display: flex; flex-wrap: wrap; gap: .45rem .8rem; background: var(--panel); border: 1px solid var(--line); border-radius: 12px; padding: 12px 16px; }
+  .chip { font-size: .9rem; color: var(--muted); }
+  .chip .g { font-family: var(--greek); font-size: 1.15rem; color: var(--ink); margin-right: .25rem; }
+
+  footer { color: var(--muted); font-size: .82rem; border-top: 1px solid var(--line); padding-top: 1rem; }
+  footer code { font-family: ui-monospace, monospace; font-size: .95em; }
+
+  @media print {
+    :root {
+      --bg: #FFFFFF; --panel: #FFFFFF; --key: #FFFFFF;
+      --ink: #1A1C22; --muted: #5A5E66; --line: #C9C9C1; --edge: #B0B0A6;
+      --acc: #31609F; --grv: #8F3B2E; --crn: #3E7C72; --iot: #77497A;
+      --acc-bg: #EDF1F8; --grv-bg: #F7EDEA; --crn-bg: #EBF3F1; --iot-bg: #F3ECF4;
+    }
+    body { padding: 0; font-size: 12px; }
+    .wrap { gap: 1.1rem; max-width: none; }
+    .board, .scroll { overflow: visible; }
+    .board-inner { min-width: 0; }
+    .key { height: 44px; }
+    footer { display: none; }
+  }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Πολυτονικόν</h1>
+    <span class="sub">Greek polytonic dead-key reference · <code>gr(polytonic)</code> · layout 4 of 4, cycle with <kbd>Win</kbd>+<kbd>Space</kbd> · <kbd>RAlt</kbd> is the third level</span>
+  </header>
+
+  <section>
+    <div class="board"><div class="board-inner">
+      <div class="krow">
+        <div class="key dim"><span class="s">~</span><span class="b">`</span><span class="r">―</span></div>
+        <div class="key dim"><span class="s">!</span><span class="b">1</span></div>
+        <div class="key dim"><span class="s">@</span><span class="b">2</span></div>
+        <div class="key dim"><span class="s">#</span><span class="b">3</span></div>
+        <div class="key dim"><span class="s">$</span><span class="b">4</span></div>
+        <div class="key dim"><span class="s">%</span><span class="b">5</span><span class="r">‰</span></div>
+        <div class="key dim"><span class="s">^</span><span class="b">6</span><span class="r">ϰ</span></div>
+        <div class="key dim"><span class="s">&amp;</span><span class="b">7</span><span class="r">ϗ</span></div>
+        <div class="key dim"><span class="s">*</span><span class="b">8</span><span class="r">₯</span></div>
+        <div class="key dim"><span class="s">(</span><span class="b">9</span></div>
+        <div class="key dim"><span class="s">)</span><span class="b">0</span></div>
+        <div class="key dim"><span class="s">_</span><span class="b">-</span></div>
+        <div class="key dim"><span class="s">+</span><span class="b">=</span></div>
+        <div class="key mod" style="--u:1.6"><span class="b">Backspace</span></div>
+      </div>
+      <div class="krow">
+        <div class="key mod" style="--u:1.6"><span class="b">Tab</span></div>
+        <div class="key"><span class="s">:</span><span class="b">;</span><span class="lat">q</span><span class="r">·</span></div>
+        <div class="key"><span class="s">Σ</span><span class="b">ς</span><span class="lat">w</span><span class="r">ϙ</span></div>
+        <div class="key"><span class="b">ε</span><span class="lat">e</span><span class="r">€</span></div>
+        <div class="key"><span class="b">ρ</span><span class="lat">r</span><span class="r">ϱ</span></div>
+        <div class="key"><span class="b">τ</span><span class="lat">t</span></div>
+        <div class="key"><span class="b">υ</span><span class="lat">y</span><span class="r">ϒ</span></div>
+        <div class="key"><span class="b">θ</span><span class="lat">u</span><span class="r">ϑ</span></div>
+        <div class="key"><span class="b">ι</span><span class="lat">i</span></div>
+        <div class="key"><span class="b">ο</span><span class="lat">o</span></div>
+        <div class="key"><span class="s">Π</span><span class="b">π</span><span class="lat">p</span><span class="r">ϖ</span></div>
+        <div class="key dk-c"><span class="s">¨</span><span class="b">῀</span><span class="lat">[</span><span class="r">¯</span></div>
+        <div class="key dk-i"><span class="b">ͺ</span><span class="lat">]</span><span class="r">˘</span></div>
+        <div class="key dim" style="--u:1.2"><span class="s">|</span><span class="b">\</span><span class="r">¬</span></div>
+      </div>
+      <div class="krow">
+        <div class="key mod" style="--u:1.9"><span class="b">Caps</span></div>
+        <div class="key"><span class="b">α</span><span class="lat">a</span></div>
+        <div class="key"><span class="b">σ</span><span class="lat">s</span><span class="r">ϛ</span></div>
+        <div class="key"><span class="b">δ</span><span class="lat">d</span></div>
+        <div class="key"><span class="b">φ</span><span class="lat">f</span><span class="r">ϝ</span></div>
+        <div class="key"><span class="b">γ</span><span class="lat">g</span></div>
+        <div class="key"><span class="b">η</span><span class="lat">h</span></div>
+        <div class="key"><span class="b">ξ</span><span class="lat">j</span></div>
+        <div class="key"><span class="b">κ</span><span class="lat">k</span><span class="r">ϗ</span></div>
+        <div class="key"><span class="b">λ</span><span class="lat">l</span></div>
+        <div class="key dk-a"><span class="s">᾿</span><span class="b">´</span><span class="lat">;</span></div>
+        <div class="key dk-g"><span class="s">῾</span><span class="b">`</span><span class="lat">'</span><span class="r">'&nbsp;"</span></div>
+        <div class="key mod" style="--u:2.1"><span class="b">Enter</span></div>
+      </div>
+      <div class="krow">
+        <div class="key mod" style="--u:2.4"><span class="b">Shift</span></div>
+        <div class="key"><span class="b">ζ</span><span class="lat">z</span></div>
+        <div class="key"><span class="b">χ</span><span class="lat">x</span></div>
+        <div class="key"><span class="b">ψ</span><span class="lat">c</span></div>
+        <div class="key"><span class="b">ω</span><span class="lat">v</span></div>
+        <div class="key"><span class="b">β</span><span class="lat">b</span><span class="r">ϡ</span></div>
+        <div class="key"><span class="b">ν</span><span class="lat">n</span></div>
+        <div class="key"><span class="b">μ</span><span class="lat">m</span></div>
+        <div class="key"><span class="s">&lt;</span><span class="b">,</span><span class="r">«&nbsp;…</span></div>
+        <div class="key"><span class="s">&gt;</span><span class="b">.</span><span class="r">»</span></div>
+        <div class="key dim"><span class="s">?</span><span class="b">/</span></div>
+        <div class="key mod" style="--u:2.9"><span class="b">Shift</span></div>
+      </div>
+      <div class="krow">
+        <div class="key mod" style="--u:1.4"><span class="b">Ctrl</span></div>
+        <div class="key mod" style="--u:1.2"><span class="b">Win</span></div>
+        <div class="key mod" style="--u:1.2"><span class="b">Alt</span></div>
+        <div class="key mod" style="--u:7"><span class="b">Win + Space cycles: us · bg · fr · gr(polytonic)</span></div>
+        <div class="key mod lv3" style="--u:1.6"><span class="b">RAlt = level 3</span></div>
+        <div class="key mod" style="--u:1.4"><span class="b">Ctrl</span></div>
+      </div>
+    </div></div>
+    <p class="boardnote">Colored keys are <b>dead keys</b>: press them <em>before</em> the vowel — nothing appears until the vowel lands. Small top-left glyph = Shift; small bottom-right = RAlt (third level). Only <kbd>]</kbd> has a standalone form (<kbd>]</kbd> + <kbd>Space</kbd> → ͺ); for the elision mark use the apostrophe <b>'</b> at <kbd>RAlt</kbd><kbd>⇧</kbd><kbd>0</kbd>.</p>
+  </section>
+
+  <section>
+    <h2>The four dead keys</h2>
+    <div class="legend">
+      <div class="lcard a">
+        <h3><span class="bigkey">;</span> acute · smooth</h3>
+        <div class="lrow"><span>plain</span><span class="g">ά</span><span>´ oxia</span></div>
+        <div class="lrow"><span>Shift</span><span class="g">ἀ</span><span>᾿ psili</span></div>
+        <div class="mn">smooth breathing pairs with acute</div>
+      </div>
+      <div class="lcard g">
+        <h3><span class="bigkey">'</span> grave · rough</h3>
+        <div class="lrow"><span>plain</span><span class="g">ὰ</span><span>` varia</span></div>
+        <div class="lrow"><span>Shift</span><span class="g">ἁ</span><span>῾ dasia</span></div>
+        <div class="mn">rough breathing pairs with grave</div>
+      </div>
+      <div class="lcard c">
+        <h3><span class="bigkey">[</span> the crown</h3>
+        <div class="lrow"><span>plain</span><span class="g">ᾶ</span><span>῀ perispomeni</span></div>
+        <div class="lrow"><span>Shift</span><span class="g">ϊ</span><span>¨ dialytika</span></div>
+        <div class="lrow"><span>RAlt</span><span class="g">ᾱ</span><span>¯ macron</span></div>
+        <div class="mn">everything that sits on the vowel's crown</div>
+      </div>
+      <div class="lcard i">
+        <h3><span class="bigkey">]</span> the subscript</h3>
+        <div class="lrow"><span>plain</span><span class="g">ᾳ</span><span>ͅ ypogegrammeni</span></div>
+        <div class="lrow"><span>RAlt</span><span class="g">ᾰ</span><span>˘ breve</span></div>
+        <div class="mn">what hangs below (or measures) the vowel</div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Recipes — stack, then strike the vowel</h2>
+    <div class="recipes">
+      <div class="recipe"><span class="seq"><kbd>;</kbd> <kbd>⇧</kbd><kbd>;</kbd> <kbd>a</kbd></span><span class="arrow">→</span><span class="out">ἄ</span></div>
+      <div class="recipe"><span class="seq"><kbd>]</kbd> <kbd>[</kbd> <kbd>⇧</kbd><kbd>'</kbd> <kbd>v</kbd></span><span class="arrow">→</span><span class="out">ᾧ</span></div>
+      <div class="recipe"><span class="seq"><kbd>[</kbd> <kbd>h</kbd></span><span class="arrow">→</span><span class="out">ῆ</span></div>
+      <div class="recipe"><span class="seq"><kbd>⇧</kbd><kbd>'</kbd> <kbd>r</kbd></span><span class="arrow">→</span><span class="out">ῥ</span></div>
+      <div class="recipe"><span class="seq"><kbd>]</kbd> <kbd>a</kbd></span><span class="arrow">→</span><span class="out">ᾳ</span></div>
+      <div class="recipe"><span class="seq"><kbd>⇧</kbd><kbd>[</kbd> <kbd>i</kbd></span><span class="arrow">→</span><span class="out">ϊ</span></div>
+      <div class="recipe"><span class="seq"><kbd>RAlt</kbd><kbd>[</kbd> <kbd>a</kbd></span><span class="arrow">→</span><span class="out">ᾱ</span></div>
+      <div class="recipe"><span class="seq"><kbd>d</kbd> <kbd>RAlt</kbd><kbd>⇧</kbd><kbd>0</kbd></span><span class="arrow">→</span><span class="out">δ'</span></div>
+    </div>
+    <p class="order">Stacking order is fixed: <b>subscript → accent → breathing → vowel</b> — the compose table defines only this direction. (Type the marks from the bottom of the glyph up; the letter lands last.)</p>
+  </section>
+
+  <section>
+    <h2>Every diacritic on α</h2>
+    <div class="scroll">
+      <table>
+        <thead>
+          <tr>
+            <th></th>
+            <th>bare</th>
+            <th><span class="g">´</span><kbd>;</kbd></th>
+            <th><span class="g">`</span><kbd>'</kbd></th>
+            <th><span class="g">῀</span><kbd>[</kbd></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><th>no breathing</th><td>α <small>ᾳ</small></td><td>ά <small>ᾴ</small></td><td>ὰ <small>ᾲ</small></td><td>ᾶ <small>ᾷ</small></td></tr>
+          <tr><th>᾿ smooth <kbd>⇧</kbd><kbd>;</kbd></th><td>ἀ <small>ᾀ</small></td><td>ἄ <small>ᾄ</small></td><td>ἂ <small>ᾂ</small></td><td>ἆ <small>ᾆ</small></td></tr>
+          <tr><th>῾ rough <kbd>⇧</kbd><kbd>'</kbd></th><td>ἁ <small>ᾁ</small></td><td>ἅ <small>ᾅ</small></td><td>ἃ <small>ᾃ</small></td><td>ἇ <small>ᾇ</small></td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="matnote">Small form = with iota subscript: <em>prefix</em> <kbd>]</kbd> to the sequence (it must come first). The same grid applies to ε, η, ι, ο, υ, ω (where the forms exist — <span class="g">ε</span> and <span class="g">ο</span> take no circumflex, only <span class="g">η ᾳ ω</span> take the subscript).</p>
+  </section>
+
+  <div class="twocol">
+    <section>
+      <h2>Punctuation</h2>
+      <div class="plist">
+        <div class="prow"><span class="g">;</span><span class="what">question mark (erotimatiko)</span><span><kbd>q</kbd></span></div>
+        <div class="prow"><span class="g">·</span><span class="what">ano teleia (raised dot)</span><span><kbd>RAlt</kbd><kbd>q</kbd></span></div>
+        <div class="prow"><span class="g">:</span><span class="what">ano-kato colon</span><span><kbd>⇧</kbd><kbd>q</kbd></span></div>
+        <div class="prow"><span class="g">« »</span><span class="what">guillemets</span><span><kbd>RAlt</kbd><kbd>,</kbd> / <kbd>RAlt</kbd><kbd>.</kbd></span></div>
+        <div class="prow"><span class="g">…</span><span class="what">ellipsis</span><span><kbd>RAlt</kbd><kbd>⇧</kbd><kbd>,</kbd></span></div>
+        <div class="prow"><span class="g">'&nbsp;"</span><span class="what">apostrophe · double quote</span><span><kbd>RAlt</kbd><kbd>'</kbd> (+<kbd>⇧</kbd>)</span></div>
+        <div class="prow"><span class="g">―</span><span class="what">horizontal bar (dialogue dash)</span><span><kbd>RAlt</kbd><kbd>`</kbd></span></div>
+        <div class="prow"><span class="g">δ'</span><span class="what">elision apostrophe (what editions print)</span><span><kbd>RAlt</kbd><kbd>⇧</kbd><kbd>0</kbd></span></div>
+        <div class="prow"><span class="g">‘ '</span><span class="what">single quotes</span><span><kbd>RAlt</kbd><kbd>⇧</kbd><kbd>9</kbd> / <kbd>RAlt</kbd><kbd>⇧</kbd><kbd>0</kbd></span></div>
+        <div class="prow"><span class="g">ͺ</span><span class="what">bare iota subscript</span><span><kbd>]</kbd> + <kbd>Space</kbd></span></div>
+      </div>
+    </section>
+    <section>
+      <h2>Antiquarian corner — RAlt levels</h2>
+      <div class="chips">
+        <span class="chip"><span class="g">ϙ</span>koppa <kbd>w</kbd></span>
+        <span class="chip"><span class="g">ϛ</span>stigma <kbd>s</kbd></span>
+        <span class="chip"><span class="g">ϝ</span>digamma <kbd>f</kbd></span>
+        <span class="chip"><span class="g">ϡ</span>sampi <kbd>b</kbd></span>
+        <span class="chip"><span class="g">ϖ</span>omega-pi <kbd>p</kbd></span>
+        <span class="chip"><span class="g">ϗ</span>kai-ligature <kbd>k</kbd></span>
+        <span class="chip"><span class="g">ϑ</span>script theta <kbd>u</kbd></span>
+        <span class="chip"><span class="g">ϱ</span>tailed rho <kbd>r</kbd></span>
+        <span class="chip"><span class="g">ϰ</span>script kappa <kbd>6</kbd></span>
+        <span class="chip"><span class="g">₯</span>drachma <kbd>8</kbd></span>
+      </div>
+      <p class="matnote">All with <kbd>RAlt</kbd>; add <kbd>⇧</kbd> for capitals (Ϙ Ϛ Ϝ Ϡ). Numerals: ϛ´ = 6, ϙ´ = 90, ϡ´ = 900.</p>
+    </section>
+  </div>
+
+  <footer>
+    Source of truth: <code>/usr/share/X11/xkb/symbols/gr</code>, variant <code>polytonic</code>, on <code>us,bg,fr,gr</code> with <code>grp:win_space_toggle</code>. Print with Ctrl+P for a PDF copy — the sheet compacts itself.
+  </footer>
+</div>
