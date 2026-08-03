@@ -1,7 +1,7 @@
 {
   "title": "Paideia",
   "subtitle": "Seeds of the Logos",
-  "version": "August 2026 · v7.7",
+  "version": "August 2026 · v7.8",
   "front": [
     {
       "id": "doc0",
@@ -1561,7 +1561,8 @@
               "items": [
                 "The Didache itself commands what this unit can practice: pray the Our Father three times daily, as Didache 8 prescribes — the oldest rule of prayer the Church possesses, kept for the length of this unit in its own Greek."
               ]
-            }
+            },
+            {"type": "para", "kind": "note", "label": "Български превод", "text": "Didache — Ivan Goshev's annotated edition (София, 1941); 1–2 Clement from the Greek in Dimitar Dimitrov's bilingual Synodal edition (2011). (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
           ],
           "level": "cursoria"
         },
@@ -1642,7 +1643,8 @@
                 "Read Smyrnaeans 6–8 on Saturday evening and attend liturgy Sunday with Ignatius's \"medicine of immortality\" in mind.",
                 "The Martyrdom of Polycarp preserves his final prayer at the stake. Pray it once as your own evening thanksgiving, and notice that it is a eucharistic anaphora in miniature."
               ]
-            }
+            },
+            {"type": "para", "kind": "note", "label": "Български превод", "text": "All seven Ignatian letters, Polycarp's To the Philippians, and the Martyrdom of Polycarp, from the Greek in Svetoslav Ribolov's Изборник (Омофор, Светоотеческо наследство, 2001) — likely out of print; acquire early. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
           ],
           "level": "cursoria"
         },
@@ -1711,7 +1713,8 @@
               "items": [
                 "Diognetus: what the soul is to the body, Christians are to the world. Practice: one anonymous act of service to your city this unit — soul-work, unseen and uncredited."
               ]
-            }
+            },
+            {"type": "para", "kind": "note", "label": "Български превод", "text": "Diognetus in Ribolov's Изборник (2001); Hermas in Nikola Antonov's translation (web text). Barnabas — no Bulgarian translation known: the corpus's one open gap, and a candidate first publication. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
           ],
           "level": "cursoria"
         },
@@ -1869,7 +1872,8 @@
               "items": [
                 "The Church keeps him as Ἰουστῖνος ὁ Φιλόσοφος (June 1) — the philosopher's cloak kept after baptism. At the day's end, ask what of your own formation the seed-claim covers; the plan's subtitle is his sentence."
               ]
-            }
+            },
+            {"type": "para", "kind": "note", "label": "Български превод", "text": "Nothing — neither Apology nor the Dialogue with Trypho appears in the catalog, and no later edition has surfaced. The subtitle's author is untranslated in Bulgarian: this unit's study passage (Second Apology 13) is the seed of a first Bulgarian Justin. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
           ],
           "level": "stataria"
         },
@@ -1956,7 +1960,8 @@
               "items": [
                 "Irenaeus insists that the same hands that formed creation also restore it. During one meal or liturgy in this unit, attend to the material gifts before you as created, offered, and destined for transfiguration rather than escape."
               ]
-            }
+            },
+            {"type": "para", "kind": "note", "label": "Български превод", "text": "Nothing — no Demonstration, no Adversus Haereses. A Bulgarian Irenaeus is chiefly a Latin-source project: AH survives whole only in Latin, the Demonstration in Armenian (critical intermediaries required). (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
           ],
           "level": "cursoria"
         }
@@ -2096,7 +2101,8 @@
                 "Clement's Christ is the Παιδαγωγός who tutors through the day's small matters — meals, speech, sleep. Practice: bless your child's bedtime once this unit with that image consciously held; the same Tutor teaches you both.",
                 "The Protrepticus calls the pagan out of the old mysteries into the true ones. At one vespers this unit, hear Φῶς ἱλαρόν — already yours ἀπὸ στήθους — as the New Song the old songs were waiting to become."
               ]
-            }
+            },
+            {"type": "para", "kind": "note", "label": "Български превод", "text": "Nothing of Clement from the original is known. The open field runs from here through Origen. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
           ],
           "level": "cursoria"
         },
@@ -2171,7 +2177,8 @@
               "items": [
                 "Origen speculates only inside the rule of faith. Recite the Creed slowly once this unit, not as a test passed but as the ecclesial grammar within which theological inquiry takes place."
               ]
-            }
+            },
+            {"type": "para", "kind": "note", "label": "Български превод", "text": "Origen: nothing — no Περὶ ἀρχῶν, no homilies, no Contra Celsum (Units 19–21 all open field). Philo likewise untranslated. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
           ],
           "level": "cursoria"
         },
@@ -2441,7 +2448,8 @@
                 "After a liturgy during this unit, reread On the Incarnation 54 and ask how Athanasius's language of exchange relates to the sacramental life without reducing the Eucharist to an illustration of a theory.",
                 "Antony heard one Gospel verse and obeyed it. Listen at one liturgy for the concrete demand of the Gospel, then test the interpretation through the duties and counsel already given to you."
               ]
-            }
+            },
+            {"type": "para", "kind": "note", "label": "Български превод", "text": "The Life of Antony exists (Dragomir Karadimchev, 2004); De Incarnatione and Contra Gentes do not — perhaps the highest-value tractable gap in the corpus: short, central, beloved. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
           ],
           "level": "stataria"
         },
@@ -6546,8 +6554,9 @@
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "The Bulgarian situation. No Bulgarian translation of the Ambigua is known. The principal published Bulgarian Maximus volume — ascetical works with the Questions to Thalassius — was translated from Russian rather than from the Greek, and has been criticized in Bulgarian Orthodox review literature on precisely those grounds, while the same literature praises the rarer translations made directly from the sources, including a Mystagogy from the Greek. The project also resumes a Slavic engagement with Maximus nearly a millennium old: excerpts in the Izbornik of 1073, a thirteenth-century Slavonic translation of the Chapters on Love, and Isaiah of Serres's 1371 translation of the Dionysian corpus with Maximus's scholia, surviving in autograph. Working references: the dveri.bg review of the published Maximus volume (dveri.bg, article id 3501); the Scripta Bulgarica entry «Максим Изповедник» (scripta-bulgarica.eu/bg/content/maksim-izpovednik); Georgi Kapriev, Максим Изповедник: Въведение в мисловната му система (Изток–Запад, 2010). Confirm each against library holdings and Bulgarian specialists before print."
+          "text": "The Bulgarian situation. Of the Ambigua, only fragments are translated — some two dozen pages from the Greek by Kristin Latif and Svetoslav Ribolov in the Архив за средновековна философия и култура (2008); the whole remains open. The principal published Bulgarian Maximus volume — ascetical works with the Questions to Thalassius — was translated from Russian rather than from the Greek, and has been criticized in Bulgarian Orthodox review literature on precisely those grounds, while the same literature praises the rarer translations made directly from the sources, including a Mystagogy from the Greek. The project also resumes a Slavic engagement with Maximus nearly a millennium old: excerpts in the Izbornik of 1073, a thirteenth-century Slavonic translation of the Chapters on Love, and Isaiah of Serres's 1371 translation of the Dionysian corpus with Maximus's scholia, surviving in autograph. Working references: the dveri.bg review of the published Maximus volume (dveri.bg, article id 3501); the Scripta Bulgarica entry «Максим Изповедник» (scripta-bulgarica.eu/bg/content/maksim-izpovednik); Georgi Kapriev, Максим Изповедник: Въведение в мисловната му система (Изток–Запад, 2010). Atanas Vatashki's catalog of patristic texts (to the 14th c.) translated into Bulgarian from the original language (prespanski.wordpress.com, 2016) — informative precisely in its silences, since it admits from-the-original versions only. Confirm each against library holdings and Bulgarian specialists before print."
         },
+        {"type": "para", "kind": "para", "label": "", "text": "The early track. The apprenticeship need not wait for Maximus. From Unit 16 the plan crosses into open field — Justin, Irenaeus, Clement, Origen, and Philo untranslated, Athanasius only half-covered — while everything before it, Homer to Aristotle, is well served in Bulgarian. Candidate first publications, each of publishable size at its unit: the Epistle of Barnabas (Unit 15), Justin's Apologies (Unit 16), Athanasius' De Incarnatione (Unit 22). Article-length patristic translation publishes in the Архив за средновековна философия и култура (Изток–Запад) and in Омофор's Светоотеческо наследство series; their conventions are the ones the plan's drafts should learn. Per-unit status stands in the Български превод notes through Stage 8."},
         { "type": "subhead", "text": "Pilot scope" },
         {
           "type": "list",
