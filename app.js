@@ -527,28 +527,35 @@
         h(
           "div",
           { class: "side-stages" },
-          data.stages.map(function (st, i) {
+          data.stages.reduce(function (rows, st, i) {
             var sc = c.stages[i];
-            return h(
-              "div",
-              { class: "side-stage", onclick: jumpTo("stage-" + st.id) },
+            if (st.part)
+              rows.push(
+                h("div", { class: "side-part" }, st.part.name.split(":")[0]),
+              );
+            rows.push(
+              h(
+                "div",
+                { class: "side-stage", onclick: jumpTo("stage-" + st.id) },
               h(
                 "div",
                 { class: "side-stage-info" },
                 h("div", { class: "side-stage-num" }, st.num),
                 h("div", { class: "side-stage-title" }, st.title),
               ),
-              h(
-                "div",
-                {
-                  class:
-                    "side-stage-count" +
-                    (sc.done === sc.total && sc.total > 0 ? " full" : ""),
-                },
-                sc.done + "/" + sc.total,
+                h(
+                  "div",
+                  {
+                    class:
+                      "side-stage-count" +
+                      (sc.done === sc.total && sc.total > 0 ? " full" : ""),
+                  },
+                  sc.done + "/" + sc.total,
+                ),
               ),
             );
-          }),
+            return rows;
+          }, []),
         ),
         h(
           "div",

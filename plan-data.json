@@ -1,7 +1,7 @@
 {
   "title": "Paideia",
   "subtitle": "Seeds of the Logos",
-  "version": "August 2026 · v7.8",
+  "version": "August 2026 · v8.0",
   "front": [
     {
       "id": "doc0",
@@ -77,6 +77,46 @@
       "id": "doc2",
       "title": "Using this plan",
       "blocks": [
+        {
+          "type": "subhead",
+          "text": "The plan's grammar"
+        },
+        {
+          "type": "para",
+          "kind": "para",
+          "label": "Part",
+          "text": "A movement of the tree: seed, trunk, branches."
+        },
+        {
+          "type": "para",
+          "kind": "para",
+          "label": "Stage",
+          "text": "A named question or territory, with its own introduction and, usually, a synthesis; a small stage marks weight, not thinness."
+        },
+        {
+          "type": "para",
+          "kind": "para",
+          "label": "Unit",
+          "text": "The plan's repeatable rite — texts, lectio, memorization, focus, questions, study, prayer; the numbering 1–64 is permanent."
+        },
+        {
+          "type": "para",
+          "kind": "para",
+          "label": "Bridge",
+          "text": "An unnumbered piece standing at a boundary, belonging to neither side; read for the crossing, not the territory, and crossed in place, later, or not at all."
+        },
+        {
+          "type": "para",
+          "kind": "para",
+          "label": "Κατὰ δύναμιν",
+          "text": "What stands beyond the given form is marked κατὰ δύναμιν — according to strength: the typikon's word for what a wholly voluntary rule asks of those who can."
+        },
+        {
+          "type": "para",
+          "kind": "para",
+          "label": "The leitmotif",
+          "text": "One melody recurs the length of the plan and may be watched for: τὰ πάντα ἐν αὐτῷ συνέστηκεν (Colossians 1:16–17); ἀνακεφαλαιώσασθαι τὰ πάντα ἐν τῷ Χριστῷ (Ephesians 1:10); πάντα ἐν πᾶσιν καὶ οὐδὲν ἐν οὐδενί (Divine Names VII.3); the Logos who wills the mystery of His embodiment ἀεὶ καὶ ἐν πᾶσιν (Ambiguum 7) — until ἵνα ᾖ ὁ θεὸς πάντα ἐν πᾶσιν (1 Corinthians 15:28)."
+        },
         {
           "type": "para",
           "kind": "para",
@@ -250,7 +290,7 @@
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Each unit carries a suggested piece under the rubric Ἀπὸ στήθους — anywhere from a single line to twenty — with several units prescribing only maintenance of the accumulated repertoire. The suggestions are optional; additions belong only where they do not displace the reading itself. Recitation aloud develops prosody, syntax, and possession of the text; hymns and prayers also join memorization to liturgical life. The κεφάλαιον genre is especially suited to this form of retention."
+          "text": "Each unit carries a suggested piece under the rubric Ἀπὸ στήθους — anywhere from a single line to twenty — with several units prescribing only maintenance of the accumulated repertoire. What the rite is for: the memorized text is carried where books and notes cannot follow — what Odysseus's arms close on three times in vain (Unit 1), the στῆθος holds. The suggestions stand κατὰ δύναμιν; additions belong only where they do not displace the reading itself. Recitation aloud develops prosody, syntax, and possession of the text; hymns and prayers also join memorization to liturgical life. The κεφάλαιον genre is especially suited to this form of retention."
         },
         {
           "type": "para",
@@ -328,14 +368,33 @@
             {
               "type": "list",
               "kind": "texts",
-              "label": "Texts",
+              "label": "First movement — Homer",
               "items": [
                 "Homer, Iliad I, VI, IX, XVI, XVIII, XXII, and XXIV.",
-                "Homer, Odyssey I, V–XII, XIX, and XXIII.",
+                "Homer, Odyssey I, V–XII, XIX, and XXIII."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "para",
+              "label": "Focus",
+              "text": "fate, divine action, human responsibility, and the limits of heroic agency; heroic excellence, honor, glory, shame, friendship, wrath, mortality, and reconciliation; hospitality, homecoming, identity, recognition, and the restoration of order."
+            },
+            {
+              "type": "list",
+              "kind": "texts",
+              "label": "Second movement — Hesiod and the Homerica",
+              "items": [
                 "Hesiod, Theogony, complete.",
                 "Hesiod, Works and Days, complete.",
-                "Optional: Homeric Hymn to Demeter and Homeric Hymn to Apollo."
+                "Κατὰ δύναμιν: Homeric Hymn to Demeter and Homeric Hymn to Apollo."
               ]
+            },
+            {
+              "type": "para",
+              "kind": "para",
+              "label": "Focus",
+              "text": "divine genealogy, cosmic succession, justice, labor, Pandora, and the Ages of Man; the poetic theology and moral paideia that Plato later criticizes and reworks."
             },
             {
               "type": "para",
@@ -353,19 +412,7 @@
               "type": "para",
               "kind": "memo",
               "label": "Ἀπὸ στήθους",
-              "text": "Principal piece: Odyssey XI.204–224 — the triple embrace, and Anticleia on what death is: the plan's whole question, put by the poet it opens with. The proem remains possessed through this unit's textual study. Optional: Iliad VIII.555–565, the nocturne; Odyssey VI.42–46, unshaken Olympus."
-            },
-            {
-              "type": "list",
-              "kind": "list",
-              "label": "Focus",
-              "items": [
-                "Fate, divine action, human responsibility, and the limits of heroic agency.",
-                "Heroic excellence, honor, glory, shame, friendship, wrath, mortality, and reconciliation.",
-                "Hospitality, homecoming, identity, recognition, and the restoration of order.",
-                "Divine genealogy, cosmic succession, justice, labor, Pandora, and the Ages of Man.",
-                "The poetic theology and moral paideia that Plato later criticizes and reworks."
-              ]
+              "text": "Principal piece: Odyssey XI.204–224 — the triple embrace, and Anticleia on what death is: the plan's whole question, put by the poet it opens with, held open until Unit 24. The proem remains possessed through this unit's textual study. Κατὰ δύναμιν: Iliad VIII.555–565, the nocturne; Odyssey VI.42–46, unshaken Olympus."
             },
             {
               "type": "para",
@@ -416,6 +463,37 @@
             }
           ],
           "level": "cursoria"
+        },
+        {
+          "id": "syn1a",
+          "kind": "synthesis",
+          "num": "Synthesis",
+          "title": "The poetic cosmos",
+          "blocks": [
+            {
+              "type": "para",
+              "kind": "para",
+              "label": "",
+              "text": "Choose one theme, combine two where a definite argument requires it, or formulate a comparable question arising from your notes. Suggested length: 1,500–3,000 words."
+            },
+            {
+              "type": "list",
+              "kind": "essays",
+              "label": "Synthesis essay options",
+              "items": [
+                "Fate, the gods, and human agency from the Iliad to the Odyssey: what, in this cosmos, can be prayed to?",
+                "ξενία and Genesis 18: the stranger who is more than a stranger, at Ithaca and at Mamre.",
+                "κλέος against νόστος: the Iliad's immortality and the Odyssey's homecoming as rival answers to death.",
+                "Succession and justice in Hesiod: from Chaos to the δίκη of Zeus."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "seeds",
+              "label": "Essay seeds for public writing",
+              "text": "μῆνις — the poem's first word and the anatomy of wrath; ψυχή in Homer — what flits away, and what remains; ξενία — the ethics of the stranger-god; Pandora and Eve, side by side; the proem's πολύτροπος and the man of many turns."
+            }
+          ]
         }
       ]
     },
@@ -555,6 +633,36 @@
             }
           ],
           "level": "stataria"
+        },
+        {
+          "id": "syn1b",
+          "kind": "synthesis",
+          "num": "Synthesis",
+          "title": "The problem-field",
+          "blocks": [
+            {
+              "type": "para",
+              "kind": "para",
+              "label": "",
+              "text": "Choose one theme, combine two where a definite argument requires it, or formulate a comparable question arising from your notes. Suggested length: 1,500–3,000 words."
+            },
+            {
+              "type": "list",
+              "kind": "essays",
+              "label": "Synthesis essay options",
+              "items": [
+                "ἀρχή from Thales to Anaximander: what question is being answered?",
+                "Heraclitus's λόγος and Parmenides's ἐστί: the two roads the tradition never stopped walking.",
+                "From μῦθος to λόγος: rupture, or continuity of question under change of method?"
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "seeds",
+              "label": "Essay seeds for public writing",
+              "text": "λόγος before John; τὸ ἄπειρον and the first negative theology; the goddess's two ways; φύσις κρύπτεσθαι φιλεῖ."
+            }
+          ]
         }
       ]
     },
@@ -792,7 +900,7 @@
               "type": "para",
               "kind": "memo",
               "label": "Ἀπὸ στήθους",
-              "text": "Optional: Republic 361e–362a — the perfectly just man scourged and crucified; the passage the Fathers read as unwitting prophecy."
+              "text": "Κατὰ δύναμιν: Republic 361e–362a — the perfectly just man scourged and crucified; the passage the Fathers read as unwitting prophecy."
             },
             {
               "type": "list",
@@ -1144,6 +1252,37 @@
             }
           ],
           "level": "cursoria"
+        },
+        {
+          "id": "syn1c",
+          "kind": "synthesis",
+          "num": "Synthesis",
+          "title": "From Socrates to the Timaeus",
+          "blocks": [
+            {
+              "type": "para",
+              "kind": "para",
+              "label": "",
+              "text": "Choose one theme, combine two where a definite argument requires it, or formulate a comparable question arising from your notes. Suggested length: 3,000–5,000 words."
+            },
+            {
+              "type": "list",
+              "kind": "essays",
+              "label": "Synthesis essay options",
+              "items": [
+                "From the Apology to the Timaeus: is there one Plato?",
+                "The Good beyond being and its afterlife (its harvest stands at Stage 10).",
+                "The city in speech and the soul writ large: what the analogy claims and what it costs.",
+                "Recollection, immortality, and the Phaedo's wager — held open for Macrina (Unit 24)."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "seeds",
+              "label": "Essay seeds for public writing",
+              "text": "περιαγωγή — the turning of the whole soul; ἐπέκεινα τῆς οὐσίας, seeded here; ἀγαθὸς ἦν — the Demiurge's motive as theology; χώρα — the third kind, awaiting Ambiguum 7."
+            }
+          ]
         }
       ]
     },
@@ -1238,7 +1377,7 @@
               "label": "Suggested Greek textual study",
               "items": [
                 "Translate On Interpretation 16a3–18 and explain the relations among sounds, written marks, affections of the soul, and things.",
-                "Optional extension: translate the core of the future-contingents discussion at 19a23–39 and state precisely what Aristotle denies."
+                "Κατὰ δύναμιν extension: translate the core of the future-contingents discussion at 19a23–39 and state precisely what Aristotle denies."
               ]
             },
             {
@@ -1340,15 +1479,34 @@
             {
               "type": "list",
               "kind": "texts",
-              "label": "Texts",
+              "label": "First movement — the Ethics",
               "items": [
-                "Nicomachean Ethics I, II–III, and X.6–8",
+                "Nicomachean Ethics I, II–III, and X.6–8"
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "para",
+              "label": "Focus",
+              "text": "happiness as end; virtue as habit and mean; voluntary action; contemplation."
+            },
+            {
+              "type": "list",
+              "kind": "texts",
+              "label": "Second movement — the Metaphysics mini-module",
+              "items": [
                 "Metaphysics A, skim as historical survey",
                 "Metaphysics Γ 1–4",
                 "Metaphysics Ζ 1–3 and 6",
                 "Metaphysics Θ 1 and 5–8",
                 "Metaphysics Λ 6–10"
               ]
+            },
+            {
+              "type": "para",
+              "kind": "para",
+              "label": "Focus",
+              "text": "being said in many ways but anchored in substance; matter and form; potency and act; the first unmoved mover; aristotle's reconstruction and criticism of earlier Greek philosophy in Metaphysics A."
             },
             {
               "type": "para",
@@ -1367,16 +1525,6 @@
               "kind": "memo",
               "label": "Ἀπὸ στήθους",
               "text": "Metaphysics Λ.7, 1072b3 — κινεῖ δὲ ὡς ἐρώμενον: the clause the unit's evening exercise enacts."
-            },
-            {
-              "type": "list",
-              "kind": "list",
-              "label": "Focus",
-              "items": [
-                "Happiness as end; virtue as habit and mean; voluntary action; contemplation.",
-                "Being said in many ways but anchored in substance; matter and form; potency and act; the first unmoved mover.",
-                "Aristotle's reconstruction and criticism of earlier Greek philosophy in Metaphysics A."
-              ]
             },
             {
               "type": "para",
@@ -1452,6 +1600,98 @@
               "text": "μῆνις versus θυμός — the Iliad's first word and the anatomy of wrath; περιαγωγή and μετάνοια — Plato's word for conversion and the Church's; the double life of δόξα, seeded here on the Divided Line and harvested at Stage 10, where the same word names the glory of God."
             }
           ]
+        },
+        {
+          "id": "br-philo",
+          "kind": "unit",
+          "num": "Bridge",
+          "title": "The Philonic bridge",
+          "blocks": [
+            {
+              "type": "list",
+              "kind": "texts",
+              "label": "Texts",
+              "items": [
+                "Philo, De opificio mundi, complete — Moses' cosmogony read with Timaeus-trained eyes: the six days as the structure of intelligible and sensible creation.",
+                "The Logos dossier: De confusione linguarum 145–147; Quis rerum divinarum heres 205–206; De somniis I.227–230 — the Logos as firstborn, boundary-stander, and image: the vocabulary waiting at the doorstep of the Johannine prologue.",
+                "De congressu eruditionis gratia, selections — Hagar and Sarah allegorized: ἐγκύκλιος παιδεία as the handmaid of wisdom — the bridge's thesis, stated by its subject.",
+                "Κατὰ δύναμιν satellite: De vita contemplativa — the Therapeutae: reading as a form of life, a generation before the Gospels."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "note",
+              "label": "Primary edition",
+              "text": "Loeb (Colson–Whitaker); Winston's Classics of Western Spirituality volume as the English reader."
+            },
+            {
+              "type": "para",
+              "kind": "intensity",
+              "label": "Greek lectio",
+              "text": "Cursoria; Quis heres 205–206 stataria. Alexandrian period style — long cola, participial chains — is training for Clement and the Cappadocians."
+            },
+            {
+              "type": "para",
+              "kind": "scripture",
+              "label": "Scripture in parallel",
+              "text": "John 1:1–18 — read now, whole, before the plan reaches Origen's Gospel (Units 19–21), every phrase weighed against Philo's Logos. Genesis 1 LXX, reread — the text both authors hold."
+            },
+            {
+              "type": "para",
+              "kind": "memo",
+              "label": "Ἀπὸ στήθους",
+              "text": "Principal piece: John 1:1–5 — Ἐν ἀρχῇ ἦν ὁ λόγος: the sentence the bridge walks toward. Κατὰ δύναμιν: Quis heres 205–206, the μεθόριος sentence — the Logos on the boundary, neither uncreated as God nor created as we."
+            },
+            {
+              "type": "list",
+              "kind": "list",
+              "label": "Focus",
+              "items": [
+                "The machinery of reception assembled before Christianity: allegory, etymology, the preliminary studies.",
+                "The Logos between the Academy and the Gospel.",
+                "Alexandria as the workshop where Jewish Scripture and Greek philosophy first fully met."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "goal",
+              "label": "Goal",
+              "text": "See full-dress reception performed a generation before the Church — and see exactly what the prologue adds that Philo could not say: καὶ ὁ λόγος σὰρξ ἐγένετο."
+            },
+            {
+              "type": "list",
+              "kind": "questions",
+              "label": "Questions for reflection",
+              "items": [
+                "Person or principle: what is Philo's Logos, and by what tests would one decide?",
+                "Hagar and Sarah against Basil's bee (Unit 23): two rules for the handmaid arts — which does this plan itself follow?",
+                "What did Origen inherit from Philo (Unit 19 returns to him there), and what did he refuse?"
+              ]
+            },
+            {
+              "type": "list",
+              "kind": "study",
+              "label": "Suggested Greek textual study",
+              "items": [
+                "Translate De confusione 145–147; set its titles of the Logos beside John 1:1–18 and mark which survive, which are transformed, which are refused."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "secondary",
+              "label": "Secondary reading",
+              "text": "David T. Runia, Philo in Early Christian Literature: A Survey — the reception history in one volume; Winston's introduction for Philo himself."
+            },
+            {
+              "type": "list",
+              "kind": "prayer",
+              "label": "Πρὸς προσευχὴν καὶ θεωρίαν",
+              "items": [
+                "The prologue of John is the Paschal Gospel of the Greek church. Read it aloud once, slowly, with Philo's questions in the ear — knowing what it cost, and what it gives, to say ἐγένετο."
+              ]
+            }
+          ],
+          "level": "cursoria"
         }
       ]
     },
@@ -1890,7 +2130,7 @@
               "items": [
                 "Irenaeus, Demonstration of the Apostolic Preaching, complete.",
                 "Irenaeus, Against Heresies, selected passages: I.10; III.16–23; IV.20; V.1–2 and selected eschatological passages.",
-                "Optional satellite: the Gospel of Thomas — the Greek fragments (P.Oxy 1, 654, 655), with logia 1, 13, and 77 in translation: the rule of faith performed on a text from outside it. (It is Hippolytus, not Irenaeus, who names a Gospel of Thomas; the placement is thematic.)"
+                "Κατὰ δύναμιν satellite: the Gospel of Thomas — the Greek fragments (P.Oxy 1, 654, 655), with logia 1, 13, and 77 in translation: the rule of faith performed on a text from outside it. (It is Hippolytus, not Irenaeus, who names a Gospel of Thomas; the placement is thematic.)"
               ]
             },
             {
@@ -1964,6 +2204,37 @@
             {"type": "para", "kind": "note", "label": "Български превод", "text": "Nothing — no Demonstration, no Adversus Haereses. A Bulgarian Irenaeus is chiefly a Latin-source project: AH survives whole only in Latin, the Demonstration in Armenian (critical intermediaries required). (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
           ],
           "level": "cursoria"
+        },
+        {
+          "id": "syn3",
+          "kind": "synthesis",
+          "num": "Synthesis",
+          "title": "Warrant and rule",
+          "blocks": [
+            {
+              "type": "para",
+              "kind": "para",
+              "label": "",
+              "text": "Choose one theme, combine two where a definite argument requires it, or formulate a comparable question arising from your notes. Suggested length: 1,500–3,000 words."
+            },
+            {
+              "type": "list",
+              "kind": "essays",
+              "label": "Synthesis essay options",
+              "items": [
+                "The seed and the rule: does Justin's σπερματικὸς λόγος survive Irenaeus's ὑπόθεσις intact — and should it?",
+                "The rule of faith as grammar rather than list: what kind of thing does Irenaeus think the Church knows?",
+                "Recapitulation from Ephesians 1:10 through the Adam–Christ and Eve–Mary patterns.",
+                "The flesh's capacity for God against the Gnostic despair of matter — with Stage 13 and Stage 16 ahead."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "seeds",
+              "label": "Essay seeds for public writing",
+              "text": "ἀνακεφαλαίωσις — one word carrying a whole economy; ὑπόθεσις — Scripture's plot and its rival plots; gloria Dei vivens homo; four gospels, four winds; the philosopher's cloak kept after baptism."
+            }
+          ]
         }
       ]
     },
@@ -2178,7 +2449,18 @@
                 "Origen speculates only inside the rule of faith. Recite the Creed slowly once this unit, not as a test passed but as the ecclesial grammar within which theological inquiry takes place."
               ]
             },
-            {"type": "para", "kind": "note", "label": "Български превод", "text": "Origen: nothing — no Περὶ ἀρχῶν, no homilies, no Contra Celsum (Units 19–21 all open field). Philo likewise untranslated. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
+            {
+              "type": "para",
+              "kind": "note",
+              "label": "Cross-reference",
+              "text": "Philo in his own right stands at the bridge between Parts I and II; this unit reads him as Origen's inheritance."
+            },
+            {
+              "type": "para",
+              "kind": "note",
+              "label": "Български превод",
+              "text": "Origen: nothing — no Περὶ ἀρχῶν, no homilies, no Contra Celsum (Units 19–21 all open field). Philo likewise untranslated. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"
+            }
           ],
           "level": "cursoria"
         },
@@ -2194,7 +2476,7 @@
               "label": "Texts",
               "items": [
                 "Origen, On First Principles I.4–8",
-                "Optional: one homily on Genesis or Exodus",
+                "Κατὰ δύναμιν: one homily on Genesis or Exodus",
                 "Origen, On Prayer (Περὶ εὐχῆς), the Lord's Prayer exposition (Greer, CWS) — beside the Didache's Our Father (Unit 13) and ahead of Maximus's commentary (Unit 40)."
               ]
             },
@@ -2325,6 +2607,36 @@
             }
           ],
           "level": "cursoria"
+        },
+        {
+          "id": "syn4a",
+          "kind": "synthesis",
+          "num": "Synthesis",
+          "title": "The Alexandrian achievement",
+          "blocks": [
+            {
+              "type": "para",
+              "kind": "para",
+              "label": "",
+              "text": "Choose one theme, combine two where a definite argument requires it, or formulate a comparable question arising from your notes. Suggested length: 3,000–5,000 words."
+            },
+            {
+              "type": "list",
+              "kind": "essays",
+              "label": "Synthesis essay options",
+              "items": [
+                "Philo, Clement, Origen: three allegorists — one method?",
+                "Philosophy as προπαιδεία: from the handmaid (the Philonic bridge) to the New Song (Unit 18).",
+                "Origen's map (Units 19–21) as the problem-field the next two centuries inherit."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "seeds",
+              "label": "Essay seeds for public writing",
+              "text": "the New Song answering Homer; γνῶσις claimed, disciplined, refused to the heretics; Περὶ ἀρχῶν — the title as thesis; the senses of Scripture before the fourfold scheme."
+            }
+          ]
         }
       ]
     },
@@ -2569,7 +2881,7 @@
               "type": "para",
               "kind": "memo",
               "label": "Ἀπὸ στήθους",
-              "text": "Optional: 1 Corinthians 15:51–55 — the trumpet, in Greek. Optional: 1 Corinthians 15:24–28 — the end: death the last enemy, and ἵνα ᾖ ὁ θεὸς πάντα ἐν πᾶσιν."
+              "text": "Κατὰ δύναμιν: 1 Corinthians 15:51–55 — the trumpet, in Greek. Κατὰ δύναμιν: 1 Corinthians 15:24–28 — the end: death the last enemy, and ἵνα ᾖ ὁ θεὸς πάντα ἐν πᾶσιν."
             },
             {
               "type": "list",
@@ -2757,7 +3069,7 @@
               "label": "Suggested Greek textual study",
               "items": [
                 "Translate Life of Moses II.162–169 on the divine darkness, then trace the scriptural phrases Gregory gathers into the argument.",
-                "Optional extension: select a passage on ἐπέκτασις and test whether \"progress,\" \"stretching forth,\" or another Bulgarian equivalent best conveys the Greek."
+                "Κατὰ δύναμιν extension: select a passage on ἐπέκτασις and test whether \"progress,\" \"stretching forth,\" or another Bulgarian equivalent best conveys the Greek."
               ]
             },
             {
@@ -2845,7 +3157,7 @@
               "items": [
                 "Corpus Hermeticum I (Poimandres), IV (the Krater), X (the Key), XIII (on rebirth).",
                 "Asclepius 6 (magnum miraculum est homo), 23–24 and 37–38 (the god-making passages Augustine answers), and the closing prayer (41).",
-                "Optional: Korē Kosmou selections (Stobaeus); the Nag Hammadi Hermetica in translation (NHC VI: the Discourse on the Eighth and Ninth; the Prayer of Thanksgiving)."
+                "Κατὰ δύναμιν: Korē Kosmou selections (Stobaeus); the Nag Hammadi Hermetica in translation (NHC VI: the Discourse on the Eighth and Ninth; the Prayer of Thanksgiving)."
               ]
             },
             {
@@ -2864,7 +3176,7 @@
               "type": "para",
               "kind": "memo",
               "label": "Ἀπὸ στήθους",
-              "text": "Optional, for delight: magnum miraculum est homo (Asclepius 6)."
+              "text": "Κατὰ δύναμιν, for delight: magnum miraculum est homo (Asclepius 6)."
             },
             {
               "type": "list",
@@ -3097,7 +3409,7 @@
               "type": "para",
               "kind": "memo",
               "label": "Ἀπὸ στήθους",
-              "text": "Optional, one imperative: ἄφελε πάντα (Enneads V.3.17) — take away everything."
+              "text": "Κατὰ δύναμιν, one imperative: ἄφελε πάντα (Enneads V.3.17) — take away everything."
             },
             {
               "type": "list",
@@ -3740,8 +4052,8 @@
               "items": [
                 "Evagrius of Pontus, Praktikos",
                 "Evagrius, On Prayer (De oratione)",
-                "Optional: selections from Gnostikos and the Kephalaia Gnostika, the latter in translation only; the speculative system matters mainly as what the later tradition prunes",
-                "Optional, alongside Evagrius: Pseudo-Macarius, Spiritual Homilies, selections (Maloney, CWS) — the καρδία-stream beside the νοῦς-stream, the two currents Symeon and Palamas will fuse, Macarius being cited throughout the Triads; Diadochus of Photice, Gnostic Chapters (Philokalia vol. 1), as the first synthesis of the two."
+                "Κατὰ δύναμιν: selections from Gnostikos and the Kephalaia Gnostika, the latter in translation only; the speculative system matters mainly as what the later tradition prunes",
+                "Κατὰ δύναμιν, alongside Evagrius: Pseudo-Macarius, Spiritual Homilies, selections (Maloney, CWS) — the καρδία-stream beside the νοῦς-stream, the two currents Symeon and Palamas will fuse, Macarius being cited throughout the Triads; Diadochus of Photice, Gnostic Chapters (Philokalia vol. 1), as the first synthesis of the two."
               ]
             },
             {
@@ -3910,6 +4222,36 @@
             }
           ],
           "level": "stataria"
+        },
+        {
+          "id": "syn7",
+          "kind": "synthesis",
+          "num": "Synthesis",
+          "title": "The roads converge",
+          "blocks": [
+            {
+              "type": "para",
+              "kind": "para",
+              "label": "",
+              "text": "Choose one theme, combine two where a definite argument requires it, or formulate a comparable question arising from your notes. Suggested length: 3,000–5,000 words."
+            },
+            {
+              "type": "list",
+              "kind": "essays",
+              "label": "Synthesis essay options",
+              "items": [
+                "Praktike and dogma: why Maximus needs both Evagrius and Chalcedon.",
+                "θέλημα from Gethsemane to the sixth council: the two wills before the two-wills controversy.",
+                "The grammar of the passions and the grammar of the natures: one grammar or two?"
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "seeds",
+              "label": "Essay seeds for public writing",
+              "text": "λογισμοί and their census; ἀπάθεια as the condition of love; ἐν δύο φύσεσιν — four adverbs that ended a century; the ὅρος as literary genre."
+            }
+          ]
         }
       ]
     },
@@ -4433,15 +4775,34 @@
             {
               "type": "list",
               "kind": "texts",
-              "label": "Texts",
+              "label": "First movement — John of Damascus",
               "items": [
                 "John of Damascus, Three Treatises on the Divine Images: Treatise I complete; II–III as energy allows (they overlap by design).",
                 "John of Damascus, Exact Exposition of the Orthodox Faith, selections: I.1–4 (knowability, beside Oration 28), Book III on the Incarnation, IV.16 on images — read as the systematization of this plan's whole Greek inheritance and as the handbook the Latin West received as \"Damascene.\"",
-                "The horos of Nicaea II (787) — Tanner, vol. 1 (the edition used at Unit 38).",
-                "Theodore the Studite, On the Holy Icons, selections from the third refutation (the circumscribability argument).",
-                "Optional: the iconological chapters of the Synodikon of Orthodoxy (Gouillard, as at Unit 53).",
                 "John of Damascus, Dialectica (Philosophical Chapters), selections (Kotter I) — the East codifying the vocabulary Units 10 and 38 built."
               ]
+            },
+            {
+              "type": "para",
+              "kind": "para",
+              "label": "Focus",
+              "text": "the argument from Incarnation: ὁ ἀπερίγραπτος περιγράφεται — why the council frames iconoclasm as a Christological heresy; matter as bearer of grace: the Damascene's defense of ὕλη — the dogmatic charter of the northern stage (Stage 16), and the ground already presupposed by the plan's icon exercises (Unit 29; later, Cusa's De visione Dei)."
+            },
+            {
+              "type": "list",
+              "kind": "texts",
+              "label": "Second movement — the seventh council",
+              "items": [
+                "The horos of Nicaea II (787) — Tanner, vol. 1 (the edition used at Unit 38).",
+                "Theodore the Studite, On the Holy Icons, selections from the third refutation (the circumscribability argument).",
+                "Κατὰ δύναμιν: the iconological chapters of the Synodikon of Orthodoxy (Gouillard, as at Unit 53)."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "para",
+              "label": "Focus",
+              "text": "εἰκών from Genesis 1:26 through Colossians 1:15 to the council: image as an ontological category before it is an artistic one; προσκύνησις against λατρεία — and the Libri Carolini fiasco, in which Charlemagne's court condemned a council it knew only through a Latin translation that collapsed the distinction into adoratio: a translation-mediation disaster in the exact key of Unit 48 and of the capstone; the conduit westward: Burgundio's Latin Expositio, Lombard, Aquinas's ubiquitous \"Damascenus.\"."
             },
             {
               "type": "para",
@@ -4459,19 +4820,7 @@
               "type": "para",
               "kind": "memo",
               "label": "Ἀπὸ στήθους",
-              "text": "Principal piece: the kontakion of the Sunday of Orthodoxy, Ὁ ἀπερίγραπτος Λόγος τοῦ Πατρὸς ἐκ σοῦ, Θεοτόκε, περιεγράφη σαρκούμενος — the whole doctrine as one sung sentence, liturgically alive each first Sunday of Lent. Optional: the Damascene's οὐ προσκυνῶ τῇ ὕλῃ, προσκυνῶ δὲ τὸν τῆς ὕλης δημιουργόν, τὸν ὕλην δι' ἐμὲ γενόμενον (Images I.16). With the heirmos of the Paschal Canon, Ἀναστάσεως ἡμέρα — the Damascene memorized as the Church sings him."
-            },
-            {
-              "type": "list",
-              "kind": "list",
-              "label": "Focus",
-              "items": [
-                "εἰκών from Genesis 1:26 through Colossians 1:15 to the council: image as an ontological category before it is an artistic one.",
-                "The argument from Incarnation: ὁ ἀπερίγραπτος περιγράφεται — why the council frames iconoclasm as a Christological heresy.",
-                "Matter as bearer of grace: the Damascene's defense of ὕλη — the dogmatic charter of the northern stage (Stage 16), and the ground already presupposed by the plan's icon exercises (Unit 29; later, Cusa's De visione Dei).",
-                "προσκύνησις against λατρεία — and the Libri Carolini fiasco, in which Charlemagne's court condemned a council it knew only through a Latin translation that collapsed the distinction into adoratio: a translation-mediation disaster in the exact key of Unit 48 and of the capstone.",
-                "The conduit westward: Burgundio's Latin Expositio, Lombard, Aquinas's ubiquitous \"Damascenus.\""
-              ]
+              "text": "Principal piece: the kontakion of the Sunday of Orthodoxy, Ὁ ἀπερίγραπτος Λόγος τοῦ Πατρὸς ἐκ σοῦ, Θεοτόκε, περιεγράφη σαρκούμενος — the whole doctrine as one sung sentence, liturgically alive each first Sunday of Lent. Κατὰ δύναμιν: the Damascene's οὐ προσκυνῶ τῇ ὕλῃ, προσκυνῶ δὲ τὸν τῆς ὕλης δημιουργόν, τὸν ὕλην δι' ἐμὲ γενόμενον (Images I.16). With the heirmos of the Paschal Canon, Ἀναστάσεως ἡμέρα — the Damascene memorized as the Church sings him."
             },
             {
               "type": "para",
@@ -4526,6 +4875,36 @@
             }
           ],
           "level": "stataria"
+        },
+        {
+          "id": "syn9",
+          "kind": "synthesis",
+          "num": "Synthesis",
+          "title": "The icon argued",
+          "blocks": [
+            {
+              "type": "para",
+              "kind": "para",
+              "label": "",
+              "text": "Choose one theme, combine two where a definite argument requires it, or formulate a comparable question arising from your notes. Suggested length: 1,500–3,000 words."
+            },
+            {
+              "type": "list",
+              "kind": "essays",
+              "label": "Synthesis essay options",
+              "items": [
+                "Uncircumscribable in divinity, circumscribed in flesh: the icon argument as Chalcedon's application or its development — the unit's own question at essay length.",
+                "ὕλη as bearer of grace: the Damascene against the despisers of matter, with Stage 16 ahead.",
+                "Image, prototype, and the seventh council's distinctions: what προσκύνησις concedes and what it refuses."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "seeds",
+              "label": "Essay seeds for public writing",
+              "text": "περιγραπτός — a christological adverb made visible; σχετικὴ προσκύνησις against λατρεία; εἰκών from Genesis 1:26 to the iconostasis; the halo's ὁ ὤν (Unit 25's verse, kept)."
+            }
+          ]
         }
       ]
     },
@@ -5029,7 +5408,7 @@
               "label": "Texts",
               "items": [
                 "John Climacus, The Ladder of Divine Ascent — Steps 1–7 and 25–30 at minimum; the whole if the season allows",
-                "Optional: To the Shepherd"
+                "Κατὰ δύναμιν: To the Shepherd"
               ]
             },
             {
@@ -5117,7 +5496,7 @@
               "items": [
                 "Symeon the New Theologian, Hymns of Divine Love, selections",
                 "Symeon, Catechetical Discourses, selections, especially on the conscious experience of grace",
-                "Optional: the treatise On the Three Methods of Prayer — attributed, and historically decisive for hesychast technique regardless of authorship"
+                "Κατὰ δύναμιν: the treatise On the Three Methods of Prayer — attributed, and historically decisive for hesychast technique regardless of authorship"
               ]
             },
             {
@@ -5288,7 +5667,7 @@
               "items": [
                 "The Hagioritic Tome (1340)",
                 "The synodal tomes of 1341 and 1351, in summary, with the Palamite chapters of the Synodikon of Orthodoxy",
-                "Optional: Nicholas Cabasilas, The Life in Christ, selections — the fourteenth century's sacramental complement to its dogmatic settlement"
+                "Κατὰ δύναμιν: Nicholas Cabasilas, The Life in Christ, selections — the fourteenth century's sacramental complement to its dogmatic settlement"
               ]
             },
             {
@@ -5357,7 +5736,7 @@
         {
           "id": "coda-st11",
           "kind": "unit",
-          "num": "Coda",
+          "num": "Bridge",
           "title": "the Philokalic bridge",
           "blocks": [
             {
@@ -5365,8 +5744,86 @@
               "kind": "para",
               "label": "",
               "text": "The historical road from the hesychast councils to the Russians: Nicodemus and Macarius's Philokalia (1782), Paisius Velichkovsky's Slavonic Dobrotolubiye (1793), Seraphim of Sarov, and the Optina eldership from which Dostoevsky drew Zosima. Read: The Way of a Pilgrim (the Russian at hand, per the source rule) and Seraphim's Conversation with Motovilov — Unit 52's doctrine as eyewitness narrative in the snow. The Pilgrim's prayer-instructions are read here as literature and history. Questions: Is the Pilgrim Palamas democratized, or de-contextualized? What kind of evidence is Motovilov's account — confirmation of the Triads, or a different genre entirely? What changes when eldership becomes literature? This coda welds this stage to Stage 16's Dostoevsky and Stage 17's whole milieu: the nineteenth century had two Russian revivals, the Philokalic and the philosophical, and they meet at Optina."
+            },
+            {
+              "type": "list",
+              "kind": "texts",
+              "label": "Texts",
+              "items": [
+                "Nikodemos the Hagiorite, preface to the Philokalia — what the compilers thought they were gathering, and for whom.",
+                "Hesychios of Sinai, On Watchfulness and Holiness, the first fifty texts — νῆψις as the tradition's working concept.",
+                "Kallistos and Ignatios Xanthopoulos, the Century, selections — the fourteenth-century synthesis: method with its dogmatic warrant.",
+                "Κατὰ δύναμιν satellite: The Way of a Pilgrim — the Philokalia loose in the world, tested on the road."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "intensity",
+              "label": "Greek lectio",
+              "text": "Cursoria; Hesychios stataria in part — short numbered texts, the most tractable sustained patristic Greek in the plan's late stages."
+            },
+            {
+              "type": "para",
+              "kind": "scripture",
+              "label": "Scripture in parallel",
+              "text": "1 Thessalonians 5:17 — ἀδιαλείπτως προσεύχεσθε: the two words the whole library exegetes."
+            },
+            {
+              "type": "para",
+              "kind": "memo",
+              "label": "Ἀπὸ στήθους",
+              "text": "Principal piece: the Jesus Prayer in Greek — the plan's recurring thread, held here as the bridge's one permanent possession. Κατὰ δύναμιν: Hesychios §1, the definition of νῆψις."
+            },
+            {
+              "type": "list",
+              "kind": "list",
+              "label": "Focus",
+              "items": [
+                "The Philokalia as a book with a history: Venice 1782, Velichkovsky's Добротолюбие, the Russian reception.",
+                "νῆψις and the Jesus Prayer as the practical center.",
+                "Evagrius (Unit 37) continued under other names."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "goal",
+              "label": "Goal",
+              "text": "Hold the road from the hesychast councils (Unit 53) to the Russian reception (Stage 17) as one tradition of practice, so that when Bulgakov and Lossky quarrel, the prayer they share stays audible under the quarrel."
+            },
+            {
+              "type": "list",
+              "kind": "questions",
+              "label": "Questions for reflection",
+              "items": [
+                "Is the Philokalia a book or a curriculum?",
+                "What of Evagrius survives in Hesychios under other names — and why the other names?",
+                "What does the Pilgrim's freedom with the book suggest about how this plan should be held?"
+              ]
+            },
+            {
+              "type": "list",
+              "kind": "study",
+              "label": "Suggested Greek textual study",
+              "items": [
+                "Translate five texts of Hesychios; open a νῆψις word-family page in the glossary (νῆψις, προσοχή, φυλακή, ἡσυχία)."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "secondary",
+              "label": "Secondary reading",
+              "text": "Kallistos Ware, \"St Nikodimos and the Philokalia\"; the introductions in Palmer–Sherrard–Ware, vol. I."
+            },
+            {
+              "type": "list",
+              "kind": "prayer",
+              "label": "Πρὸς προσευχὴν καὶ θεωρίαν",
+              "items": [
+                "The bridge's content is a practice, not a reading. Keep the ordinary rule, unchanged, and let Hesychios name what it already contains."
+              ]
             }
-          ]
+          ],
+          "level": "cursoria"
         },
         {
           "id": "syn11",
@@ -5734,7 +6191,7 @@
               "items": [
                 "Eriugena, Homily on the Prologue of John (Vox spiritualis aquilae), complete — SC 151.",
                 "Periphyseon, selections: the four divisions of natura (Book I); the primordial causes (II–III); the return (V) — Sheldon-Williams–O'Meara, with Jeauneau's CCCM text at cruxes.",
-                "Optional: his Latin Ambigua, already cited as a witness in Unit 43's apparatus — a glance at the translator at work."
+                "Κατὰ δύναμιν: his Latin Ambigua, already cited as a witness in Unit 43's apparatus — a glance at the translator at work."
               ]
             },
             {
@@ -5931,7 +6388,7 @@
               "type": "para",
               "kind": "memo",
               "label": "Ἀπὸ στήθους",
-              "text": "Principal piece: Ἐπὶ σοὶ χαίρει, Κεχαριτωμένη, πᾶσα ἡ κτίσις — sung in the Liturgy of St Basil in place of Ἄξιόν ἐστιν: the strand's clearest liturgical payoff since Φῶς ἱλαρόν. Optional: the Akathist couplet χαῖρε, δι' ἧς νεουργεῖται ἡ κτίσις· χαῖρε, δι' ἧς βρεφουργεῖται ὁ Κτίστης."
+              "text": "Principal piece: Ἐπὶ σοὶ χαίρει, Κεχαριτωμένη, πᾶσα ἡ κτίσις — sung in the Liturgy of St Basil in place of Ἄξιόν ἐστιν: the strand's clearest liturgical payoff since Φῶς ἱλαρόν. Κατὰ δύναμιν: the Akathist couplet χαῖρε, δι' ἧς νεουργεῖται ἡ κτίσις· χαῖρε, δι' ἧς βρεφουργεῖται ὁ Κτίστης."
             },
             {
               "type": "list",
@@ -6084,7 +6541,7 @@
               "type": "para",
               "kind": "memo",
               "label": "Ἀπὸ στήθους",
-              "text": "Principal piece: Wisdom 7:25–26 — ἀπαύγασμα φωτὸς ἀϊδίου καὶ ἔσοπτρον ἀκηλίδωτον τῆς τοῦ θεοῦ ἐνεργείας. Optional: Proverbs 8:22–25 LXX."
+              "text": "Principal piece: Wisdom 7:25–26 — ἀπαύγασμα φωτὸς ἀϊδίου καὶ ἔσοπτρον ἀκηλίδωτον τῆς τοῦ θεοῦ ἐνεργείας. Κατὰ δύναμιν: Proverbs 8:22–25 LXX."
             },
             {
               "type": "list",
@@ -6147,7 +6604,7 @@
                 "De visione Dei, complete — short, and containing the omnivoyant-icon exercise written for the monks of Tegernsee.",
                 "De pace fidei, selections — written in the year Constantinople fell: una religio in rituum varietate.",
                 "A glance at the Apologia doctae ignorantiae — Wenck's charge and the defense.",
-                "Optional satellite: Meister Eckhart, selected German sermons (Walshe), with Lossky's Théologie négative et connaissance de Dieu chez Maître Eckhart as their study — the plan's companion author at work on this unit's shadow figure."
+                "Κατὰ δύναμιν satellite: Meister Eckhart, selected German sermons (Walshe), with Lossky's Théologie négative et connaissance de Dieu chez Maître Eckhart as their study — the plan's companion author at work on this unit's shadow figure."
               ]
             },
             {

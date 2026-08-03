@@ -266,3 +266,15 @@ section { scroll-margin-top: 18px; }
   /* 16px inputs prevent iOS focus zoom */
   .notes-ta, .sync-input { font-size: 16px; }
 }
+
+.side-part {
+  margin: 16px 0 6px;
+  padding-top: 12px;
+  border-top: 1px solid var(--color-neutral-800);
+  font-size: 10.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--color-accent-400);
+  opacity: 0.9;
+}
+.side-part:first-child { margin-top: 4px; padding-top: 0; border-top: none; }
