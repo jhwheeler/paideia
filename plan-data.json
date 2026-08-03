@@ -1,7 +1,7 @@
 {
   "title": "Paideia",
   "subtitle": "Seeds of the Logos",
-  "version": "August 2026 · v7.6",
+  "version": "August 2026 · v7.7",
   "front": [
     {
       "id": "doc0",
@@ -1716,64 +1716,6 @@
           "level": "cursoria"
         },
         {
-          "id": "u16",
-          "kind": "unit",
-          "num": "Unit 16",
-          "title": "Apostolic synthesis and review",
-          "blocks": [
-            {
-              "type": "list",
-              "kind": "texts",
-              "label": "Texts",
-              "items": ["Review Units 13–15; no new primary text required"]
-            },
-            {
-              "type": "para",
-              "kind": "scripture",
-              "label": "Scripture in parallel",
-              "text": "No new assignment — return to the Sermon on the Mount as the catechesis the whole stage assumes."
-            },
-            {
-              "type": "para",
-              "kind": "memo",
-              "label": "Ἀπὸ στήθους",
-              "text": "Maintenance only: recite the stage's accumulated pieces before the review."
-            },
-            {
-              "type": "list",
-              "kind": "list",
-              "label": "Focus",
-              "items": [
-                "Integrate church order, martyrdom, moral exhortation, and the use of Scripture."
-              ]
-            },
-            {
-              "type": "para",
-              "kind": "goal",
-              "label": "Goal",
-              "text": "Fix the Apostolic Fathers as the zero level of Christian tradition against which Origen, Nyssa, and later Fathers can be measured."
-            },
-            {
-              "type": "list",
-              "kind": "questions",
-              "label": "Questions for reflection",
-              "items": [
-                "What genuinely unifies the Apostolic Fathers despite their differences of genre, setting, and theological emphasis?",
-                "Which later doctrines are already materially present, and which would be anachronistic to read back into these texts?",
-                "What do these writings assume about Scripture, worship, authority, and holiness without yet defining them theoretically?"
-              ]
-            },
-            {
-              "type": "list",
-              "kind": "prayer",
-              "label": "Πρὸς προσευχὴν καὶ θεωρίαν",
-              "items": [
-                "Every Orthodox liturgy is celebrated on an antimension containing relics of the martyrs — the practice this stage's texts inaugurate. Attend one liturgy holding that fact consciously: the Church you stand in is the one Ignatius and Polycarp died into."
-              ]
-            }
-          ]
-        },
-        {
           "id": "syn2",
           "kind": "synthesis",
           "num": "Synthesis",
@@ -1809,21 +1751,16 @@
     {
       "id": "st3",
       "num": "Stage 6",
-      "title": "Irenaeus and the Rule of Faith",
+      "title": "Justin, Irenaeus, and the Rule of Faith",
       "part": null,
       "intro": [
         {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Irenaeus supplies a bridge between the Apostolic Fathers and the later speculative and conciliar tradition: the rule of faith, the unity of creation and redemption, anti-Gnostic affirmation of the body, and recapitulation in Christ."
+          "text": "Justin supplies the warrant for the plan's whole engagement with the Greeks — the seeds of the Logos — and Irenaeus the rule that disciplines it: the rule of faith, the unity of creation and redemption, anti-Gnostic affirmation of the body, and recapitulation in Christ."
         },
-        {
-          "type": "para",
-          "kind": "para",
-          "label": "Satellite — the seeds of the Logos",
-          "text": "Justin Martyr, Second Apology 8 and 13 — τὸ ἔμφυτον σπέρμα τοῦ λόγου, the passages the plan's subtitle quotes, and First Apology 46, the thesis at its fullest — οἱ μετὰ λόγου βιώσαντες Χριστιανοί εἰσι, Socrates and Heraclitus by name — with Dialogue with Trypho 1–8, the philosophical conversion narrative: the schools tried in sequence, the old man by the sea, the prophets, Christ. Two afternoons, not a unit. Editions: the Apologies in SC 507 (Munier); the Dialogue in Bobichon's Fribourg critical edition, English in Falls–Halton (verify against the catalogue, per standing rule)."
-        },
+        
         {
           "type": "list",
           "kind": "lectio",
@@ -1844,6 +1781,98 @@
         }
       ],
       "units": [
+        {
+          "id": "u16",
+          "kind": "unit",
+          "num": "Unit 16",
+          "title": "Justin Martyr: the seeds of the Logos",
+          "blocks": [
+            {
+              "type": "list",
+              "kind": "texts",
+              "label": "Texts",
+              "items": [
+                "Justin Martyr, First Apology — especially 46, the thesis at its fullest: οἱ μετὰ λόγου βιώσαντες Χριστιανοί εἰσι, Socrates and Heraclitus by name; and 59–60, Plato reading Moses.",
+                "Justin Martyr, Second Apology 8 and 13 — τὸ ἔμφυτον σπέρμα τοῦ λόγου: the passages the plan's subtitle translates.",
+                "Justin Martyr, Dialogue with Trypho 1–8 — the philosophical conversion narrative: the schools tried in sequence, the old man by the sea, the prophets, Christ."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "note",
+              "label": "Primary edition",
+              "text": "The Apologies in SC 507 (Munier); the Dialogue in Bobichon's Fribourg critical edition, English in Falls–Halton (verify against the catalogue, per standing rule)."
+            },
+            {
+              "type": "para",
+              "kind": "intensity",
+              "label": "Greek lectio",
+              "text": "Stataria for Second Apology 8 and 13 and First Apology 46; cursoria elsewhere. Justin's plain philosophical koine is a rest after the Apostolic Fathers' variety, and the first sustained apologetic register."
+            },
+            {
+              "type": "para",
+              "kind": "scripture",
+              "label": "Scripture in parallel",
+              "text": "Acts 17:16–34 — Paul on the Areopagus: the apostolic precedent, the unknown god announced by name."
+            },
+            {
+              "type": "para",
+              "kind": "memo",
+              "label": "Ἀπὸ στήθους",
+              "text": "Principal piece: First Apology 46, the thesis sentence — οἱ μετὰ λόγου βιώσαντες Χριστιανοί εἰσι, κἂν ἄθεοι ἐνομίσθησαν — with Socrates and Heraclitus named."
+            },
+            {
+              "type": "list",
+              "kind": "list",
+              "label": "Focus",
+              "items": [
+                "The σπερματικὸς λόγος: what exactly is claimed for the philosophers, and what is not.",
+                "Conversion as the end of a philosophical itinerary: the schools tried and found partial.",
+                "Martyrdom as the apology's seal: the philosopher's death (Unit 3) rhymed and surpassed.",
+                "The plan's subtitle acquired at its source."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "goal",
+              "label": "Goal",
+              "text": "Acquire the charter text of the plan's whole engagement with the Greeks before Irenaeus supplies the rule that disciplines it."
+            },
+            {
+              "type": "list",
+              "kind": "questions",
+              "label": "Questions for reflection",
+              "items": [
+                "Is the σπερματικὸς λόγος a concession to philosophy or a claim over it?",
+                "What separates Justin's Socrates from Plato's (Units 3–4) — and what does each death prove?",
+                "If the seed is already in all, why is the conversion of Dialogue 1–8 still necessary? (ἑλληνιστί)"
+              ]
+            },
+            {
+              "type": "list",
+              "kind": "study",
+              "label": "Suggested Greek textual study",
+              "items": [
+                "Translate Second Apology 13; distinguish σπέρμα, μίμημα, and μετουσία as terms for the philosophers' share in the Logos."
+              ]
+            },
+            {
+              "type": "para",
+              "kind": "secondary",
+              "label": "Secondary reading",
+              "text": "Henry Chadwick, Early Christian Thought and the Classical Tradition — Justin, Clement, and Origen in one arc."
+            },
+            {
+              "type": "list",
+              "kind": "prayer",
+              "label": "Πρὸς προσευχὴν καὶ θεωρίαν",
+              "items": [
+                "The Church keeps him as Ἰουστῖνος ὁ Φιλόσοφος (June 1) — the philosopher's cloak kept after baptism. At the day's end, ask what of your own formation the seed-claim covers; the plan's subtitle is his sentence."
+              ]
+            }
+          ],
+          "level": "stataria"
+        },
         {
           "id": "u17",
           "kind": "unit",
