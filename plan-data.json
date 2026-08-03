@@ -168,7 +168,7 @@
           "type": "para",
           "kind": "para",
           "label": "Lectio continua (continuous, by stage)",
-          "text": ". Whole books of Scripture, assigned stage by stage and read alongside the stage's texts at whatever daily measure the day allows — a chapter, a paragraph, a column — so that when Origen reaches for John, the whole Gospel is already present. The reading is in Greek by default — Septuagint and New Testament — with a translation at hand where it helps; from Stage 10 the Vulgate stands beside it for reference. Books are anchored to stages, not to calendars — a book that outlasts its stage carries over into the next. Assignments stand at each stage head."
+          "text": ". Whole books of Scripture, assigned stage by stage and read alongside the stage's texts at whatever daily measure the day allows — a chapter, a paragraph, a column — so that when Origen reaches for John, the whole Gospel is already present. The reading is in Greek by default — Septuagint and New Testament — with a translation at hand where it helps; from Stage 14 the Vulgate stands beside it for reference. Books are anchored to stages, not to calendars — a book that outlasts its stage carries over into the next. Assignments stand at each stage head."
         },
         {
           "type": "para",
@@ -212,13 +212,13 @@
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Classical spine. During Stage 1, work through Eleanor Dickey, An Introduction to the Composition and Analysis of Greek Prose, with North & Hillard for drill and Smyth as reference. The aim is controlled Attic syntax at sentence level, then short connected prose."
+          "text": "Classical spine. During Part I, work through Eleanor Dickey, An Introduction to the Composition and Analysis of Greek Prose, with North & Hillard for drill and Smyth as reference. The aim is controlled Attic syntax at sentence level, then short connected prose."
         },
         {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Postclassical and patristic imitation. From Stage 2 onward, composition should increasingly imitate the register and genre being read rather than forcing every author into Attic prose. Selected reflection questions are flagged (ἑλληνιστί) because their answers require the unit's key vocabulary."
+          "text": "Postclassical and patristic imitation. From Stage 5 onward, composition should increasingly imitate the register and genre being read rather than forcing every author into Attic prose. Selected reflection questions are flagged (ἑλληνιστί) because their answers require the unit's key vocabulary."
         },
         {
           "type": "para",
@@ -237,11 +237,11 @@
           "kind": "list",
           "label": "One imitation exercise may be chosen per stage:",
           "items": [
-            "Stage 1: three aphorisms in the manner of Heraclitus.",
-            "Stage 2: a short letter in Ignatian style.",
-            "Stage 4: one page of dialogue in Nyssa's manner, with Macrina given the better arguments.",
-            "Stage 6: a sustained apophatic period in the style of the Mystical Theology.",
-            "Stage 7 onward: compose short κεφάλαια, beginning with one or two rather than a whole century.",
+            "Stage 2: three aphorisms in the manner of Heraclitus.",
+            "Stage 5: a short letter in Ignatian style.",
+            "Stage 8: one page of dialogue in Nyssa's manner, with Macrina given the better arguments.",
+            "Stage 10: a sustained apophatic period in the style of the Mystical Theology.",
+            "Stage 11 onward: compose short κεφάλαια, beginning with one or two rather than a whole century.",
             "Capstone, alongside the final project: a short collection of twenty to forty κεφάλαια in a Maximian or Evagrian mode. This is formation and imitation, not a claim to reproduce the author's theology."
           ]
         },
@@ -266,7 +266,7 @@
           "type": "para",
           "kind": "para",
           "label": "Tools, named once",
-          "text": "Smyth's Greek Grammar; LSJ for the classical substrate; and — indispensable from Stage 2 onward — Lampe's Patristic Greek Lexicon, without which the patristic semantic shifts (what θέλημα does between Aristotle and Maximus, what δόξα does between Plato and the Septuagint) are invisible."
+          "text": "Smyth's Greek Grammar; LSJ for the classical substrate; and — indispensable from Stage 5 onward — Lampe's Patristic Greek Lexicon, without which the patristic semantic shifts (what θέλημα does between Aristotle and Maximus, what δόξα does between Plato and the Septuagint) are invisible."
         },
         {
           "type": "list",
@@ -286,23 +286,23 @@
     {
       "id": "st1",
       "num": "Stage 1",
-      "title": "Greek Foundations",
+      "title": "Epic: Homer and Hesiod",
       "part": {
         "name": "Part I — The Seed: the Greek Inheritance",
-        "desc": "Justin's σπέρμα τοῦ λόγου taken as curriculum: the poetic cosmos, the Presocratic problem-field, and the Platonic and Aristotelian vocabulary in which the Fathers will think. One stage, read first and returned to whenever a later author makes it newly visible."
+        "desc": "Justin's σπέρμα τοῦ λόγου taken as curriculum: the poetic cosmos, the Presocratic problem-field, and the Platonic and Aristotelian vocabulary in which the Fathers will think. Four stages, read first and returned to whenever a later author makes them newly visible."
       },
       "intro": [
         {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "This stage supplies the poetic cosmos, metaphysical problem-field, and philosophical vocabulary inherited by Plato, Aristotle, and the Fathers. It moves in three arcs: the poets, the Presocratic problem-field, and Plato and Aristotle."
+          "text": "The poetic cosmos inherited by Plato, Aristotle, and the Fathers: gods and fate, glory and mortality, cosmogony and succession — the world philosophy receives and contests."
         },
         {
           "type": "para",
           "kind": "secondary",
-          "label": "Secondary reading (stage-wide)",
-          "text": "Pierre Hadot, Qu'est-ce que la philosophie antique? — frames the whole stage as formation rather than doxography."
+          "label": "Secondary reading (Part-wide)",
+          "text": "Pierre Hadot, Qu'est-ce que la philosophie antique? — frames the whole of Part I as formation rather than doxography."
         },
         {
           "type": "list",
@@ -313,31 +313,6 @@
               "t": "Genesis and Mark",
               "when": "Units 1–2",
               "d": "Beside Homer and Hesiod — cosmogony beside cosmogony, the scar of Odysseus beside the binding of Isaac, Jacob's twenty-year νόστος beside the Odyssey's, and the Gospel's paratactic καὶ εὐθύς against epic's rolling formulae."
-            },
-            {
-              "t": "Luke",
-              "when": "Units 3–4",
-              "d": "The passion of the δίκαιος: Pilate thrice finding no guilt, the centurion's ὄντως δίκαιος where Mark has \"Son of God\", a death met composed and praying — the canon's nearest kin to the Phaedo. Acts, its second volume, waits at Units 5–6."
-            },
-            {
-              "t": "Acts",
-              "when": "Units 5–6",
-              "d": "Beside the city in speech — κοινὰ τὰ φίλων in the Republic, ἦν αὐτοῖς ἅπαντα κοινά in Acts."
-            },
-            {
-              "t": "Hebrews",
-              "when": "Units 7–9",
-              "d": "First pass, beside the Cave, the Line, and the Timaeus — the most Platonic book of the canon: ὑποδείγματι καὶ σκιᾷ τῶν ἐπουρανίων."
-            },
-            {
-              "t": "Wisdom of Solomon",
-              "when": "Units 8–9",
-              "d": "At the Timaeus border."
-            },
-            {
-              "t": "James",
-              "when": "Units 11–12",
-              "d": "Beside the Ethics — doers of the word and not hearers only: the Nicomachean thesis in apostolic dress."
             }
           ],
           "lead": "The strand keeps pace with the Greek arc, the canon answering the philosophers unit by unit."
@@ -441,7 +416,22 @@
             }
           ],
           "level": "cursoria"
-        },
+        }
+      ]
+    },
+    {
+      "id": "st1b",
+      "num": "Stage 2",
+      "title": "The Presocratic problem-field",
+      "intro": [
+        {
+          "type": "para",
+          "kind": "para",
+          "label": "",
+          "text": "From the poets to the problem-field: ἀρχή, φύσις, λόγος, being and becoming, one and many — the questions Plato inherits whole. The lectio continua (Genesis and Mark) carries over from Stage 1."
+        }
+      ],
+      "units": [
         {
           "id": "u2",
           "kind": "unit",
@@ -474,7 +464,7 @@
             },
             {
               "type": "list",
-              "kind": "list",
+              "kind": "texts",
               "label": "First movement — Nature, first principles, and intelligible order",
               "items": [
                 "Thales: principal testimonia.",
@@ -493,7 +483,7 @@
             },
             {
               "type": "list",
-              "kind": "list",
+              "kind": "texts",
               "label": "Second movement — Being, change, plurality, and causation",
               "items": [
                 "Parmenides: the Proem, the Way of Truth, and enough of the Way of Opinion to understand the contrast.",
@@ -565,7 +555,50 @@
             }
           ],
           "level": "stataria"
+        }
+      ]
+    },
+    {
+      "id": "st1c",
+      "num": "Stage 3",
+      "title": "Plato",
+      "intro": [
+        {
+          "type": "para",
+          "kind": "para",
+          "label": "",
+          "text": "Seven units from the trial of Socrates to the making of the cosmos: piety and conscience, soul and recollection, justice and the city, the Good beyond being, the One, the Demiurge."
         },
+        {
+          "type": "list",
+          "kind": "lectio",
+          "label": "Lectio continua",
+          "items": [
+            {
+              "t": "Luke",
+              "when": "Units 3–4",
+              "d": "The passion of the δίκαιος: Pilate thrice finding no guilt, the centurion's ὄντως δίκαιος where Mark has \"Son of God\", a death met composed and praying — the canon's nearest kin to the Phaedo. Acts, its second volume, waits at Units 5–6."
+            },
+            {
+              "t": "Acts",
+              "when": "Units 5–6",
+              "d": "Beside the city in speech — κοινὰ τὰ φίλων in the Republic, ἦν αὐτοῖς ἅπαντα κοινά in Acts."
+            },
+            {
+              "t": "Hebrews",
+              "when": "Units 7–9",
+              "d": "First pass, beside the Cave, the Line, and the Timaeus — the most Platonic book of the canon: ὑποδείγματι καὶ σκιᾷ τῶν ἐπουρανίων."
+            },
+            {
+              "t": "Wisdom of Solomon",
+              "when": "Units 8–9",
+              "d": "At the Timaeus border."
+            }
+          ],
+          "lead": "The strand keeps pace with the Greek arc, the canon answering the philosophers unit by unit."
+        }
+      ],
+      "units": [
         {
           "id": "u3",
           "kind": "unit",
@@ -674,7 +707,7 @@
               "type": "para",
               "kind": "memo",
               "label": "Ἀπὸ στήθους",
-              "text": "Phaedo 118a, Socrates's last words — to be weighed later against the martyrs' last words of Stage 2."
+              "text": "Phaedo 118a, Socrates's last words — to be weighed later against the martyrs' last words of Stage 5."
             },
             {
               "type": "list",
@@ -906,7 +939,7 @@
               "type": "para",
               "kind": "memo",
               "label": "Ἀπὸ στήθους",
-              "text": "Republic 509b — the ἐπέκεινα τῆς οὐσίας sentence, seeded here and harvested at Stage 6."
+              "text": "Republic 509b — the ἐπέκεινα τῆς οὐσίας sentence, seeded here and harvested at Stage 10."
             },
             {
               "type": "list",
@@ -1018,7 +1051,7 @@
               "kind": "study",
               "label": "Suggested Greek textual study",
               "items": [
-                "Translate Parmenides 137c–142a, the first deduction entire. Track ἕν, εἶναι, ὄνομα, and the negations; set the passage beside Republic 509b (Unit 7) and forward beside Enneads V.1 (Unit 30) and Mystical Theology I (Unit 35), building the first column of a \"beyond being\" dossier the plan returns to at Stage 6."
+                "Translate Parmenides 137c–142a, the first deduction entire. Track ἕν, εἶναι, ὄνομα, and the negations; set the passage beside Republic 509b (Unit 7) and forward beside Enneads V.1 (Unit 30) and Mystical Theology I (Unit 35), building the first column of a \"beyond being\" dossier the plan returns to at Stage 10."
               ]
             },
             {
@@ -1111,7 +1144,35 @@
             }
           ],
           "level": "cursoria"
+        }
+      ]
+    },
+    {
+      "id": "st1d",
+      "num": "Stage 4",
+      "title": "Aristotle",
+      "intro": [
+        {
+          "type": "para",
+          "kind": "para",
+          "label": "",
+          "text": "Categories and language, soul and nature, ethics and first philosophy: the analytic vocabulary — οὐσία, ἐνέργεια, δύναμις, τέλος — in which the Fathers will think. The stage closes with the synthesis of the whole of Part I."
         },
+        {
+          "type": "list",
+          "kind": "lectio",
+          "label": "Lectio continua",
+          "items": [
+            {
+              "t": "James",
+              "when": "Units 11–12",
+              "d": "Beside the Ethics — doers of the word and not hearers only: the Nicomachean thesis in apostolic dress."
+            }
+          ],
+          "lead": "The strand keeps pace with the Greek arc, the canon answering the philosophers unit by unit."
+        }
+      ],
+      "units": [
         {
           "id": "u10",
           "kind": "unit",
@@ -1388,7 +1449,7 @@
               "type": "para",
               "kind": "seeds",
               "label": "Essay seeds for public writing",
-              "text": "μῆνις versus θυμός — the Iliad's first word and the anatomy of wrath; περιαγωγή and μετάνοια — Plato's word for conversion and the Church's; the double life of δόξα, seeded here on the Divided Line and harvested at Stage 6, where the same word names the glory of God."
+              "text": "μῆνις versus θυμός — the Iliad's first word and the anatomy of wrath; περιαγωγή and μετάνοια — Plato's word for conversion and the Church's; the double life of δόξα, seeded here on the Divided Line and harvested at Stage 10, where the same word names the glory of God."
             }
           ]
         }
@@ -1396,11 +1457,11 @@
     },
     {
       "id": "st2",
-      "num": "Stage 2",
+      "num": "Stage 5",
       "title": "Apostolic Fathers",
       "part": {
         "name": "Part II — The Trunk: from the Apostles to the Icon",
-        "desc": "The core curriculum, read in order: the Apostolic Fathers, Irenaeus, the Alexandrians and the Cappadocians, the Neoplatonist core met midway as rival and bridge, Nazianzen and Dionysius, the roads to Maximus, Maximus himself, and the seventh council. The final project launches from Stage 8 and runs alongside whatever follows, with Stage 9 as its immediate sequel."
+        "desc": "The core curriculum, read in order: the Apostolic Fathers, Irenaeus, the Alexandrians and the Cappadocians, the Neoplatonist core met midway as rival and bridge, Nazianzen and Dionysius, the roads to Maximus, Maximus himself, and the seventh council. The final project launches from Stage 12 and runs alongside whatever follows, with Stage 13 as its immediate sequel."
       },
       "intro": [
         {
@@ -1747,7 +1808,7 @@
     },
     {
       "id": "st3",
-      "num": "Stage 3",
+      "num": "Stage 6",
       "title": "Irenaeus and the Rule of Faith",
       "part": null,
       "intro": [
@@ -1795,7 +1856,8 @@
               "label": "Texts",
               "items": [
                 "Irenaeus, Demonstration of the Apostolic Preaching, complete.",
-                "Irenaeus, Against Heresies, selected passages: I.10; III.16–23; IV.20; V.1–2 and selected eschatological passages."
+                "Irenaeus, Against Heresies, selected passages: I.10; III.16–23; IV.20; V.1–2 and selected eschatological passages.",
+                "Optional satellite: the Gospel of Thomas — the Greek fragments (P.Oxy 1, 654, 655), with logia 1, 13, and 77 in translation: the rule of faith performed on a text from outside it. (It is Hippolytus, not Irenaeus, who names a Gospel of Thomas; the placement is thematic.)"
               ]
             },
             {
@@ -1808,7 +1870,7 @@
               "type": "para",
               "kind": "scripture",
               "label": "Scripture in parallel",
-              "text": "Genesis 1–3; Romans 5; 1 Corinthians 15; Ephesians 1:3–10. These are the principal scriptural fields in which Irenaeus joins creation, Adam, Christ, resurrection, and ἀνακεφαλαίωσις."
+              "text": "Genesis 1–3; Romans 5; 1 Corinthians 15; Ephesians 1:3–10. These are the principal scriptural fields in which Irenaeus joins creation, Adam, Christ, resurrection, and ἀνακεφαλαίωσις. With the Thomas satellite: John 20:24–29 — the other Thomas, doubt ending in ὁ κύριός μου καὶ ὁ θεός μου."
             },
             {
               "type": "para",
@@ -1873,21 +1935,14 @@
     },
     {
       "id": "st4",
-      "num": "Stage 4",
-      "title": "The Alexandrians and the Nicene-Cappadocian Transformation",
-      "part": null,
+      "num": "Stage 7",
+      "title": "The Alexandrians",
       "intro": [
         {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "This stage moves historically from Philo through Clement and Origen into Athanasius, Basil, and Gregory of Nyssa, reading Origen as an earlier achievement and problem-field in his own right. The stage falls into two movements — the Alexandrians, Clement and Origen (Units 18–21), and the Nicene–Cappadocian transformation (Units 22–26) — and may be paced, and its synthesis drafted, accordingly."
-        },
-        {
-          "type": "para",
-          "kind": "secondary",
-          "label": "Secondary reading (stage-wide)",
-          "text": "John Behr, The Nicene Faith — the movement from Origen and Athanasius into the Cappadocian settlement."
+          "text": "From Philo through Clement to Origen, read as an earlier achievement and problem-field in its own right."
         },
         {
           "type": "list",
@@ -1903,16 +1958,6 @@
               "t": "John",
               "when": "Units 19–21",
               "d": "First pass, as Origen's Gospel — present in full before the exegesis reaches for it."
-            },
-            {
-              "t": "1 Corinthians, with 1–2 Thessalonians",
-              "when": "Units 22–24",
-              "d": "Resurrection argued by the Apostle before Athanasius, and before Macrina's \"with what body do they come?\" — the Thessalonian letters entering at Unit 24."
-            },
-            {
-              "t": "Exodus, with the Song of Songs",
-              "when": "Units 25–26",
-              "d": "Under the Life of Moses, the Song entering at Unit 26 — the field where Origen's and Nyssa's mystical exegesis lives."
             }
           ],
           "lead": "The books this stage's exegesis lives in, each present in full before a Father reaches for it."
@@ -2244,7 +2289,46 @@
             }
           ],
           "level": "cursoria"
+        }
+      ]
+    },
+    {
+      "id": "st4b",
+      "num": "Stage 8",
+      "title": "The Nicene-Cappadocian Transformation",
+      "intro": [
+        {
+          "type": "para",
+          "kind": "para",
+          "label": "",
+          "text": "Athanasius, Basil, and Gregory of Nyssa: the Alexandrian inheritance transformed into Nicene-Cappadocian theology."
         },
+        {
+          "type": "para",
+          "kind": "secondary",
+          "label": "Secondary reading (stage-wide)",
+          "text": "John Behr, The Nicene Faith — the movement from Origen and Athanasius into the Cappadocian settlement."
+        },
+        {
+          "type": "list",
+          "kind": "lectio",
+          "label": "Lectio continua",
+          "items": [
+            {
+              "t": "1 Corinthians, with 1–2 Thessalonians",
+              "when": "Units 22–24",
+              "d": "Resurrection argued by the Apostle before Athanasius, and before Macrina's \"with what body do they come?\" — the Thessalonian letters entering at Unit 24."
+            },
+            {
+              "t": "Exodus, with the Song of Songs",
+              "when": "Units 25–26",
+              "d": "Under the Life of Moses, the Song entering at Unit 26 — the field where Origen's and Nyssa's mystical exegesis lives."
+            }
+          ],
+          "lead": "The books this stage's exegesis lives in, each present in full before a Father reaches for it."
+        }
+      ],
+      "units": [
         {
           "id": "u22",
           "kind": "unit",
@@ -2448,7 +2532,7 @@
               "type": "para",
               "kind": "memo",
               "label": "Ἀπὸ στήθους",
-              "text": "Optional: 1 Corinthians 15:51–55 — the trumpet, in Greek."
+              "text": "Optional: 1 Corinthians 15:51–55 — the trumpet, in Greek. Optional: 1 Corinthians 15:24–28 — the end: death the last enemy, and ἵνα ᾖ ὁ θεὸς πάντα ἐν πᾶσιν."
             },
             {
               "type": "list",
@@ -2531,7 +2615,7 @@
               "type": "para",
               "kind": "memo",
               "label": "Ἀπὸ στήθους",
-              "text": "Exodus 3:14 LXX — Ἐγώ εἰμι ὁ ὤν: one verse, carried henceforth; Stage 6 and the halo of every icon of Christ will ask for it back."
+              "text": "Exodus 3:14 LXX — Ἐγώ εἰμι ὁ ὤν: one verse, carried henceforth; Stage 10 and the halo of every icon of Christ will ask for it back."
             },
             {
               "type": "list",
@@ -2687,7 +2771,7 @@
     },
     {
       "id": "st5",
-      "num": "Stage 5",
+      "num": "Stage 9",
       "title": "Neoplatonist Core",
       "part": null,
       "intro": [
@@ -3123,7 +3207,7 @@
     },
     {
       "id": "st6",
-      "num": "Stage 6",
+      "num": "Stage 10",
       "title": "Gregory Nazianzen and Pseudo-Dionysius",
       "part": null,
       "intro": [
@@ -3242,7 +3326,8 @@
               "label": "Texts",
               "items": [
                 "Gregory of Nazianzus, Orations 27–31",
-                "Oration 38 (Nativity–Theophany) and Oration 45 (Pascha) — the festal Gregory, and the lemmata of the Ambigua: reread beside Units 42–43 (Or. 38 in SC 358; Or. 45 in PG 36)."
+                "Oration 38 (Nativity–Theophany) and Oration 45 (Pascha) — the festal Gregory, and the lemmata of the Ambigua: reread beside Units 42–43 (Or. 38 in SC 358; Or. 45 in PG 36).",
+                "Gregory of Nazianzus, Epistle 101 to Cledonius — short, the standard companion to the Orations, and the axiom's home: τὸ γὰρ ἀπρόσληπτον, ἀθεράπευτον — what is not assumed is not healed. Basil's rule for what the Christian may take up (Unit 23) is answered here by the rule of what the Logos took up."
               ]
             },
             {
@@ -3261,7 +3346,7 @@
               "type": "para",
               "kind": "memo",
               "label": "Ἀπὸ στήθους",
-              "text": "The apophatic Ὦ πάντων ἐπέκεινα transmitted under Gregory's name — its disputed authorship is itself a Stage 6 discussion."
+              "text": "The apophatic Ὦ πάντων ἐπέκεινα transmitted under Gregory's name — its disputed authorship is itself a Stage 10 discussion."
             },
             {
               "type": "list",
@@ -3575,7 +3660,7 @@
     },
     {
       "id": "st7",
-      "num": "Stage 7",
+      "num": "Stage 11",
       "title": "The Roads to Maximus",
       "part": null,
       "intro": [
@@ -3743,7 +3828,7 @@
               "type": "para",
               "kind": "goal",
               "label": "Goal",
-              "text": "Enter Stage 8 with the Christological question Maximus is answering already precise in mind."
+              "text": "Enter Stage 12 with the Christological question Maximus is answering already precise in mind."
             },
             {
               "type": "list",
@@ -3783,7 +3868,7 @@
             {
               "type": "para",
               "kind": "seeds",
-              "label": "Essay seeds for public writing (Stage 7)",
+              "label": "Essay seeds for public writing (Stage 11)",
               "text": "πάθος → passion — how suffering became romance; θέλημα φυσικόν versus γνωμικόν — Gethsemane and the patristic resolution of the freedom paradox; learning the Creed by heart in the Greek that wrote it."
             }
           ],
@@ -3793,7 +3878,7 @@
     },
     {
       "id": "st8",
-      "num": "Stage 8",
+      "num": "Stage 12",
       "title": "Maximus the Confessor",
       "part": null,
       "intro": [
@@ -3801,7 +3886,7 @@
           "type": "para",
           "kind": "para",
           "label": "This is the culmination of the core curriculum",
-          "text": "the final project launches from this stage and runs alongside whatever follows, with Stage 9 as its immediate sequel. Part III's four trajectories — Stages 10–13 — are integral to the plan and ordered by the rules given at its head; none is a prerequisite for beginning the translation apprenticeship."
+          "text": "the final project launches from this stage and runs alongside whatever follows, with Stage 13 as its immediate sequel. Part III's four trajectories — Stages 14–17 — are integral to the plan and ordered by the rules given at its head; none is a prerequisite for beginning the translation apprenticeship."
         },
         {
           "type": "para",
@@ -4278,7 +4363,7 @@
     },
     {
       "id": "st9",
-      "num": "Stage 9",
+      "num": "Stage 13",
       "title": "The Icon",
       "part": null,
       "intro": [
@@ -4286,7 +4371,7 @@
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "The seventh council and the theology of the icon, read through John of Damascus. Stage 12 presupposes its theology of matter."
+          "text": "The seventh council and the theology of the icon, read through John of Damascus. Stage 16 presupposes its theology of matter."
         },
         {
           "type": "list",
@@ -4296,7 +4381,7 @@
             {
               "t": "Ezekiel",
               "when": "Units 44–49",
-              "d": "The canon's most self-conscious book about what seeing God means: the vision arriving as \"the appearance of the likeness of the glory of the Lord,\" the commanded cherubim of the temple walls, the glory that departs and returns — a whole theology of presence-in-image, read where the icon is argued. Read after Revelation, it shows the Apocalypse to have been exegesis all along: the throne, the living creatures, the measured city, and the river of life are Ezekiel's. A long book for a one-unit stage: let it run across the border into Stage 10 rather than crowd Unit 44."
+              "d": "The canon's most self-conscious book about what seeing God means: the vision arriving as \"the appearance of the likeness of the glory of the Lord,\" the commanded cherubim of the temple walls, the glory that departs and returns — a whole theology of presence-in-image, read where the icon is argued. Read after Revelation, it shows the Apocalypse to have been exegesis all along: the throne, the living creatures, the measured city, and the river of life are Ezekiel's. A long book for a one-unit stage: let it run across the border into Stage 14 rather than crowd Unit 44."
             }
           ]
         }
@@ -4346,7 +4431,7 @@
               "items": [
                 "εἰκών from Genesis 1:26 through Colossians 1:15 to the council: image as an ontological category before it is an artistic one.",
                 "The argument from Incarnation: ὁ ἀπερίγραπτος περιγράφεται — why the council frames iconoclasm as a Christological heresy.",
-                "Matter as bearer of grace: the Damascene's defense of ὕλη — the dogmatic charter of the northern stage (Stage 12), and the ground already presupposed by the plan's icon exercises (Unit 29; later, Cusa's De visione Dei).",
+                "Matter as bearer of grace: the Damascene's defense of ὕλη — the dogmatic charter of the northern stage (Stage 16), and the ground already presupposed by the plan's icon exercises (Unit 29; later, Cusa's De visione Dei).",
                 "προσκύνησις against λατρεία — and the Libri Carolini fiasco, in which Charlemagne's court condemned a council it knew only through a Latin translation that collapsed the distinction into adoratio: a translation-mediation disaster in the exact key of Unit 48 and of the capstone.",
                 "The conduit westward: Burgundio's Latin Expositio, Lombard, Aquinas's ubiquitous \"Damascenus.\""
               ]
@@ -4355,7 +4440,7 @@
               "type": "para",
               "kind": "goal",
               "label": "Goal",
-              "text": "Add the seventh council to the conciliar spine and acquire the theology of image and matter on which Stage 10 (via the Latin Damascene), Stage 11 (via Palamas's citations), Stage 12 (matter and the Mother), and Stage 13 (the icon dossier, Trubetskoy) all silently draw."
+              "text": "Add the seventh council to the conciliar spine and acquire the theology of image and matter on which Stage 14 (via the Latin Damascene), Stage 15 (via Palamas's citations), Stage 16 (matter and the Mother), and Stage 17 (the icon dossier, Trubetskoy) all silently draw."
             },
             {
               "type": "list",
@@ -4386,7 +4471,7 @@
               "type": "para",
               "kind": "secondary",
               "label": "Secondary reading",
-              "text": "Andrew Louth, St John Damascene: Tradition and Originality in Byzantine Theology — the standard monograph, by the plan's house author. Forward reference: E. Trubetskoy's icon essays at Stage 13."
+              "text": "Andrew Louth, St John Damascene: Tradition and Originality in Byzantine Theology — the standard monograph, by the plan's house author. Forward reference: E. Trubetskoy's icon essays at Stage 17."
             },
             {
               "type": "list",
@@ -4409,18 +4494,18 @@
     },
     {
       "id": "st10",
-      "num": "Stage 10",
+      "num": "Stage 14",
       "title": "Western Deepening: Augustine, Boethius, and Aquinas",
       "part": {
         "name": "Part III — The Branches: the Post-Maximian Trajectories",
-        "desc": "Four stages after Maximus, integral to the plan but flexible in order: Stages 10 and 11 may be taken in either order; Stage 12 presupposes Stages 8 and 9 and profits from Stage 11; Stage 13 presupposes Stage 11 (Palamas) and follows Stage 12, whose final unit opens onto it. None is a prerequisite for beginning the translation apprenticeship."
+        "desc": "Four stages after Maximus, integral to the plan but flexible in order: Stages 14 and 15 may be taken in either order; Stage 16 presupposes Stages 12 and 13 and profits from Stage 15; Stage 17 presupposes Stage 15 (Palamas) and follows Stage 16, whose final unit opens onto it. None is a prerequisite for beginning the translation apprenticeship."
       },
       "intro": [
         {
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "This stage may be taken before or after Stage 11. Its purpose is comparison of the two traditions."
+          "text": "This stage may be taken before or after Stage 15. Its purpose is comparison of the two traditions."
         },
         {
           "type": "list",
@@ -4636,7 +4721,7 @@
                 "Last of the Romans, first of the scholastics: the vocabulary-mint between Augustine and Aquinas.",
                 "Persona est naturae rationabilis individua substantia — Contra Eutychen 3 feeding back into Unit 38's ὑπόστασις/πρόσωπον settlement and forward into all scholastic usage.",
                 "Eternity as interminabilis vitae tota simul et perfecta possessio (Cons. V.6) — the definition Aquinas adopts; providence, fate, and foreknowledge in Books IV–V beside Unit 10's future contingents.",
-                "Lady Philosophia: the West's feminine wisdom-figure consoling a condemned man — a resonance Stage 13 will name.",
+                "Lady Philosophia: the West's feminine wisdom-figure consoling a condemned man — a resonance Stage 17 will name.",
                 "The deliberate absence of Christ's name: philosophy's consolation at its limit."
               ]
             },
@@ -4871,7 +4956,7 @@
     },
     {
       "id": "st11",
-      "num": "Stage 11",
+      "num": "Stage 15",
       "title": "Later Byzantine Hesychast Reception and Synthesis",
       "part": null,
       "intro": [
@@ -5115,7 +5200,7 @@
               "type": "para",
               "kind": "goal",
               "label": "Goal",
-              "text": "Understand Palamas as a later Byzantine interpreter and defender of deification, participation, and the vision of God, and compare his conceptual framework with both earlier Greek Fathers and the Western deepening of Stage 10 without assuming that the traditions formulate identical questions."
+              "text": "Understand Palamas as a later Byzantine interpreter and defender of deification, participation, and the vision of God, and compare his conceptual framework with both earlier Greek Fathers and the Western deepening of Stage 14 without assuming that the traditions formulate identical questions."
             },
             {
               "type": "list",
@@ -5194,7 +5279,7 @@
               "items": [
                 "Doctrine receiving conciliar form: how a monastic dispute became the Church's confession.",
                 "The Synodikon's anathemas and acclamations as theology in liturgical mode — the same lex orandi principle met in the Mystagogy.",
-                "The fourteenth-century Orthodox settlement and its continuing differences from, and points of contact with, the Western deepening of Stage 10."
+                "The fourteenth-century Orthodox settlement and its continuing differences from, and points of contact with, the Western deepening of Stage 14."
               ]
             },
             {
@@ -5242,7 +5327,7 @@
               "type": "para",
               "kind": "para",
               "label": "",
-              "text": "The historical road from the hesychast councils to the Russians: Nicodemus and Macarius's Philokalia (1782), Paisius Velichkovsky's Slavonic Dobrotolubiye (1793), Seraphim of Sarov, and the Optina eldership from which Dostoevsky drew Zosima. Read: The Way of a Pilgrim (the Russian at hand, per the source rule) and Seraphim's Conversation with Motovilov — Unit 52's doctrine as eyewitness narrative in the snow. The Pilgrim's prayer-instructions are read here as literature and history. Questions: Is the Pilgrim Palamas democratized, or de-contextualized? What kind of evidence is Motovilov's account — confirmation of the Triads, or a different genre entirely? What changes when eldership becomes literature? This coda welds this stage to Stage 12's Dostoevsky and Stage 13's whole milieu: the nineteenth century had two Russian revivals, the Philokalic and the philosophical, and they meet at Optina."
+              "text": "The historical road from the hesychast councils to the Russians: Nicodemus and Macarius's Philokalia (1782), Paisius Velichkovsky's Slavonic Dobrotolubiye (1793), Seraphim of Sarov, and the Optina eldership from which Dostoevsky drew Zosima. Read: The Way of a Pilgrim (the Russian at hand, per the source rule) and Seraphim's Conversation with Motovilov — Unit 52's doctrine as eyewitness narrative in the snow. The Pilgrim's prayer-instructions are read here as literature and history. Questions: Is the Pilgrim Palamas democratized, or de-contextualized? What kind of evidence is Motovilov's account — confirmation of the Triads, or a different genre entirely? What changes when eldership becomes literature? This coda welds this stage to Stage 16's Dostoevsky and Stage 17's whole milieu: the nineteenth century had two Russian revivals, the Philokalic and the philosophical, and they meet at Optina."
             }
           ]
         },
@@ -5283,7 +5368,7 @@
     },
     {
       "id": "st12",
-      "num": "Stage 12",
+      "num": "Stage 16",
       "title": "The Baptism of the North: creation, the Mother of God, and the old ways",
       "part": null,
       "intro": [
@@ -5291,7 +5376,7 @@
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Insular Christianity and its meeting with the pre-Christian North, read from the primary documents; creation-as-theophany from Maximus through Eriugena. Latin becomes a primary reading language for long stretches; vernaculars are read in translation with the source text on the desk. The stage ends at the Mother of God and leads into Stage 13."
+          "text": "Insular Christianity and its meeting with the pre-Christian North, read from the primary documents; creation-as-theophany from Maximus through Eriugena. Latin becomes a primary reading language for long stretches; vernaculars are read in translation with the source text on the desk. The stage ends at the Mother of God and leads into Stage 17."
         },
         {
           "type": "para",
@@ -5553,7 +5638,7 @@
               "items": [
                 "Gregory's rule as missiology: temples consecrated, idols destroyed, feasts transposed — and the axe as the rule's other edge.",
                 "The Rood speaking as a tree: the young hero mounting the gallows; heroic diction crucified and raised.",
-                "The Heliand: Christ the drohtin, the disciples a war-band — the Germanic member of the plan's Christian-epic family (Juvencus, Nonnus, Eudocia).",
+                "The Heliand: Christ the drohtin, the disciples a war-band — the Gospel recast as Germanic epic.",
                 "The charms: Mother Earth named inside a fully Christian rite — dvoeverie, or Gregory's rule succeeding?"
               ]
             },
@@ -5648,7 +5733,7 @@
               "type": "para",
               "kind": "goal",
               "label": "Goal",
-              "text": "Eriugena receives Dionysius, Maximus, and Nyssa in the Latin West; the unit opens Stage 12 toward Stage 13."
+              "text": "Eriugena receives Dionysius, Maximus, and Nyssa in the Latin West; the unit opens Stage 16 toward Stage 17."
             },
             {
               "type": "list",
@@ -5666,7 +5751,7 @@
               "kind": "study",
               "label": "Suggested Latin textual study",
               "items": [
-                "Translate a page of the Vox spiritualis; then a Periphyseon passage on the causes with Ambiguum 7's logoi passage in parallel — the stage's form of the plan's standing triangulation exercise."
+                "Translate a page of the Vox spiritualis; then a Periphyseon passage on the causes with Ambiguum 7's logoi passage in parallel — this stage's form of Stage 14's triangulation exercise."
               ]
             },
             {
@@ -5827,7 +5912,7 @@
               "type": "para",
               "kind": "goal",
               "label": "Goal",
-              "text": "End the stage where its materials converge — matter, motherhood, and the Mother. Stage 13's Sophia is met against this background."
+              "text": "End the stage where its materials converge — matter, motherhood, and the Mother. Stage 17's Sophia is met against this background."
             },
             {
               "type": "list",
@@ -5851,7 +5936,7 @@
               "type": "para",
               "kind": "secondary",
               "label": "Secondary reading",
-              "text": "Barbara Newman, Sister of Wisdom — the title itself the bridge to Stage 13; Brock, The Luminous Eye; Fedotov."
+              "text": "Barbara Newman, Sister of Wisdom — the title itself the bridge to Stage 17; Brock, The Luminous Eye; Fedotov."
             },
             {
               "type": "list",
@@ -5885,7 +5970,7 @@
             {
               "type": "para",
               "kind": "para",
-              "label": "Between Stages 12 and 13 — the hinge shelf",
+              "label": "Between Stages 16 and 17 — the hinge shelf",
               "text": "Michael Martin, Sophia in Exile; and Meditations on the Tarot, letters XII–XXII, with Balthasar's afterword to the German edition; flags as named; the second half crests at the Fool, so let it keep company with Unit 58."
             }
           ]
@@ -5894,7 +5979,7 @@
     },
     {
       "id": "st13",
-      "num": "Stage 13",
+      "num": "Stage 17",
       "title": "Sophiology: Holy Wisdom and the Russian school",
       "part": null,
       "intro": [
@@ -6053,7 +6138,7 @@
               "items": [
                 "The docta ignorantia conceived at sea returning from Constantinople — Byzantium's apophasis re-entering the West as a souvenir.",
                 "Coincidentia oppositorum beside Dionysius's negations (Units 34–35) and Palamas's essence and energies (Unit 52): one apophasis, or three?",
-                "The wall of paradise, and the icon whose gaze holds every walker at once — theology as an exercise performed before an image, on Stage 9's ground.",
+                "The wall of paradise, and the icon whose gaze holds every walker at once — theology as an exercise performed before an image, on Stage 13's ground.",
                 "The Eriugena lineage, documentary: the Kues annotations, Wenck's accusation, the Apologia — Unit 57's afterlife."
               ]
             },
@@ -6070,7 +6155,7 @@
               "items": [
                 "Is De pace fidei Justin's σπέρμα τοῦ λόγου matured, or overextended past what Justin would sign — where exactly is the line?",
                 "Does coincidence-language endanger Chalcedon's ἀσυγχύτως, or restate it at the limit?",
-                "What does the omnivoyant-icon exercise assume that Stage 9 vindicated — and what does it add?",
+                "What does the omnivoyant-icon exercise assume that Stage 13 vindicated — and what does it add?",
                 "Eriugena 1225, Cusa accused, Bulgakov 1935: what precisely keeps being indicted — and is it ever the same thing?"
               ]
             },
@@ -6199,7 +6284,7 @@
                 "Unfading Light: the Divine Nothing — where Eriugena and Cusa appear in person (Units 57 and 61).",
                 "The Burning Bush, central chapters — the Mariology answering Unit 59.",
                 "The great trilogy, selections: The Lamb of God on kenosis and the two Sophias; The Bride of the Lamb on creaturely Sophia.",
-                "Satellite: Philosophy of the Name — the imiaslavie thread, tying back to Stage 11's Jesus Prayer (Units 52–53)."
+                "Satellite: Philosophy of the Name — the imiaslavie thread, tying back to Stage 15's Jesus Prayer (Units 52–53)."
               ]
             },
             {
@@ -6226,9 +6311,9 @@
               "label": "Focus",
               "items": [
                 "The two Sophias, and ипостасность — hypostaticity, the coinage under judgment: ousia-revealed, energy, or quasi-hypostasis, across a corpus that never quite settles.",
-                "Kenosis as Ur-act — Balthasar's acknowledged debt, closing a loop with Stage 8's Cosmic Liturgy.",
+                "Kenosis as Ur-act — Balthasar's acknowledged debt, closing a loop with Stage 12's Cosmic Liturgy.",
                 "The Burning Bush against Unit 59: the Mother as created Sophia's summit — the Unburnt Bush as icon and thesis.",
-                "The logoi question: is created Sophia Unit 43's doctrine renamed? Wood and Loudovikos are already arguing it in the Stage 8 secondary reading."
+                "The logoi question: is created Sophia Unit 43's doctrine renamed? Wood and Loudovikos are already arguing it in the Stage 12 secondary reading."
               ]
             },
             {
@@ -6392,7 +6477,7 @@
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "Stage 8 marks completion of the core curriculum, and the final project launches from it, with Stage 9 as its immediate sequel. The four post-Maximian stages of Part III are integral to the plan. Stages 10 and 11 may be taken in either order; Stage 12 presupposes Stages 8 and 9 and profits from Stage 11; Stage 13 presupposes Stage 11 (Palamas) and follows Stage 12, whose final unit opens onto it. None is a prerequisite for beginning the translation apprenticeship. A core pass through a unit is sufficient to proceed; deep and research modes are chosen where the text, the Greek, or the eventual translation project warrants sustained return."
+          "text": "Stage 12 marks completion of the core curriculum, and the final project launches from it, with Stage 13 as its immediate sequel. The four post-Maximian stages of Part III are integral to the plan. Stages 14 and 15 may be taken in either order; Stage 16 presupposes Stages 12 and 13 and profits from Stage 15; Stage 17 presupposes Stage 15 (Palamas) and follows Stage 16, whose final unit opens onto it. None is a prerequisite for beginning the translation apprenticeship. A core pass through a unit is sufficient to proceed; deep and research modes are chosen where the text, the Greek, or the eventual translation project warrants sustained return."
         },
         {
           "type": "para",
@@ -6507,14 +6592,14 @@
           "items": [
             { "id": "septuagint", "t": "Septuagint — Rahlfs–Hanhart, Septuaginta, editio altera. The Psalter in daily use, and the lectio continua core: Genesis, Exodus, Deuteronomy, Ruth, Tobit, Job, Proverbs, Ecclesiastes, Song of Songs, Wisdom, Sirach, Isaiah, Jeremiah with Baruch, Lamentations, and the Epistle of Jeremiah, Ezekiel, Daniel (Theodotion, with Susanna, the Song of the Three, and Bel and the Dragon), and the Twelve Prophets." },
             { "id": "greek-new-testament", "t": "Greek New Testament — Nestle–Aland, 28th edition, running throughout; the lectio continua strand traverses the whole of it across the plan, with Hebrews, John, and Romans read twice." },
-            { "id": "latin-vulgate", "t": "Latin Vulgate — Weber–Gryson, Biblia Sacra Vulgata, editio quinta. On the shelf from Stage 10, for reference beside Augustine, Boethius, and Aquinas; nothing assigned from it — but Romans 5:12, in quo omnes peccaverunt beside ἐφ' ᾧ πάντες ἥμαρτον, is the one verse where the Latin must be seen to understand what the West built on it." }
+            { "id": "latin-vulgate", "t": "Latin Vulgate — Weber–Gryson, Biblia Sacra Vulgata, editio quinta. On the shelf from Stage 14, for reference beside Augustine, Boethius, and Aquinas; nothing assigned from it — but Romans 5:12, in quo omnes peccaverunt beside ἐφ' ᾧ πάντες ἥμαρτον, is the one verse where the Latin must be seen to understand what the West built on it." }
           ]
         },
         { "type": "subhead", "text": "C.2 — Primary editions by first-use stage" },
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 1",
+          "label": "Stages 1–4",
           "items": [
             { "id": "homer-iliad", "t": "Homer, Iliad — LCL 170–171 (Murray)." },
             { "id": "homer-odyssey", "t": "Homer, Odyssey — LCL 104–105 (Murray)." },
@@ -6530,7 +6615,7 @@
             { "id": "aristotle-soul", "t": "Aristotle, On the Soul — LCL 288." },
             { "id": "aristotle-physics", "t": "Aristotle, Physics — LCL 228 and 255." },
             { "id": "aristotle-nicomachean-ethics", "t": "Aristotle, Nicomachean Ethics — LCL 73." },
-            { "id": "aristotle-metaphysics", "t": "Aristotle, Metaphysics — LCL 271 and 287 (reused at Stage 10)." },
+            { "id": "aristotle-metaphysics", "t": "Aristotle, Metaphysics — LCL 271 and 287 (reused at Stage 14)." },
             { "id": "porphyry-isagoge", "t": "Porphyry, Isagoge — Barnes (Clarendon); Busse's CAG text." },
             { "id": "epictetus-enchiridion", "t": "Epictetus, Enchiridion — Boter's critical text; or Oldfather, Epictetus II, LCL 218 (any printing)." }
           ]
@@ -6538,7 +6623,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 2",
+          "label": "Stage 5",
           "items": [
             { "id": "apostolic-fathers", "t": "The Apostolic Fathers — Holmes, The Apostolic Fathers: Greek Texts and English Translations, as the working edition: the complete corpus, full Hermas included, with a serviceable select apparatus. The SC volumes serve as the commentary layer, consulted where a unit's close work wants them — above all Camelot's Ignatius (SC 10) for the Smyrnaeans textual study and Marrou's À Diognète (SC 33); the rest as needed: 1 Clement (SC 167), Didache (SC 248), Barnabas (SC 172), Hermas (SC 53). Ehrman's Loeb (LCL 24–25) duplicates Holmes and is for the collection only." }
           ]
@@ -6546,7 +6631,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 3",
+          "label": "Stage 6",
           "items": [
             { "id": "justin-apologies", "t": "Justin Martyr, Apologies — SC 507 (Munier)." },
             { "id": "justin-dialogue-trypho", "t": "Justin Martyr, Dialogue with Trypho — Bobichon's Fribourg critical edition, English in Falls–Halton (verify against the catalogue, per standing rule)." },
@@ -6557,7 +6642,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 4",
+          "label": "Stages 7–8",
           "items": [
             { "id": "plato-theaetetus-176a-b", "t": "Plato, Theaetetus 176a–b — LCL 123 (Unit 18 satellite)." },
             { "id": "tertullian-praescriptione-haereticorum-7", "t": "Tertullian, De praescriptione haereticorum 7 — short Unit 18 satellite; any reliable Latin text or digital edition; no separate purchase required." },
@@ -6586,7 +6671,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 5",
+          "label": "Stage 9",
           "items": [
             { "id": "plotinus-enneads-porphyry-s", "t": "Plotinus, Enneads, with Porphyry's Life of Plotinus in vol. I — Armstrong, LCL 440–445 and 468." },
             { "id": "nock-festugiere-corpus-hermeticum", "t": "Nock–Festugière, Corpus Hermeticum, 4 vols (Budé); Copenhaver, Hermetica (Cambridge)." }
@@ -6595,7 +6680,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 6",
+          "label": "Stage 10",
           "items": [
             { "id": "gregory-nazianzus-orations-1", "t": "Gregory of Nazianzus, Orations 1–2 — SC 247 (Discours 1–3)." },
             { "id": "gregory-nazianzus-orations-27", "t": "Gregory of Nazianzus, Orations 27–31 — SC 250." },
@@ -6611,7 +6696,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 7",
+          "label": "Stage 11",
           "items": [
             { "id": "evagrius-praktikos", "t": "Evagrius, Praktikos — Traité pratique, SC 170–171 (Guillaumont)." },
             { "id": "evagrius-on-prayer", "t": "Evagrius, On Prayer — Chapitres sur la prière, SC 589 (Géhin)." },
@@ -6624,7 +6709,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 8",
+          "label": "Stage 12",
           "items": [
             { "id": "maximus-ambigua-thomas-john", "t": "Maximus, Ambigua to Thomas and to John — Constas, DOML 28–29; the Ambigua to Thomas critically in Janssens, CCSG 48." },
             { "id": "maximus-questions-thalassius-selections", "t": "Maximus, Questions to Thalassius, selections — Questions à Thalassios, SC 529, 554, and 569 (the Laga–Steel text with Vinel's French); critical text CCSG 7 and 22." },
@@ -6637,7 +6722,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 9",
+          "label": "Stage 13",
           "items": [
             { "id": "john-damascus-expositio-fidei", "t": "John of Damascus, Expositio fidei — Kotter (PTS) vol. II; SC 535 and 540 (La foi orthodoxe)." },
             { "id": "john-damascus-divine-images", "t": "John of Damascus, Contra imaginum calumniatores — Kotter (PTS) vol. III; Louth, Three Treatises on the Divine Images (Popular Patristics)." },
@@ -6649,7 +6734,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 10",
+          "label": "Stage 14",
           "items": [
             { "id": "augustine-confessions", "t": "Augustine, Confessions — LCL 26–27 (Hammond), read in Latin." },
             { "id": "augustine-city-god-viii", "t": "Augustine, City of God VIII–X — the Loeb City of God (seven volumes; Books VIII–X fall in the third)." },
@@ -6662,7 +6747,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 11",
+          "label": "Stage 15",
           "items": [
             { "id": "john-climacus-ladder-divine", "t": "John Climacus, The Ladder of Divine Ascent, with To the Shepherd — the Luibheid–Russell Classics of Western Spirituality volume, or the Holy Transfiguration Monastery edition." },
             { "id": "symeon-hymns", "t": "Symeon the New Theologian, Hymns — SC 156, 174, and 196 (Koder)." },
@@ -6681,7 +6766,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 12",
+          "label": "Stage 16",
           "items": [
             { "id": "patrick", "t": "Patrick — SC 249 (Hanson)." },
             { "id": "cambrai-homily-deer-s", "t": "The Cambrai Homily and the Deer's Cry — Stokes & Strachan, Thesaurus Palaeohibernicus II." },
@@ -6711,7 +6796,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Bridge: Stages 12–13",
+          "label": "Bridge: Stages 16–17",
           "items": [
             { "id": "michael-martin-sophia-exile", "t": "Michael Martin, Sophia in Exile." },
             { "id": "tomberg-meditations-tarot-letters", "t": "Tomberg, Meditations on the Tarot, Letters XII–XXII — Powell's translation, with Balthasar's afterword." }
@@ -6720,7 +6805,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 13",
+          "label": "Stage 17",
           "items": [
             { "id": "athanasius-contra-arianos-ii", "t": "Athanasius, Contra Arianos II — Anatolios's selections or NPNF; Metzler–Savvidis for the text." },
             { "id": "cusa", "t": "Cusa — Heidelberg Opera omnia, Bond (CWS), Hopkins online." },
@@ -6751,7 +6836,7 @@
             { "id": "muraoka-greek-english-lexicon", "t": "Muraoka, A Greek–English Lexicon of the Septuagint — for the LXX core, where LSJ's coverage of translation Greek thins." },
             { "id": "eleanor-dickey-composition", "t": "Eleanor Dickey, An Introduction to the Composition and Analysis of Greek Prose." },
             { "id": "north-hillard", "t": "North & Hillard, Greek Prose Composition — for drill." },
-            { "id": "thesaurus-linguae-graecae-tlg", "t": "The Thesaurus Linguae Graecae (TLG) — the working corpus for the glossary and the word-histories (θέλημα, δόξα, λόγος); indispensable from Stage 4 onward." },
+            { "id": "thesaurus-linguae-graecae-tlg", "t": "The Thesaurus Linguae Graecae (TLG) — the working corpus for the glossary and the word-histories (θέλημα, δόξα, λόγος); indispensable from Stage 7 onward." },
             { "id": "e-sophocles-greek-lexicon", "t": "E. A. Sophocles, Greek Lexicon of the Roman and Byzantine Periods — the register between LSJ and Lampe, for the councils, Symeon, and Palamas." },
             { "id": "horrocks-greek", "t": "Horrocks, Greek: A History of the Language and its Speakers — post-classical syntax and register where Smyth's Attic gives out." },
             { "id": "bdf", "t": "BDF — Blass–Debrunner–Funk, A Greek Grammar of the New Testament and Other Early Christian Literature — the reference grammar for New Testament Koine." },
@@ -6778,7 +6863,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 1",
+          "label": "Stages 1–4",
           "items": [
             { "id": "sec-s1-hadot", "t": "Hadot, Qu'est-ce que la philosophie antique?" },
             { "id": "sec-s1-kirk", "t": "Kirk, Raven & Schofield, The Presocratic Philosophers." },
@@ -6788,7 +6873,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 2",
+          "label": "Stage 5",
           "items": [
             { "id": "sec-s2-behr", "t": "Behr, The Way to Nicaea." }
           ]
@@ -6796,7 +6881,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 3",
+          "label": "Stage 6",
           "items": [
             { "id": "sec-s3-behr", "t": "Behr, Irenaeus of Lyons: Identifying Christianity." }
           ]
@@ -6804,7 +6889,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 4",
+          "label": "Stages 7–8",
           "items": [
             { "id": "sec-s4-osborn", "t": "Osborn, Clement of Alexandria." },
             { "id": "sec-s4-lilla", "t": "Lilla, Clement of Alexandria: A Study in Christian Platonism and Gnosticism." },
@@ -6820,7 +6905,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 5",
+          "label": "Stage 9",
           "items": [
             { "id": "sec-s5-hadot", "t": "Hadot, Plotin ou la simplicité du regard." },
             { "id": "sec-s5-o-meara", "t": "O'Meara, Plotinus: An Introduction to the Enneads." },
@@ -6834,7 +6919,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 6",
+          "label": "Stage 10",
           "items": [
             { "id": "sec-s6-mcguckin", "t": "McGuckin, Saint Gregory of Nazianzus: An Intellectual Biography." },
             { "id": "sec-s6-louth", "t": "Louth, Denys the Areopagite." },
@@ -6846,7 +6931,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 7",
+          "label": "Stage 11",
           "items": [
             { "id": "sec-s7-mcguckin", "t": "McGuckin, St. Cyril of Alexandria and the Christological Controversy." }
           ]
@@ -6854,7 +6939,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 8",
+          "label": "Stage 12",
           "items": [
             { "id": "sec-s8-wood", "t": "Wood, The Whole Mystery of Christ." },
             { "id": "sec-s8-balthasar", "t": "Balthasar, Cosmic Liturgy." },
@@ -6871,7 +6956,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 9",
+          "label": "Stage 13",
           "items": [
             { "id": "sec-s9-louth", "t": "Louth, St John Damascene: Tradition and Originality in Byzantine Theology." }
           ]
@@ -6879,7 +6964,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 10",
+          "label": "Stage 14",
           "items": [
             { "id": "sec-s10-brown", "t": "Brown, Augustine of Hippo." },
             { "id": "sec-s10-gilson", "t": "Gilson, Introduction à l'étude de saint Augustin." },
@@ -6894,7 +6979,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 11",
+          "label": "Stage 15",
           "items": [
             { "id": "sec-s11-chryssavgis", "t": "Chryssavgis, John Climacus: From the Egyptian Desert to the Sinaite Mountain." },
             { "id": "sec-s11-krivocheine", "t": "Krivochéine, In the Light of Christ." },
@@ -6906,7 +6991,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 12",
+          "label": "Stage 16",
           "items": [
             { "id": "sec-s12-o-loughlin", "t": "O'Loughlin, Celtic Theology." },
             { "id": "sec-s12-meek", "t": "Meek, The Quest for Celtic Christianity." },
@@ -6923,7 +7008,7 @@
         {
           "type": "list",
           "kind": "library",
-          "label": "Stage 13",
+          "label": "Stage 17",
           "items": [
             { "id": "sec-s13-louth", "t": "Louth, Modern Orthodox Thinkers." },
             { "id": "sec-s13-valliere", "t": "Valliere, Modern Russian Theology." },

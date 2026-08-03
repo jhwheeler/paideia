@@ -842,7 +842,7 @@
         h(
           "div",
           { class: "checklist-label" },
-          b.kind === "texts" ? "Texts" : b.label,
+          b.kind === "texts" ? (b.label || "Texts") : b.label,
         ),
         h(
           "div",
