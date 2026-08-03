@@ -1,7 +1,7 @@
 window.PLAN_DATA = {
   "title": "Paideia",
   "subtitle": "Seeds of the Logos",
-  "version": "July 2026 · v7.5",
+  "version": "August 2026 · v7.6",
   "front": [
     {
       "id": "doc0",
