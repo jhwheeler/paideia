@@ -1099,7 +1099,7 @@
           h(
             "div",
             { class: "page-sub" },
-            "Greek philosophy, Scripture, and the Fathers — from Homer to the hesychast councils",
+            "Greek philosophy, Scripture, and the Fathers — from Homer to Holy Wisdom",
           ),
         ),
         h(
