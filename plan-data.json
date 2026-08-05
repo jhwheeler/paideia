@@ -356,9 +356,9 @@
           "label": "Lectio continua",
           "items": [
             {
-              "t": "Genesis and Mark",
-              "when": "Units 1–2",
-              "d": "Beside Homer and Hesiod — cosmogony beside cosmogony, the scar of Odysseus beside the binding of Isaac, Jacob's twenty-year νόστος beside the Odyssey's, and the Gospel's paratactic καὶ εὐθύς against epic's rolling formulae."
+              "t": "Genesis",
+              "when": "Unit 1",
+              "d": "Beside Homer — the scar of Odysseus beside the binding of Isaac, Jacob's twenty-year νόστος beside the Odyssey's; the cosmogony itself waits for the unit's parallels, where Genesis 1–3 returns beside the Theogony."
             }
           ],
           "lead": "The strand keeps pace with the Greek arc, the canon answering the philosophers unit by unit."
@@ -512,7 +512,20 @@
           "type": "para",
           "kind": "para",
           "label": "",
-          "text": "From the poets to the problem-field: ἀρχή, φύσις, λόγος, being and becoming, one and many — the questions Plato inherits whole. The lectio continua (Genesis and Mark) carries over from Stage 1."
+          "text": "From the poets to the problem-field: ἀρχή, φύσις, λόγος, being and becoming, one and many — the questions Plato inherits whole."
+        },
+        {
+          "type": "list",
+          "kind": "lectio",
+          "label": "Lectio continua",
+          "items": [
+            {
+              "t": "Mark",
+              "when": "Unit 2",
+              "d": "Ἀρχὴ τοῦ εὐαγγελίου — the Gospel that opens with the Presocratics' word; the messianic secret beside φύσις κρύπτεσθαι φιλεῖ; its paratactic καὶ εὐθύς still sounding against epic's rolling formulae."
+            }
+          ],
+          "lead": "The strand keeps pace with the Greek arc, the canon answering the philosophers unit by unit."
         }
       ],
       "units": [
