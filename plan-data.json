@@ -375,10 +375,7 @@
               "type": "list",
               "kind": "texts",
               "label": "First movement — Homer",
-              "items": [
-                "Homer, Iliad I, VI, IX, XVI, XVIII, XXII, and XXIV.",
-                "Homer, Odyssey I, V–XII, XIX, and XXIII."
-              ]
+              "items": ["Homer, Iliad", "Homer, Odyssey"]
             },
             {
               "type": "para",
@@ -418,7 +415,7 @@
               "type": "para",
               "kind": "memo",
               "label": "Ἀπὸ στήθους",
-              "text": "Principal piece: Odyssey XI.204–224 — the triple embrace, and Anticleia on what death is: the plan's whole question, put by the poet it opens with, held open until Unit 24. The proem remains possessed through this unit's textual study. Κατὰ δύναμιν: Iliad VIII.555–565, the nocturne; Odyssey VI.42–46, unshaken Olympus."
+              "text": "Principal piece: Odyssey XI.204–224 — the triple embrace, and Anticleia on what death is: the plan's whole question, put by the poet it opens with, held open until Unit 24. The proem remains possessed through this unit's textual study. Κατὰ δύναμιν: Iliad VIII.555–565, the nocturne; Odyssey VI.42–46, unshaken Olympus; Iliad IX.443, μύθων τε ῥητῆρ' ἔμεναι πρηκτῆρά τε ἔργων — Phoenix's one-line paideia."
             },
             {
               "type": "para",
@@ -1499,9 +1496,7 @@
               "type": "list",
               "kind": "texts",
               "label": "First movement — the Ethics",
-              "items": [
-                "Nicomachean Ethics I, II–III, and X.6–8"
-              ]
+              "items": ["Nicomachean Ethics I, II–III, and X.6–8"]
             },
             {
               "type": "para",
@@ -1821,7 +1816,12 @@
                 "The Didache itself commands what this unit can practice: pray the Our Father three times daily, as Didache 8 prescribes — the oldest rule of prayer the Church possesses, kept for the length of this unit in its own Greek."
               ]
             },
-            {"type": "para", "kind": "note", "label": "Български превод", "text": "Didache — Ivan Goshev's annotated edition (София, 1941); 1–2 Clement from the Greek in Dimitar Dimitrov's bilingual Synodal edition (2011). (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
+            {
+              "type": "para",
+              "kind": "note",
+              "label": "Български превод",
+              "text": "Didache — Ivan Goshev's annotated edition (София, 1941); 1–2 Clement from the Greek in Dimitar Dimitrov's bilingual Synodal edition (2011). (Vatashki catalog; verify at the unit's arrival, per standing rule.)"
+            }
           ],
           "level": "cursoria"
         },
@@ -1903,7 +1903,12 @@
                 "The Martyrdom of Polycarp preserves his final prayer at the stake. Pray it once as your own evening thanksgiving, and notice that it is a eucharistic anaphora in miniature."
               ]
             },
-            {"type": "para", "kind": "note", "label": "Български превод", "text": "All seven Ignatian letters, Polycarp's To the Philippians, and the Martyrdom of Polycarp, from the Greek in Svetoslav Ribolov's Изборник (Омофор, Светоотеческо наследство, 2001) — likely out of print; acquire early. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
+            {
+              "type": "para",
+              "kind": "note",
+              "label": "Български превод",
+              "text": "All seven Ignatian letters, Polycarp's To the Philippians, and the Martyrdom of Polycarp, from the Greek in Svetoslav Ribolov's Изборник (Омофор, Светоотеческо наследство, 2001) — likely out of print; acquire early. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"
+            }
           ],
           "level": "cursoria"
         },
@@ -1973,7 +1978,12 @@
                 "Diognetus: what the soul is to the body, Christians are to the world. Practice: one anonymous act of service to your city this unit — soul-work, unseen and uncredited."
               ]
             },
-            {"type": "para", "kind": "note", "label": "Български превод", "text": "Diognetus in Ribolov's Изборник (2001); Hermas in Nikola Antonov's translation (web text). Barnabas — no Bulgarian translation known: the corpus's one open gap, and a candidate first publication. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
+            {
+              "type": "para",
+              "kind": "note",
+              "label": "Български превод",
+              "text": "Diognetus in Ribolov's Изборник (2001); Hermas in Nikola Antonov's translation (web text). Barnabas — no Bulgarian translation known: the corpus's one open gap, and a candidate first publication. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"
+            }
           ],
           "level": "cursoria"
         },
@@ -2022,7 +2032,7 @@
           "label": "",
           "text": "Justin supplies the warrant for the plan's whole engagement with the Greeks — the seeds of the Logos — and Irenaeus the rule that disciplines it: the rule of faith, the unity of creation and redemption, anti-Gnostic affirmation of the body, and recapitulation in Christ."
         },
-        
+
         {
           "type": "list",
           "kind": "lectio",
@@ -2132,7 +2142,12 @@
                 "The Church keeps him as Ἰουστῖνος ὁ Φιλόσοφος (June 1) — the philosopher's cloak kept after baptism. At the day's end, ask what of your own formation the seed-claim covers; the plan's subtitle is his sentence."
               ]
             },
-            {"type": "para", "kind": "note", "label": "Български превод", "text": "Nothing — neither Apology nor the Dialogue with Trypho appears in the catalog, and no later edition has surfaced. The subtitle's author is untranslated in Bulgarian: this unit's study passage (Second Apology 13) is the seed of a first Bulgarian Justin. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
+            {
+              "type": "para",
+              "kind": "note",
+              "label": "Български превод",
+              "text": "Nothing — neither Apology nor the Dialogue with Trypho appears in the catalog, and no later edition has surfaced. The subtitle's author is untranslated in Bulgarian: this unit's study passage (Second Apology 13) is the seed of a first Bulgarian Justin. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"
+            }
           ],
           "level": "stataria"
         },
@@ -2220,7 +2235,12 @@
                 "Irenaeus insists that the same hands that formed creation also restore it. During one meal or liturgy in this unit, attend to the material gifts before you as created, offered, and destined for transfiguration rather than escape."
               ]
             },
-            {"type": "para", "kind": "note", "label": "Български превод", "text": "Nothing — no Demonstration, no Adversus Haereses. A Bulgarian Irenaeus is chiefly a Latin-source project: AH survives whole only in Latin, the Demonstration in Armenian (critical intermediaries required). (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
+            {
+              "type": "para",
+              "kind": "note",
+              "label": "Български превод",
+              "text": "Nothing — no Demonstration, no Adversus Haereses. A Bulgarian Irenaeus is chiefly a Latin-source project: AH survives whole only in Latin, the Demonstration in Armenian (critical intermediaries required). (Vatashki catalog; verify at the unit's arrival, per standing rule.)"
+            }
           ],
           "level": "cursoria"
         },
@@ -2392,7 +2412,12 @@
                 "The Protrepticus calls the pagan out of the old mysteries into the true ones. At one vespers this unit, hear Φῶς ἱλαρόν — already yours ἀπὸ στήθους — as the New Song the old songs were waiting to become."
               ]
             },
-            {"type": "para", "kind": "note", "label": "Български превод", "text": "Nothing of Clement from the original is known. The open field runs from here through Origen. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
+            {
+              "type": "para",
+              "kind": "note",
+              "label": "Български превод",
+              "text": "Nothing of Clement from the original is known. The open field runs from here through Origen. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"
+            }
           ],
           "level": "cursoria"
         },
@@ -2780,7 +2805,12 @@
                 "Antony heard one Gospel verse and obeyed it. Listen at one liturgy for the concrete demand of the Gospel, then test the interpretation through the duties and counsel already given to you."
               ]
             },
-            {"type": "para", "kind": "note", "label": "Български превод", "text": "The Life of Antony exists (Dragomir Karadimchev, 2004); De Incarnatione and Contra Gentes do not — perhaps the highest-value tractable gap in the corpus: short, central, beloved. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"}
+            {
+              "type": "para",
+              "kind": "note",
+              "label": "Български превод",
+              "text": "The Life of Antony exists (Dragomir Karadimchev, 2004); De Incarnatione and Contra Gentes do not — perhaps the highest-value tractable gap in the corpus: short, central, beloved. (Vatashki catalog; verify at the unit's arrival, per standing rule.)"
+            }
           ],
           "level": "stataria"
         },
@@ -7032,7 +7062,12 @@
           "label": "",
           "text": "The Bulgarian situation. Of the Ambigua, only fragments are translated — some two dozen pages from the Greek by Kristin Latif and Svetoslav Ribolov in the Архив за средновековна философия и култура (2008); the whole remains open. The principal published Bulgarian Maximus volume — ascetical works with the Questions to Thalassius — was translated from Russian rather than from the Greek, and has been criticized in Bulgarian Orthodox review literature on precisely those grounds, while the same literature praises the rarer translations made directly from the sources, including a Mystagogy from the Greek. The project also resumes a Slavic engagement with Maximus nearly a millennium old: excerpts in the Izbornik of 1073, a thirteenth-century Slavonic translation of the Chapters on Love, and Isaiah of Serres's 1371 translation of the Dionysian corpus with Maximus's scholia, surviving in autograph. Working references: the dveri.bg review of the published Maximus volume (dveri.bg, article id 3501); the Scripta Bulgarica entry «Максим Изповедник» (scripta-bulgarica.eu/bg/content/maksim-izpovednik); Georgi Kapriev, Максим Изповедник: Въведение в мисловната му система (Изток–Запад, 2010). Atanas Vatashki's catalog of patristic texts (to the 14th c.) translated into Bulgarian from the original language (prespanski.wordpress.com, 2016) — informative precisely in its silences, since it admits from-the-original versions only. Confirm each against library holdings and Bulgarian specialists before print."
         },
-        {"type": "para", "kind": "para", "label": "", "text": "The early track. The apprenticeship need not wait for Maximus. From Unit 16 the plan crosses into open field — Justin, Irenaeus, Clement, Origen, and Philo untranslated, Athanasius only half-covered — while everything before it, Homer to Aristotle, is well served in Bulgarian. Candidate first publications, each of publishable size at its unit: the Epistle of Barnabas (Unit 15), Justin's Apologies (Unit 16), Athanasius' De Incarnatione (Unit 22). Article-length patristic translation publishes in the Архив за средновековна философия и култура (Изток–Запад) and in Омофор's Светоотеческо наследство series; their conventions are the ones the plan's drafts should learn. Per-unit status stands in the Български превод notes through Stage 8."},
+        {
+          "type": "para",
+          "kind": "para",
+          "label": "",
+          "text": "The early track. The apprenticeship need not wait for Maximus. From Unit 16 the plan crosses into open field — Justin, Irenaeus, Clement, Origen, and Philo untranslated, Athanasius only half-covered — while everything before it, Homer to Aristotle, is well served in Bulgarian. Candidate first publications, each of publishable size at its unit: the Epistle of Barnabas (Unit 15), Justin's Apologies (Unit 16), Athanasius' De Incarnatione (Unit 22). Article-length patristic translation publishes in the Архив за средновековна философия и култура (Изток–Запад) and in Омофор's Светоотеческо наследство series; their conventions are the ones the plan's drafts should learn. Per-unit status stands in the Български превод notes through Stage 8."
+        },
         { "type": "subhead", "text": "Pilot scope" },
         {
           "type": "list",
@@ -7104,34 +7139,94 @@
           "kind": "library",
           "label": "",
           "items": [
-            { "id": "septuagint", "t": "Septuagint — Rahlfs–Hanhart, Septuaginta, editio altera. The Psalter in daily use, and the lectio continua core: Genesis, Exodus, Deuteronomy, Ruth, Tobit, Job, Proverbs, Ecclesiastes, Song of Songs, Wisdom, Sirach, Isaiah, Jeremiah with Baruch, Lamentations, and the Epistle of Jeremiah, Ezekiel, Daniel (Theodotion, with Susanna, the Song of the Three, and Bel and the Dragon), and the Twelve Prophets." },
-            { "id": "greek-new-testament", "t": "Greek New Testament — Nestle–Aland, 28th edition, running throughout; the lectio continua strand traverses the whole of it across the plan, with Hebrews, John, and Romans read twice." },
-            { "id": "latin-vulgate", "t": "Latin Vulgate — Weber–Gryson, Biblia Sacra Vulgata, editio quinta. On the shelf from Stage 14, for reference beside Augustine, Boethius, and Aquinas; nothing assigned from it — but Romans 5:12, in quo omnes peccaverunt beside ἐφ' ᾧ πάντες ἥμαρτον, is the one verse where the Latin must be seen to understand what the West built on it." }
+            {
+              "id": "septuagint",
+              "t": "Septuagint — Rahlfs–Hanhart, Septuaginta, editio altera. The Psalter in daily use, and the lectio continua core: Genesis, Exodus, Deuteronomy, Ruth, Tobit, Job, Proverbs, Ecclesiastes, Song of Songs, Wisdom, Sirach, Isaiah, Jeremiah with Baruch, Lamentations, and the Epistle of Jeremiah, Ezekiel, Daniel (Theodotion, with Susanna, the Song of the Three, and Bel and the Dragon), and the Twelve Prophets."
+            },
+            {
+              "id": "greek-new-testament",
+              "t": "Greek New Testament — Nestle–Aland, 28th edition, running throughout; the lectio continua strand traverses the whole of it across the plan, with Hebrews, John, and Romans read twice."
+            },
+            {
+              "id": "latin-vulgate",
+              "t": "Latin Vulgate — Weber–Gryson, Biblia Sacra Vulgata, editio quinta. On the shelf from Stage 14, for reference beside Augustine, Boethius, and Aquinas; nothing assigned from it — but Romans 5:12, in quo omnes peccaverunt beside ἐφ' ᾧ πάντες ἥμαρτον, is the one verse where the Latin must be seen to understand what the West built on it."
+            }
           ]
         },
-        { "type": "subhead", "text": "C.2 — Primary editions by first-use stage" },
+        {
+          "type": "subhead",
+          "text": "C.2 — Primary editions by first-use stage"
+        },
         {
           "type": "list",
           "kind": "library",
           "label": "Stages 1–4",
           "items": [
-            { "id": "homer-iliad", "t": "Homer, Iliad — LCL 170–171 (Murray)." },
-            { "id": "homer-odyssey", "t": "Homer, Odyssey — LCL 104–105 (Murray)." },
-            { "id": "hesiod-theogony-works-days", "t": "Hesiod, Theogony and Works and Days, with the Homeric Hymns — LCL 57 (Evelyn-White)." },
-            { "id": "laks-most-early-greek", "t": "Laks & Most, Early Greek Philosophy, vols. II–VI — LCL 525–529." },
-            { "id": "plato-euthyphro-apology-crito", "t": "Plato, Euthyphro, Apology, Crito, Phaedo — LCL 36." },
+            {
+              "id": "homer-iliad",
+              "t": "Homer, Iliad — LCL 170–171 (Murray)."
+            },
+            {
+              "id": "homer-odyssey",
+              "t": "Homer, Odyssey — LCL 104–105 (Murray)."
+            },
+            {
+              "id": "hesiod-theogony-works-days",
+              "t": "Hesiod, Theogony and Works and Days, with the Homeric Hymns — LCL 57 (Evelyn-White)."
+            },
+            {
+              "id": "laks-most-early-greek",
+              "t": "Laks & Most, Early Greek Philosophy, vols. II–VI — LCL 525–529."
+            },
+            {
+              "id": "plato-euthyphro-apology-crito",
+              "t": "Plato, Euthyphro, Apology, Crito, Phaedo — LCL 36."
+            },
             { "id": "plato-meno", "t": "Plato, Meno — LCL 165." },
-            { "id": "plato-republic", "t": "Plato, Republic — LCL 237 and 276." },
-            { "id": "plato-parmenides", "t": "Plato, Parmenides — LCL 167 (with Cratylus, Greater Hippias, Lesser Hippias)." },
-            { "id": "plato-timaeus", "t": "Plato, Timaeus — LCL 234 (with Critias, Cleitophon, Menexenus, Epistles)." },
-            { "id": "plato-symposium", "t": "Plato, Symposium — LCL 166 (Diotima's speech)." },
-            { "id": "aristotle-categories-interpretation", "t": "Aristotle, Categories and On Interpretation — LCL 325." },
-            { "id": "aristotle-soul", "t": "Aristotle, On the Soul — LCL 288." },
-            { "id": "aristotle-physics", "t": "Aristotle, Physics — LCL 228 and 255." },
-            { "id": "aristotle-nicomachean-ethics", "t": "Aristotle, Nicomachean Ethics — LCL 73." },
-            { "id": "aristotle-metaphysics", "t": "Aristotle, Metaphysics — LCL 271 and 287 (reused at Stage 14)." },
-            { "id": "porphyry-isagoge", "t": "Porphyry, Isagoge — Barnes (Clarendon); Busse's CAG text." },
-            { "id": "epictetus-enchiridion", "t": "Epictetus, Enchiridion — Boter's critical text; or Oldfather, Epictetus II, LCL 218 (any printing)." }
+            {
+              "id": "plato-republic",
+              "t": "Plato, Republic — LCL 237 and 276."
+            },
+            {
+              "id": "plato-parmenides",
+              "t": "Plato, Parmenides — LCL 167 (with Cratylus, Greater Hippias, Lesser Hippias)."
+            },
+            {
+              "id": "plato-timaeus",
+              "t": "Plato, Timaeus — LCL 234 (with Critias, Cleitophon, Menexenus, Epistles)."
+            },
+            {
+              "id": "plato-symposium",
+              "t": "Plato, Symposium — LCL 166 (Diotima's speech)."
+            },
+            {
+              "id": "aristotle-categories-interpretation",
+              "t": "Aristotle, Categories and On Interpretation — LCL 325."
+            },
+            {
+              "id": "aristotle-soul",
+              "t": "Aristotle, On the Soul — LCL 288."
+            },
+            {
+              "id": "aristotle-physics",
+              "t": "Aristotle, Physics — LCL 228 and 255."
+            },
+            {
+              "id": "aristotle-nicomachean-ethics",
+              "t": "Aristotle, Nicomachean Ethics — LCL 73."
+            },
+            {
+              "id": "aristotle-metaphysics",
+              "t": "Aristotle, Metaphysics — LCL 271 and 287 (reused at Stage 14)."
+            },
+            {
+              "id": "porphyry-isagoge",
+              "t": "Porphyry, Isagoge — Barnes (Clarendon); Busse's CAG text."
+            },
+            {
+              "id": "epictetus-enchiridion",
+              "t": "Epictetus, Enchiridion — Boter's critical text; or Oldfather, Epictetus II, LCL 218 (any printing)."
+            }
           ]
         },
         {
@@ -7139,7 +7234,10 @@
           "kind": "library",
           "label": "Stage 5",
           "items": [
-            { "id": "apostolic-fathers", "t": "The Apostolic Fathers — Holmes, The Apostolic Fathers: Greek Texts and English Translations, as the working edition: the complete corpus, full Hermas included, with a serviceable select apparatus. The SC volumes serve as the commentary layer, consulted where a unit's close work wants them — above all Camelot's Ignatius (SC 10) for the Smyrnaeans textual study and Marrou's À Diognète (SC 33); the rest as needed: 1 Clement (SC 167), Didache (SC 248), Barnabas (SC 172), Hermas (SC 53). Ehrman's Loeb (LCL 24–25) duplicates Holmes and is for the collection only." }
+            {
+              "id": "apostolic-fathers",
+              "t": "The Apostolic Fathers — Holmes, The Apostolic Fathers: Greek Texts and English Translations, as the working edition: the complete corpus, full Hermas included, with a serviceable select apparatus. The SC volumes serve as the commentary layer, consulted where a unit's close work wants them — above all Camelot's Ignatius (SC 10) for the Smyrnaeans textual study and Marrou's À Diognète (SC 33); the rest as needed: 1 Clement (SC 167), Didache (SC 248), Barnabas (SC 172), Hermas (SC 53). Ehrman's Loeb (LCL 24–25) duplicates Holmes and is for the collection only."
+            }
           ]
         },
         {
@@ -7147,10 +7245,22 @@
           "kind": "library",
           "label": "Stage 6",
           "items": [
-            { "id": "justin-apologies", "t": "Justin Martyr, Apologies — SC 507 (Munier)." },
-            { "id": "justin-dialogue-trypho", "t": "Justin Martyr, Dialogue with Trypho — Bobichon's Fribourg critical edition, English in Falls–Halton (verify against the catalogue, per standing rule)." },
-            { "id": "irenaeus-demonstration-apostolic-preaching", "t": "Irenaeus, Demonstration of the Apostolic Preaching — SC 406." },
-            { "id": "irenaeus-against-heresies-selections", "t": "Irenaeus, Against Heresies, selections (I.10; III.16–23; IV.20; V.1–2) — the SC Contre les hérésies: Book I in SC 263–264, III in SC 210–211, IV in SC 100, V in SC 152–153." }
+            {
+              "id": "justin-apologies",
+              "t": "Justin Martyr, Apologies — SC 507 (Munier)."
+            },
+            {
+              "id": "justin-dialogue-trypho",
+              "t": "Justin Martyr, Dialogue with Trypho — Bobichon's Fribourg critical edition, English in Falls–Halton (verify against the catalogue, per standing rule)."
+            },
+            {
+              "id": "irenaeus-demonstration-apostolic-preaching",
+              "t": "Irenaeus, Demonstration of the Apostolic Preaching — SC 406."
+            },
+            {
+              "id": "irenaeus-against-heresies-selections",
+              "t": "Irenaeus, Against Heresies, selections (I.10; III.16–23; IV.20; V.1–2) — the SC Contre les hérésies: Book I in SC 263–264, III in SC 210–211, IV in SC 100, V in SC 152–153."
+            }
           ]
         },
         {
@@ -7158,28 +7268,94 @@
           "kind": "library",
           "label": "Stages 7–8",
           "items": [
-            { "id": "plato-theaetetus-176a-b", "t": "Plato, Theaetetus 176a–b — LCL 123 (Unit 18 satellite)." },
-            { "id": "tertullian-praescriptione-haereticorum-7", "t": "Tertullian, De praescriptione haereticorum 7 — short Unit 18 satellite; any reliable Latin text or digital edition; no separate purchase required." },
-            { "id": "clement-alexandria-protrepticus-quis", "t": "Clement of Alexandria, Protrepticus, with Quis dives salvetur — LCL 92 (Butterworth, 1919); Greek–French in SC 2." },
-            { "id": "clement-paedagogus", "t": "Clement, Paedagogus — SC 70, 108, 158." },
-            { "id": "clement-stromateis", "t": "Clement, Stromateis — Stromate I in SC 30, V in SC 278–279, VII in SC 428." },
-            { "id": "origen-first-principles", "t": "Origen, On First Principles — Traité des principes, SC 252–253, 268–269, and 312 (Crouzel–Simonetti); Behr's Oxford edition is the Greek/Latin–English diglot of the same work." },
-            { "id": "philo-creation", "t": "Philo, On the Creation — LCL 226; French in the Cerf Œuvres de Philon d'Alexandrie series." },
-            { "id": "origen-homilies-genesis", "t": "Origen, Homilies on Genesis — SC 7." },
-            { "id": "origen-homilies-exodus", "t": "Origen, Homilies on Exodus — SC 321." },
-            { "id": "origen-against-celsus", "t": "Origen, Against Celsus — Contre Celse, SC 132, 136, 147, and 150 (Borret)." },
-            { "id": "athanasius-incarnation", "t": "Athanasius, On the Incarnation — SC 199; Greek–English diglots in Thomson's Oxford Early Christian Texts Contra Gentes and De Incarnatione and in Behr's Popular Patristics edition." },
-            { "id": "athanasius-against-greeks", "t": "Athanasius, Against the Greeks — SC 18; Greek–English in Thomson's Oxford Early Christian Texts volume." },
-            { "id": "athanasius-life-antony", "t": "Athanasius, Life of Antony — Vie d'Antoine, SC 400." },
-            { "id": "basil-address-young-men", "t": "Basil, Address to Young Men — LCL 270 (with Letters IV)." },
-            { "id": "basil-holy-spirit", "t": "Basil, On the Holy Spirit — SC 17." },
-            { "id": "basil-hexaemeron-homilies-1", "t": "Basil, Hexaemeron, Homilies 1–2 and 9 — SC 26." },
-            { "id": "gregory-nyssa-soul-resurrection", "t": "Gregory of Nyssa, On the Soul and Resurrection — Popular Patristics (trans. Roth)." },
-            { "id": "gregory-nyssa-life-moses", "t": "Gregory of Nyssa, Life of Moses — SC 1." },
-            { "id": "gregory-nyssa-homilies-song", "t": "Gregory of Nyssa, Homilies on the Song of Songs — GNO VI; Norris's diglot (WGRW 13)." },
-            { "id": "origen-commentary-song-songs", "t": "Origen, Commentary on the Song of Songs — SC 375–376; Lawson (ACW 26)." },
-            { "id": "origen-prayer", "t": "Origen, On Prayer — GCS Origenes II; Greer (CWS)." },
-            { "id": "anaphora-st-basil", "t": "The Anaphora of St Basil — Brightman, Liturgies Eastern and Western." }
+            {
+              "id": "plato-theaetetus-176a-b",
+              "t": "Plato, Theaetetus 176a–b — LCL 123 (Unit 18 satellite)."
+            },
+            {
+              "id": "tertullian-praescriptione-haereticorum-7",
+              "t": "Tertullian, De praescriptione haereticorum 7 — short Unit 18 satellite; any reliable Latin text or digital edition; no separate purchase required."
+            },
+            {
+              "id": "clement-alexandria-protrepticus-quis",
+              "t": "Clement of Alexandria, Protrepticus, with Quis dives salvetur — LCL 92 (Butterworth, 1919); Greek–French in SC 2."
+            },
+            {
+              "id": "clement-paedagogus",
+              "t": "Clement, Paedagogus — SC 70, 108, 158."
+            },
+            {
+              "id": "clement-stromateis",
+              "t": "Clement, Stromateis — Stromate I in SC 30, V in SC 278–279, VII in SC 428."
+            },
+            {
+              "id": "origen-first-principles",
+              "t": "Origen, On First Principles — Traité des principes, SC 252–253, 268–269, and 312 (Crouzel–Simonetti); Behr's Oxford edition is the Greek/Latin–English diglot of the same work."
+            },
+            {
+              "id": "philo-creation",
+              "t": "Philo, On the Creation — LCL 226; French in the Cerf Œuvres de Philon d'Alexandrie series."
+            },
+            {
+              "id": "origen-homilies-genesis",
+              "t": "Origen, Homilies on Genesis — SC 7."
+            },
+            {
+              "id": "origen-homilies-exodus",
+              "t": "Origen, Homilies on Exodus — SC 321."
+            },
+            {
+              "id": "origen-against-celsus",
+              "t": "Origen, Against Celsus — Contre Celse, SC 132, 136, 147, and 150 (Borret)."
+            },
+            {
+              "id": "athanasius-incarnation",
+              "t": "Athanasius, On the Incarnation — SC 199; Greek–English diglots in Thomson's Oxford Early Christian Texts Contra Gentes and De Incarnatione and in Behr's Popular Patristics edition."
+            },
+            {
+              "id": "athanasius-against-greeks",
+              "t": "Athanasius, Against the Greeks — SC 18; Greek–English in Thomson's Oxford Early Christian Texts volume."
+            },
+            {
+              "id": "athanasius-life-antony",
+              "t": "Athanasius, Life of Antony — Vie d'Antoine, SC 400."
+            },
+            {
+              "id": "basil-address-young-men",
+              "t": "Basil, Address to Young Men — LCL 270 (with Letters IV)."
+            },
+            {
+              "id": "basil-holy-spirit",
+              "t": "Basil, On the Holy Spirit — SC 17."
+            },
+            {
+              "id": "basil-hexaemeron-homilies-1",
+              "t": "Basil, Hexaemeron, Homilies 1–2 and 9 — SC 26."
+            },
+            {
+              "id": "gregory-nyssa-soul-resurrection",
+              "t": "Gregory of Nyssa, On the Soul and Resurrection — Popular Patristics (trans. Roth)."
+            },
+            {
+              "id": "gregory-nyssa-life-moses",
+              "t": "Gregory of Nyssa, Life of Moses — SC 1."
+            },
+            {
+              "id": "gregory-nyssa-homilies-song",
+              "t": "Gregory of Nyssa, Homilies on the Song of Songs — GNO VI; Norris's diglot (WGRW 13)."
+            },
+            {
+              "id": "origen-commentary-song-songs",
+              "t": "Origen, Commentary on the Song of Songs — SC 375–376; Lawson (ACW 26)."
+            },
+            {
+              "id": "origen-prayer",
+              "t": "Origen, On Prayer — GCS Origenes II; Greer (CWS)."
+            },
+            {
+              "id": "anaphora-st-basil",
+              "t": "The Anaphora of St Basil — Brightman, Liturgies Eastern and Western."
+            }
           ]
         },
         {
@@ -7187,8 +7363,14 @@
           "kind": "library",
           "label": "Stage 9",
           "items": [
-            { "id": "plotinus-enneads-porphyry-s", "t": "Plotinus, Enneads, with Porphyry's Life of Plotinus in vol. I — Armstrong, LCL 440–445 and 468." },
-            { "id": "nock-festugiere-corpus-hermeticum", "t": "Nock–Festugière, Corpus Hermeticum, 4 vols (Budé); Copenhaver, Hermetica (Cambridge)." }
+            {
+              "id": "plotinus-enneads-porphyry-s",
+              "t": "Plotinus, Enneads, with Porphyry's Life of Plotinus in vol. I — Armstrong, LCL 440–445 and 468."
+            },
+            {
+              "id": "nock-festugiere-corpus-hermeticum",
+              "t": "Nock–Festugière, Corpus Hermeticum, 4 vols (Budé); Copenhaver, Hermetica (Cambridge)."
+            }
           ]
         },
         {
@@ -7196,15 +7378,42 @@
           "kind": "library",
           "label": "Stage 10",
           "items": [
-            { "id": "gregory-nazianzus-orations-1", "t": "Gregory of Nazianzus, Orations 1–2 — SC 247 (Discours 1–3)." },
-            { "id": "gregory-nazianzus-orations-27", "t": "Gregory of Nazianzus, Orations 27–31 — SC 250." },
-            { "id": "dionysius-divine-names-mystical-theology", "t": "Pseudo-Dionysius, Divine Names and Mystical Theology — SC 578–579 (de Andia)." },
-            { "id": "dionysius-celestial-hierarchy", "t": "Pseudo-Dionysius, Celestial Hierarchy — SC 58." },
-            { "id": "dionysius-ecclesiastical-hierarchy", "t": "Pseudo-Dionysius, Ecclesiastical Hierarchy — the Patristische Texte und Studien critical text." },
-            { "id": "luibheid-dionysius-complete-works", "t": "Luibheid, Pseudo-Dionysius: The Complete Works (Classics of Western Spirituality) — a complete English rendering beside the critical texts." },
-            { "id": "proclus-elements-theology-selected", "t": "Proclus, Elements of Theology, selected propositions — Dodds's edition: Greek text, facing English, and commentary in one volume." },
-            { "id": "gregory-nazianzen-orations-38", "t": "Gregory Nazianzen, Orations 38 and 45 — SC 358 (Or. 38); PG 36 (Or. 45)." },
-            { "id": "dionysius-letters", "t": "Dionysius, Letters — with the treatises in Corpus Dionysiacum II (Heil–Ritter)." }
+            {
+              "id": "gregory-nazianzus-orations-1",
+              "t": "Gregory of Nazianzus, Orations 1–2 — SC 247 (Discours 1–3)."
+            },
+            {
+              "id": "gregory-nazianzus-orations-27",
+              "t": "Gregory of Nazianzus, Orations 27–31 — SC 250."
+            },
+            {
+              "id": "dionysius-divine-names-mystical-theology",
+              "t": "Pseudo-Dionysius, Divine Names and Mystical Theology — SC 578–579 (de Andia)."
+            },
+            {
+              "id": "dionysius-celestial-hierarchy",
+              "t": "Pseudo-Dionysius, Celestial Hierarchy — SC 58."
+            },
+            {
+              "id": "dionysius-ecclesiastical-hierarchy",
+              "t": "Pseudo-Dionysius, Ecclesiastical Hierarchy — the Patristische Texte und Studien critical text."
+            },
+            {
+              "id": "luibheid-dionysius-complete-works",
+              "t": "Luibheid, Pseudo-Dionysius: The Complete Works (Classics of Western Spirituality) — a complete English rendering beside the critical texts."
+            },
+            {
+              "id": "proclus-elements-theology-selected",
+              "t": "Proclus, Elements of Theology, selected propositions — Dodds's edition: Greek text, facing English, and commentary in one volume."
+            },
+            {
+              "id": "gregory-nazianzen-orations-38",
+              "t": "Gregory Nazianzen, Orations 38 and 45 — SC 358 (Or. 38); PG 36 (Or. 45)."
+            },
+            {
+              "id": "dionysius-letters",
+              "t": "Dionysius, Letters — with the treatises in Corpus Dionysiacum II (Heil–Ritter)."
+            }
           ]
         },
         {
@@ -7212,12 +7421,30 @@
           "kind": "library",
           "label": "Stage 11",
           "items": [
-            { "id": "evagrius-praktikos", "t": "Evagrius, Praktikos — Traité pratique, SC 170–171 (Guillaumont)." },
-            { "id": "evagrius-on-prayer", "t": "Evagrius, On Prayer — Chapitres sur la prière, SC 589 (Géhin)." },
-            { "id": "cyril-unity-christ", "t": "Cyril of Alexandria, On the Unity of Christ — Deux dialogues christologiques, SC 97." },
-            { "id": "cyril-letters-nestorius", "t": "Cyril, Second Letter to Nestorius and the Twelve Anathemas — with the conciliar acta in Tanner, which prints the originals with facing English; Wickham's Select Letters (Oxford Early Christian Texts) is the dedicated Greek–English diglot of the correspondence." },
-            { "id": "conciliar-definitions", "t": "The conciliar definitions — Chalcedon, Constantinople II and III — Tanner, Decrees of the Ecumenical Councils, vol. 1." },
-            { "id": "maximus-disputation-pyrrhus", "t": "Maximus, Disputation with Pyrrhus — Farrell's translation." }
+            {
+              "id": "evagrius-praktikos",
+              "t": "Evagrius, Praktikos — Traité pratique, SC 170–171 (Guillaumont)."
+            },
+            {
+              "id": "evagrius-on-prayer",
+              "t": "Evagrius, On Prayer — Chapitres sur la prière, SC 589 (Géhin)."
+            },
+            {
+              "id": "cyril-unity-christ",
+              "t": "Cyril of Alexandria, On the Unity of Christ — Deux dialogues christologiques, SC 97."
+            },
+            {
+              "id": "cyril-letters-nestorius",
+              "t": "Cyril, Second Letter to Nestorius and the Twelve Anathemas — with the conciliar acta in Tanner, which prints the originals with facing English; Wickham's Select Letters (Oxford Early Christian Texts) is the dedicated Greek–English diglot of the correspondence."
+            },
+            {
+              "id": "conciliar-definitions",
+              "t": "The conciliar definitions — Chalcedon, Constantinople II and III — Tanner, Decrees of the Ecumenical Councils, vol. 1."
+            },
+            {
+              "id": "maximus-disputation-pyrrhus",
+              "t": "Maximus, Disputation with Pyrrhus — Farrell's translation."
+            }
           ]
         },
         {
@@ -7225,12 +7452,30 @@
           "kind": "library",
           "label": "Stage 12",
           "items": [
-            { "id": "maximus-ambigua-thomas-john", "t": "Maximus, Ambigua to Thomas and to John — Constas, DOML 28–29; the Ambigua to Thomas critically in Janssens, CCSG 48." },
-            { "id": "maximus-questions-thalassius-selections", "t": "Maximus, Questions to Thalassius, selections — Questions à Thalassios, SC 529, 554, and 569 (the Laga–Steel text with Vinel's French); critical text CCSG 7 and 22." },
-            { "id": "maximus-mystagogy", "t": "Maximus, Mystagogy — SC 583 (Boudignon's text); critical edition CCSG 69." },
-            { "id": "maximus-four-hundred-chapters", "t": "Maximus, Four Hundred Chapters on Love — Ceresa-Gastaldo's edition, with facing Italian." },
-            { "id": "maximus-commentary-our-father", "t": "Maximus, Commentary on the Our Father — critical text in CCSG 23 (Van Deun)." },
-            { "id": "divine-liturgy-st-john", "t": "The Divine Liturgy of St John Chrysostom — Brightman; any Apostoliki Diakonia service book." }
+            {
+              "id": "maximus-ambigua-thomas-john",
+              "t": "Maximus, Ambigua to Thomas and to John — Constas, DOML 28–29; the Ambigua to Thomas critically in Janssens, CCSG 48."
+            },
+            {
+              "id": "maximus-questions-thalassius-selections",
+              "t": "Maximus, Questions to Thalassius, selections — Questions à Thalassios, SC 529, 554, and 569 (the Laga–Steel text with Vinel's French); critical text CCSG 7 and 22."
+            },
+            {
+              "id": "maximus-mystagogy",
+              "t": "Maximus, Mystagogy — SC 583 (Boudignon's text); critical edition CCSG 69."
+            },
+            {
+              "id": "maximus-four-hundred-chapters",
+              "t": "Maximus, Four Hundred Chapters on Love — Ceresa-Gastaldo's edition, with facing Italian."
+            },
+            {
+              "id": "maximus-commentary-our-father",
+              "t": "Maximus, Commentary on the Our Father — critical text in CCSG 23 (Van Deun)."
+            },
+            {
+              "id": "divine-liturgy-st-john",
+              "t": "The Divine Liturgy of St John Chrysostom — Brightman; any Apostoliki Diakonia service book."
+            }
           ]
         },
         {
@@ -7238,11 +7483,26 @@
           "kind": "library",
           "label": "Stage 13",
           "items": [
-            { "id": "john-damascus-expositio-fidei", "t": "John of Damascus, Expositio fidei — Kotter (PTS) vol. II; SC 535 and 540 (La foi orthodoxe)." },
-            { "id": "john-damascus-divine-images", "t": "John of Damascus, Contra imaginum calumniatores — Kotter (PTS) vol. III; Louth, Three Treatises on the Divine Images (Popular Patristics)." },
-            { "id": "theodore-studite", "t": "Theodore the Studite — Roth, On the Holy Icons (Popular Patristics)." },
-            { "id": "horos-nicaea-ii", "t": "The horos of Nicaea II — Tanner, vol. 1." },
-            { "id": "john-damascus-dialectica", "t": "John of Damascus, Dialectica — Kotter, Die Schriften des Johannes von Damaskos I." }
+            {
+              "id": "john-damascus-expositio-fidei",
+              "t": "John of Damascus, Expositio fidei — Kotter (PTS) vol. II; SC 535 and 540 (La foi orthodoxe)."
+            },
+            {
+              "id": "john-damascus-divine-images",
+              "t": "John of Damascus, Contra imaginum calumniatores — Kotter (PTS) vol. III; Louth, Three Treatises on the Divine Images (Popular Patristics)."
+            },
+            {
+              "id": "theodore-studite",
+              "t": "Theodore the Studite — Roth, On the Holy Icons (Popular Patristics)."
+            },
+            {
+              "id": "horos-nicaea-ii",
+              "t": "The horos of Nicaea II — Tanner, vol. 1."
+            },
+            {
+              "id": "john-damascus-dialectica",
+              "t": "John of Damascus, Dialectica — Kotter, Die Schriften des Johannes von Damaskos I."
+            }
           ]
         },
         {
@@ -7250,12 +7510,30 @@
           "kind": "library",
           "label": "Stage 14",
           "items": [
-            { "id": "augustine-confessions", "t": "Augustine, Confessions — LCL 26–27 (Hammond), read in Latin." },
-            { "id": "augustine-city-god-viii", "t": "Augustine, City of God VIII–X — the Loeb City of God (seven volumes; Books VIII–X fall in the third)." },
-            { "id": "augustine-trinitate-selections", "t": "Augustine, De Trinitate, selections — La Trinité, Bibliothèque Augustinienne 15–16, Latin with facing French." },
-            { "id": "boethius-consolation-philosophy-opuscula", "t": "Boethius, Consolation of Philosophy and the opuscula sacra — LCL 74 (Stewart–Rand–Tester: tractates and Consolation in one volume)." },
-            { "id": "aquinas-commentary-metaphysics", "t": "Aquinas, Commentary on the Metaphysics — Marietti (Cathala–Spiazzi), or Corpus Thomisticum online, for the Latin; Rowan's translation for collation; verify the Aquinas Institute bilingual series' coverage before ordering." },
-            { "id": "aquinas-summa-theologiae-core", "t": "Aquinas, Summa Theologiae, core selections — any Latin–English edition (Aquinas Institute or Blackfriars)." }
+            {
+              "id": "augustine-confessions",
+              "t": "Augustine, Confessions — LCL 26–27 (Hammond), read in Latin."
+            },
+            {
+              "id": "augustine-city-god-viii",
+              "t": "Augustine, City of God VIII–X — the Loeb City of God (seven volumes; Books VIII–X fall in the third)."
+            },
+            {
+              "id": "augustine-trinitate-selections",
+              "t": "Augustine, De Trinitate, selections — La Trinité, Bibliothèque Augustinienne 15–16, Latin with facing French."
+            },
+            {
+              "id": "boethius-consolation-philosophy-opuscula",
+              "t": "Boethius, Consolation of Philosophy and the opuscula sacra — LCL 74 (Stewart–Rand–Tester: tractates and Consolation in one volume)."
+            },
+            {
+              "id": "aquinas-commentary-metaphysics",
+              "t": "Aquinas, Commentary on the Metaphysics — Marietti (Cathala–Spiazzi), or Corpus Thomisticum online, for the Latin; Rowan's translation for collation; verify the Aquinas Institute bilingual series' coverage before ordering."
+            },
+            {
+              "id": "aquinas-summa-theologiae-core",
+              "t": "Aquinas, Summa Theologiae, core selections — any Latin–English edition (Aquinas Institute or Blackfriars)."
+            }
           ]
         },
         {
@@ -7263,18 +7541,54 @@
           "kind": "library",
           "label": "Stage 15",
           "items": [
-            { "id": "john-climacus-ladder-divine", "t": "John Climacus, The Ladder of Divine Ascent, with To the Shepherd — the Luibheid–Russell Classics of Western Spirituality volume, or the Holy Transfiguration Monastery edition." },
-            { "id": "symeon-hymns", "t": "Symeon the New Theologian, Hymns — SC 156, 174, and 196 (Koder)." },
-            { "id": "symeon-catechetical-discourses", "t": "Symeon, Catechetical Discourses — SC 96, 104, and 113 (Krivochéine)." },
-            { "id": "stethatos-life-symeon", "t": "Niketas Stethatos, Life of Saint Symeon the New Theologian — DOML 20, Greek–English." },
-            { "id": "three-methods-prayer-attributed", "t": "On the Three Methods of Prayer (attributed) — Philokalia, vol. 4." },
-            { "id": "palamas-triads", "t": "Gregory Palamas, Triads, selections — Meyendorff's Greek–French edition, Défense des saints hésychastes." },
-            { "id": "palamas-one-hundred-fifty-chapters", "t": "Gregory Palamas, One Hundred and Fifty Chapters — Sinkewicz's Toronto edition, Greek–English, there being no French equivalent." },
-            { "id": "hagioritic-tome", "t": "The Hagioritic Tome — Philokalia, vol. 4." },
-            { "id": "synodikon-orthodoxy-palamite-chapters", "t": "The Synodikon of Orthodoxy, Palamite chapters — Gouillard's edition (Travaux et Mémoires 2)." },
-            { "id": "nicholas-cabasilas-life-christ", "t": "Nicholas Cabasilas, The Life in Christ (optional) — La vie en Christ, SC 355 and 361." },
-            { "id": "way-pilgrim", "t": "Coda: The Way of a Pilgrim — Russian text public domain; R. French's or Savin's translation." },
-            { "id": "seraphim-motovilov-conversation", "t": "Seraphim's Conversation with Motovilov — in the standard devotional printings (verify edition)." }
+            {
+              "id": "john-climacus-ladder-divine",
+              "t": "John Climacus, The Ladder of Divine Ascent, with To the Shepherd — the Luibheid–Russell Classics of Western Spirituality volume, or the Holy Transfiguration Monastery edition."
+            },
+            {
+              "id": "symeon-hymns",
+              "t": "Symeon the New Theologian, Hymns — SC 156, 174, and 196 (Koder)."
+            },
+            {
+              "id": "symeon-catechetical-discourses",
+              "t": "Symeon, Catechetical Discourses — SC 96, 104, and 113 (Krivochéine)."
+            },
+            {
+              "id": "stethatos-life-symeon",
+              "t": "Niketas Stethatos, Life of Saint Symeon the New Theologian — DOML 20, Greek–English."
+            },
+            {
+              "id": "three-methods-prayer-attributed",
+              "t": "On the Three Methods of Prayer (attributed) — Philokalia, vol. 4."
+            },
+            {
+              "id": "palamas-triads",
+              "t": "Gregory Palamas, Triads, selections — Meyendorff's Greek–French edition, Défense des saints hésychastes."
+            },
+            {
+              "id": "palamas-one-hundred-fifty-chapters",
+              "t": "Gregory Palamas, One Hundred and Fifty Chapters — Sinkewicz's Toronto edition, Greek–English, there being no French equivalent."
+            },
+            {
+              "id": "hagioritic-tome",
+              "t": "The Hagioritic Tome — Philokalia, vol. 4."
+            },
+            {
+              "id": "synodikon-orthodoxy-palamite-chapters",
+              "t": "The Synodikon of Orthodoxy, Palamite chapters — Gouillard's edition (Travaux et Mémoires 2)."
+            },
+            {
+              "id": "nicholas-cabasilas-life-christ",
+              "t": "Nicholas Cabasilas, The Life in Christ (optional) — La vie en Christ, SC 355 and 361."
+            },
+            {
+              "id": "way-pilgrim",
+              "t": "Coda: The Way of a Pilgrim — Russian text public domain; R. French's or Savin's translation."
+            },
+            {
+              "id": "seraphim-motovilov-conversation",
+              "t": "Seraphim's Conversation with Motovilov — in the standard devotional printings (verify edition)."
+            }
           ]
         },
         {
@@ -7283,28 +7597,91 @@
           "label": "Stage 16",
           "items": [
             { "id": "patrick", "t": "Patrick — SC 249 (Hanson)." },
-            { "id": "cambrai-homily-deer-s", "t": "The Cambrai Homily and the Deer's Cry — Stokes & Strachan, Thesaurus Palaeohibernicus II." },
-            { "id": "murphy-early-irish-lyrics", "t": "Murphy, Early Irish Lyrics (facing diglot)." },
-            { "id": "navigatio", "t": "Navigatio — Selmer's text, O'Meara's translation." },
-            { "id": "columbanus", "t": "Columbanus — Walker, Sancti Columbani Opera (SLH 2, Latin–English)." },
-            { "id": "bede-ecclesiastical-history", "t": "Bede, Ecclesiastical History — Colgrave–Mynors (OMT)." },
-            { "id": "colgrave-two-lives-cuthbert", "t": "Colgrave, Two Lives of Saint Cuthbert." },
-            { "id": "dream-rood", "t": "Dream of the Rood — DOML (Clayton, Old English Poems of Christ and His Saints)." },
-            { "id": "metrical-charms", "t": "The metrical charms — DOML Old English Shorter Poems (verify volume) or Hamer's anthology." },
-            { "id": "heliand", "t": "Heliand — G. R. Murphy's translation with the Behaghel–Taeger text." },
-            { "id": "eriugena-periphyseon", "t": "Eriugena, Periphyseon — Jeauneau (CCCM 161–165) and Sheldon-Williams–O'Meara." },
-            { "id": "eriugena-homily", "t": "Eriugena, Homily on the Prologue of John — SC 151." },
-            { "id": "leontius-life-symeon-fool", "t": "Leontius, Life of Symeon the Fool — Festugière–Rydén, translation in Krueger." },
-            { "id": "life-andrew-fool", "t": "The Life of St Andrew the Fool — Rydén (Uppsala, Greek–English)." },
-            { "id": "vita-merlini-lailoken-fragments", "t": "Vita Merlini with the Lailoken fragments — Clarke (Cardiff)." },
-            { "id": "buile-suibhne", "t": "Buile Suibhne — O'Keeffe (ITS 12) with Heaney's Sweeney Astray." },
-            { "id": "ephrem-hymns-paradise", "t": "Ephrem — Brock, Hymns on Paradise (SVS)." },
-            { "id": "hildegard-symphonia", "t": "Hildegard, Symphonia — Newman's edition (Cornell)." },
+            {
+              "id": "cambrai-homily-deer-s",
+              "t": "The Cambrai Homily and the Deer's Cry — Stokes & Strachan, Thesaurus Palaeohibernicus II."
+            },
+            {
+              "id": "murphy-early-irish-lyrics",
+              "t": "Murphy, Early Irish Lyrics (facing diglot)."
+            },
+            {
+              "id": "navigatio",
+              "t": "Navigatio — Selmer's text, O'Meara's translation."
+            },
+            {
+              "id": "columbanus",
+              "t": "Columbanus — Walker, Sancti Columbani Opera (SLH 2, Latin–English)."
+            },
+            {
+              "id": "bede-ecclesiastical-history",
+              "t": "Bede, Ecclesiastical History — Colgrave–Mynors (OMT)."
+            },
+            {
+              "id": "colgrave-two-lives-cuthbert",
+              "t": "Colgrave, Two Lives of Saint Cuthbert."
+            },
+            {
+              "id": "dream-rood",
+              "t": "Dream of the Rood — DOML (Clayton, Old English Poems of Christ and His Saints)."
+            },
+            {
+              "id": "metrical-charms",
+              "t": "The metrical charms — DOML Old English Shorter Poems (verify volume) or Hamer's anthology."
+            },
+            {
+              "id": "heliand",
+              "t": "Heliand — G. R. Murphy's translation with the Behaghel–Taeger text."
+            },
+            {
+              "id": "eriugena-periphyseon",
+              "t": "Eriugena, Periphyseon — Jeauneau (CCCM 161–165) and Sheldon-Williams–O'Meara."
+            },
+            {
+              "id": "eriugena-homily",
+              "t": "Eriugena, Homily on the Prologue of John — SC 151."
+            },
+            {
+              "id": "leontius-life-symeon-fool",
+              "t": "Leontius, Life of Symeon the Fool — Festugière–Rydén, translation in Krueger."
+            },
+            {
+              "id": "life-andrew-fool",
+              "t": "The Life of St Andrew the Fool — Rydén (Uppsala, Greek–English)."
+            },
+            {
+              "id": "vita-merlini-lailoken-fragments",
+              "t": "Vita Merlini with the Lailoken fragments — Clarke (Cardiff)."
+            },
+            {
+              "id": "buile-suibhne",
+              "t": "Buile Suibhne — O'Keeffe (ITS 12) with Heaney's Sweeney Astray."
+            },
+            {
+              "id": "ephrem-hymns-paradise",
+              "t": "Ephrem — Brock, Hymns on Paradise (SVS)."
+            },
+            {
+              "id": "hildegard-symphonia",
+              "t": "Hildegard, Symphonia — Newman's edition (Cornell)."
+            },
             { "id": "hildegard-scivias", "t": "Hildegard, Scivias — CWS." },
-            { "id": "romanos-life-christ", "t": "Romanos — Lash, On the Life of Christ." },
-            { "id": "fedotov-russian-religious-mind", "t": "Fedotov, The Russian Religious Mind I." },
-            { "id": "waddell-beasts-saints", "t": "Waddell, Beasts and Saints." },
-            { "id": "carmichael-carmina-gadelica", "t": "Carmichael, Carmina Gadelica (Gaelic–English facing; editorial caveat stands)." }
+            {
+              "id": "romanos-life-christ",
+              "t": "Romanos — Lash, On the Life of Christ."
+            },
+            {
+              "id": "fedotov-russian-religious-mind",
+              "t": "Fedotov, The Russian Religious Mind I."
+            },
+            {
+              "id": "waddell-beasts-saints",
+              "t": "Waddell, Beasts and Saints."
+            },
+            {
+              "id": "carmichael-carmina-gadelica",
+              "t": "Carmichael, Carmina Gadelica (Gaelic–English facing; editorial caveat stands)."
+            }
           ]
         },
         {
@@ -7312,8 +7689,14 @@
           "kind": "library",
           "label": "Bridge: Stages 16–17",
           "items": [
-            { "id": "michael-martin-sophia-exile", "t": "Michael Martin, Sophia in Exile." },
-            { "id": "tomberg-meditations-tarot-letters", "t": "Tomberg, Meditations on the Tarot, Letters XII–XXII — Powell's translation, with Balthasar's afterword." }
+            {
+              "id": "michael-martin-sophia-exile",
+              "t": "Michael Martin, Sophia in Exile."
+            },
+            {
+              "id": "tomberg-meditations-tarot-letters",
+              "t": "Tomberg, Meditations on the Tarot, Letters XII–XXII — Powell's translation, with Balthasar's afterword."
+            }
           ]
         },
         {
@@ -7321,19 +7704,58 @@
           "kind": "library",
           "label": "Stage 17",
           "items": [
-            { "id": "athanasius-contra-arianos-ii", "t": "Athanasius, Contra Arianos II — Anatolios's selections or NPNF; Metzler–Savvidis for the text." },
-            { "id": "cusa", "t": "Cusa — Heidelberg Opera omnia, Bond (CWS), Hopkins online." },
-            { "id": "solovyov-lectures-divine-humanity", "t": "Solovyov, Lectures on Divine Humanity — Jakim (Lindisfarne); the Cerf Leçons." },
-            { "id": "kornblatt-divine-sophia", "t": "Kornblatt, Divine Sophia — Solovyov's Sophianic writings, with commentary." },
-            { "id": "florensky", "t": "Florensky — Jakim's Pillar (Princeton), Andronikof's La colonne (L'Âge d'Homme)." },
-            { "id": "bulgakov-trilogy", "t": "Bulgakov, the great trilogy — Jakim (Eerdmans); Andronikof's French set." },
-            { "id": "bulgakov-unfading-light", "t": "Bulgakov, Unfading Light — Smith (Eerdmans)." },
-            { "id": "bulgakov-burning-bush", "t": "Bulgakov, The Burning Bush — Smith (Eerdmans)." },
-            { "id": "bulgakov-sophia-wisdom-god", "t": "Bulgakov, Sophia: The Wisdom of God (Lindisfarne)." },
-            { "id": "bulgakov-philosophy-name", "t": "Bulgakov, Philosophy of the Name — Smith's recent translation (verify)." },
-            { "id": "lossky", "t": "Lossky — Спор о Софии (Russian; verify translation status)." },
-            { "id": "florovsky", "t": "Florovsky — Ways of Russian Theology, 2 vols." },
-            { "id": "e-trubetskoy", "t": "E. Trubetskoy — Icons: Theology in Color (SVS)." },
+            {
+              "id": "athanasius-contra-arianos-ii",
+              "t": "Athanasius, Contra Arianos II — Anatolios's selections or NPNF; Metzler–Savvidis for the text."
+            },
+            {
+              "id": "cusa",
+              "t": "Cusa — Heidelberg Opera omnia, Bond (CWS), Hopkins online."
+            },
+            {
+              "id": "solovyov-lectures-divine-humanity",
+              "t": "Solovyov, Lectures on Divine Humanity — Jakim (Lindisfarne); the Cerf Leçons."
+            },
+            {
+              "id": "kornblatt-divine-sophia",
+              "t": "Kornblatt, Divine Sophia — Solovyov's Sophianic writings, with commentary."
+            },
+            {
+              "id": "florensky",
+              "t": "Florensky — Jakim's Pillar (Princeton), Andronikof's La colonne (L'Âge d'Homme)."
+            },
+            {
+              "id": "bulgakov-trilogy",
+              "t": "Bulgakov, the great trilogy — Jakim (Eerdmans); Andronikof's French set."
+            },
+            {
+              "id": "bulgakov-unfading-light",
+              "t": "Bulgakov, Unfading Light — Smith (Eerdmans)."
+            },
+            {
+              "id": "bulgakov-burning-bush",
+              "t": "Bulgakov, The Burning Bush — Smith (Eerdmans)."
+            },
+            {
+              "id": "bulgakov-sophia-wisdom-god",
+              "t": "Bulgakov, Sophia: The Wisdom of God (Lindisfarne)."
+            },
+            {
+              "id": "bulgakov-philosophy-name",
+              "t": "Bulgakov, Philosophy of the Name — Smith's recent translation (verify)."
+            },
+            {
+              "id": "lossky",
+              "t": "Lossky — Спор о Софии (Russian; verify translation status)."
+            },
+            {
+              "id": "florovsky",
+              "t": "Florovsky — Ways of Russian Theology, 2 vols."
+            },
+            {
+              "id": "e-trubetskoy",
+              "t": "E. Trubetskoy — Icons: Theology in Color (SVS)."
+            },
             { "id": "frank", "t": "Frank — The Unknowable (Jakim)." }
           ]
         },
@@ -7344,18 +7766,54 @@
           "label": "",
           "items": [
             { "id": "smyth-greek-grammar", "t": "Smyth, Greek Grammar." },
-            { "id": "lsj", "t": "Liddell–Scott–Jones, A Greek–English Lexicon (LSJ)." },
-            { "id": "lampe-patristic-greek-lexicon", "t": "Lampe, A Patristic Greek Lexicon." },
-            { "id": "bdag", "t": "BDAG — Bauer–Danker, A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd edition: the working lexicon for the NT lectio continua and the Apostolic Fathers." },
-            { "id": "muraoka-greek-english-lexicon", "t": "Muraoka, A Greek–English Lexicon of the Septuagint — for the LXX core, where LSJ's coverage of translation Greek thins." },
-            { "id": "eleanor-dickey-composition", "t": "Eleanor Dickey, An Introduction to the Composition and Analysis of Greek Prose." },
-            { "id": "north-hillard", "t": "North & Hillard, Greek Prose Composition — for drill." },
-            { "id": "thesaurus-linguae-graecae-tlg", "t": "The Thesaurus Linguae Graecae (TLG) — the working corpus for the glossary and the word-histories (θέλημα, δόξα, λόγος); indispensable from Stage 7 onward." },
-            { "id": "e-sophocles-greek-lexicon", "t": "E. A. Sophocles, Greek Lexicon of the Roman and Byzantine Periods — the register between LSJ and Lampe, for the councils, Symeon, and Palamas." },
-            { "id": "horrocks-greek", "t": "Horrocks, Greek: A History of the Language and its Speakers — post-classical syntax and register where Smyth's Attic gives out." },
-            { "id": "bdf", "t": "BDF — Blass–Debrunner–Funk, A Greek Grammar of the New Testament and Other Early Christian Literature — the reference grammar for New Testament Koine." },
-            { "id": "metzger-textual-commentary-greek", "t": "Metzger, A Textual Commentary on the Greek New Testament, 2nd edition (optional) — the committee's reasoning behind the NA28 text, for the textual studies." },
-            { "id": "muraoka-syntax-septuagint-greek", "t": "Muraoka, A Syntax of Septuagint Greek (optional) — the reference grammar for the LXX's translation syntax, which neither Smyth nor BDF covers." }
+            {
+              "id": "lsj",
+              "t": "Liddell–Scott–Jones, A Greek–English Lexicon (LSJ)."
+            },
+            {
+              "id": "lampe-patristic-greek-lexicon",
+              "t": "Lampe, A Patristic Greek Lexicon."
+            },
+            {
+              "id": "bdag",
+              "t": "BDAG — Bauer–Danker, A Greek–English Lexicon of the New Testament and Other Early Christian Literature, 3rd edition: the working lexicon for the NT lectio continua and the Apostolic Fathers."
+            },
+            {
+              "id": "muraoka-greek-english-lexicon",
+              "t": "Muraoka, A Greek–English Lexicon of the Septuagint — for the LXX core, where LSJ's coverage of translation Greek thins."
+            },
+            {
+              "id": "eleanor-dickey-composition",
+              "t": "Eleanor Dickey, An Introduction to the Composition and Analysis of Greek Prose."
+            },
+            {
+              "id": "north-hillard",
+              "t": "North & Hillard, Greek Prose Composition — for drill."
+            },
+            {
+              "id": "thesaurus-linguae-graecae-tlg",
+              "t": "The Thesaurus Linguae Graecae (TLG) — the working corpus for the glossary and the word-histories (θέλημα, δόξα, λόγος); indispensable from Stage 7 onward."
+            },
+            {
+              "id": "e-sophocles-greek-lexicon",
+              "t": "E. A. Sophocles, Greek Lexicon of the Roman and Byzantine Periods — the register between LSJ and Lampe, for the councils, Symeon, and Palamas."
+            },
+            {
+              "id": "horrocks-greek",
+              "t": "Horrocks, Greek: A History of the Language and its Speakers — post-classical syntax and register where Smyth's Attic gives out."
+            },
+            {
+              "id": "bdf",
+              "t": "BDF — Blass–Debrunner–Funk, A Greek Grammar of the New Testament and Other Early Christian Literature — the reference grammar for New Testament Koine."
+            },
+            {
+              "id": "metzger-textual-commentary-greek",
+              "t": "Metzger, A Textual Commentary on the Greek New Testament, 2nd edition (optional) — the committee's reasoning behind the NA28 text, for the textual studies."
+            },
+            {
+              "id": "muraoka-syntax-septuagint-greek",
+              "t": "Muraoka, A Syntax of Septuagint Greek (optional) — the reference grammar for the LXX's translation syntax, which neither Smyth nor BDF covers."
+            }
           ]
         },
         { "type": "subhead", "text": "C.4 — Whole-plan companions" },
@@ -7364,10 +7822,22 @@
           "kind": "library",
           "label": "",
           "items": [
-            { "id": "andrew-louth-origins-christian", "t": "Andrew Louth, The Origins of the Christian Mystical Tradition: From Plato to Denys." },
-            { "id": "vladimir-lossky-essai-sur", "t": "Vladimir Lossky, Essai sur la théologie mystique de l'Église d'Orient." },
-            { "id": "pierre-hadot-exercices-spirituels", "t": "Pierre Hadot, Exercices spirituels et philosophie antique." },
-            { "id": "werner-jaeger-early-christianity", "t": "Werner Jaeger, Early Christianity and Greek Paideia." }
+            {
+              "id": "andrew-louth-origins-christian",
+              "t": "Andrew Louth, The Origins of the Christian Mystical Tradition: From Plato to Denys."
+            },
+            {
+              "id": "vladimir-lossky-essai-sur",
+              "t": "Vladimir Lossky, Essai sur la théologie mystique de l'Église d'Orient."
+            },
+            {
+              "id": "pierre-hadot-exercices-spirituels",
+              "t": "Pierre Hadot, Exercices spirituels et philosophie antique."
+            },
+            {
+              "id": "werner-jaeger-early-christianity",
+              "t": "Werner Jaeger, Early Christianity and Greek Paideia."
+            }
           ]
         },
         {
@@ -7379,25 +7849,35 @@
           "kind": "library",
           "label": "Stages 1–4",
           "items": [
-            { "id": "sec-s1-hadot", "t": "Hadot, Qu'est-ce que la philosophie antique?" },
-            { "id": "sec-s1-kirk", "t": "Kirk, Raven & Schofield, The Presocratic Philosophers." },
-            { "id": "sec-s1-annas", "t": "Annas, An Introduction to Plato's Republic." }
+            {
+              "id": "sec-s1-hadot",
+              "t": "Hadot, Qu'est-ce que la philosophie antique?"
+            },
+            {
+              "id": "sec-s1-kirk",
+              "t": "Kirk, Raven & Schofield, The Presocratic Philosophers."
+            },
+            {
+              "id": "sec-s1-annas",
+              "t": "Annas, An Introduction to Plato's Republic."
+            }
           ]
         },
         {
           "type": "list",
           "kind": "library",
           "label": "Stage 5",
-          "items": [
-            { "id": "sec-s2-behr", "t": "Behr, The Way to Nicaea." }
-          ]
+          "items": [{ "id": "sec-s2-behr", "t": "Behr, The Way to Nicaea." }]
         },
         {
           "type": "list",
           "kind": "library",
           "label": "Stage 6",
           "items": [
-            { "id": "sec-s3-behr", "t": "Behr, Irenaeus of Lyons: Identifying Christianity." }
+            {
+              "id": "sec-s3-behr",
+              "t": "Behr, Irenaeus of Lyons: Identifying Christianity."
+            }
           ]
         },
         {
@@ -7406,14 +7886,29 @@
           "label": "Stages 7–8",
           "items": [
             { "id": "sec-s4-osborn", "t": "Osborn, Clement of Alexandria." },
-            { "id": "sec-s4-lilla", "t": "Lilla, Clement of Alexandria: A Study in Christian Platonism and Gnosticism." },
+            {
+              "id": "sec-s4-lilla",
+              "t": "Lilla, Clement of Alexandria: A Study in Christian Platonism and Gnosticism."
+            },
             { "id": "sec-s4-behr", "t": "Behr, The Nicene Faith." },
             { "id": "sec-s4-crouzel", "t": "Crouzel, Origen." },
             { "id": "sec-s4-de-lubac", "t": "de Lubac, Histoire et esprit." },
-            { "id": "sec-s4-behr-incarnation", "t": "Behr's On the Incarnation edition." },
-            { "id": "sec-s4-hildebrand", "t": "Hildebrand, The Trinitarian Theology of Basil of Caesarea." },
-            { "id": "sec-s4-danielou", "t": "Daniélou, Platonisme et théologie mystique." },
-            { "id": "sec-s4-danielou-musurillo", "t": "Daniélou & Musurillo, From Glory to Glory." }
+            {
+              "id": "sec-s4-behr-incarnation",
+              "t": "Behr's On the Incarnation edition."
+            },
+            {
+              "id": "sec-s4-hildebrand",
+              "t": "Hildebrand, The Trinitarian Theology of Basil of Caesarea."
+            },
+            {
+              "id": "sec-s4-danielou",
+              "t": "Daniélou, Platonisme et théologie mystique."
+            },
+            {
+              "id": "sec-s4-danielou-musurillo",
+              "t": "Daniélou & Musurillo, From Glory to Glory."
+            }
           ]
         },
         {
@@ -7421,13 +7916,25 @@
           "kind": "library",
           "label": "Stage 9",
           "items": [
-            { "id": "sec-s5-hadot", "t": "Hadot, Plotin ou la simplicité du regard." },
-            { "id": "sec-s5-o-meara", "t": "O'Meara, Plotinus: An Introduction to the Enneads." },
+            {
+              "id": "sec-s5-hadot",
+              "t": "Hadot, Plotin ou la simplicité du regard."
+            },
+            {
+              "id": "sec-s5-o-meara",
+              "t": "O'Meara, Plotinus: An Introduction to the Enneads."
+            },
             { "id": "sec-s5-fowden", "t": "Fowden, The Egyptian Hermes." },
-            { "id": "sec-s5-festugiere", "t": "Festugière, La Révélation d'Hermès Trismégiste." },
+            {
+              "id": "sec-s5-festugiere",
+              "t": "Festugière, La Révélation d'Hermès Trismégiste."
+            },
             { "id": "sec-s5-dodd", "t": "Dodd, The Bible and the Greeks." },
             { "id": "sec-s5-buchli", "t": "Büchli, Der Poimandres." },
-            { "id": "sec-s5-yates", "t": "Yates, Giordano Bruno and the Hermetic Tradition." }
+            {
+              "id": "sec-s5-yates",
+              "t": "Yates, Giordano Bruno and the Hermetic Tradition."
+            }
           ]
         },
         {
@@ -7435,7 +7942,10 @@
           "kind": "library",
           "label": "Stage 10",
           "items": [
-            { "id": "sec-s6-mcguckin", "t": "McGuckin, Saint Gregory of Nazianzus: An Intellectual Biography." },
+            {
+              "id": "sec-s6-mcguckin",
+              "t": "McGuckin, Saint Gregory of Nazianzus: An Intellectual Biography."
+            },
             { "id": "sec-s6-louth", "t": "Louth, Denys the Areopagite." },
             { "id": "sec-s6-golitzin", "t": "Golitzin, Mystagogy." },
             { "id": "sec-s6-perl", "t": "Perl, Theophany." },
@@ -7447,7 +7957,10 @@
           "kind": "library",
           "label": "Stage 11",
           "items": [
-            { "id": "sec-s7-mcguckin", "t": "McGuckin, St. Cyril of Alexandria and the Christological Controversy." }
+            {
+              "id": "sec-s7-mcguckin",
+              "t": "McGuckin, St. Cyril of Alexandria and the Christological Controversy."
+            }
           ]
         },
         {
@@ -7457,14 +7970,26 @@
           "items": [
             { "id": "sec-s8-wood", "t": "Wood, The Whole Mystery of Christ." },
             { "id": "sec-s8-balthasar", "t": "Balthasar, Cosmic Liturgy." },
-            { "id": "sec-s8-thunberg", "t": "Thunberg, Microcosm and Mediator." },
+            {
+              "id": "sec-s8-thunberg",
+              "t": "Thunberg, Microcosm and Mediator."
+            },
             { "id": "sec-s8-toronen", "t": "Törönen, Union and Distinction." },
             { "id": "sec-s8-blowers", "t": "Blowers, Maximus the Confessor." },
             { "id": "sec-s8-louth", "t": "Louth, Maximus the Confessor." },
-            { "id": "sec-s8-larchet", "t": "Larchet, La divinisation de l'homme selon saint Maxime le Confesseur and Saint Maxime le Confesseur." },
-            { "id": "sec-s8-loudovikos", "t": "Loudovikos, A Eucharistic Ontology." },
+            {
+              "id": "sec-s8-larchet",
+              "t": "Larchet, La divinisation de l'homme selon saint Maxime le Confesseur and Saint Maxime le Confesseur."
+            },
+            {
+              "id": "sec-s8-loudovikos",
+              "t": "Loudovikos, A Eucharistic Ontology."
+            },
             { "id": "sec-s8-sherwood", "t": "Sherwood, The Earlier Ambigua." },
-            { "id": "sec-s8-kapriev", "t": "Kapriev, Максим Изповедник: Въведение в мисловната му система." }
+            {
+              "id": "sec-s8-kapriev",
+              "t": "Kapriev, Максим Изповедник: Въведение в мисловната му система."
+            }
           ]
         },
         {
@@ -7472,7 +7997,10 @@
           "kind": "library",
           "label": "Stage 13",
           "items": [
-            { "id": "sec-s9-louth", "t": "Louth, St John Damascene: Tradition and Originality in Byzantine Theology." }
+            {
+              "id": "sec-s9-louth",
+              "t": "Louth, St John Damascene: Tradition and Originality in Byzantine Theology."
+            }
           ]
         },
         {
@@ -7481,12 +8009,27 @@
           "label": "Stage 14",
           "items": [
             { "id": "sec-s10-brown", "t": "Brown, Augustine of Hippo." },
-            { "id": "sec-s10-gilson", "t": "Gilson, Introduction à l'étude de saint Augustin." },
+            {
+              "id": "sec-s10-gilson",
+              "t": "Gilson, Introduction à l'étude de saint Augustin."
+            },
             { "id": "sec-s10-ayres", "t": "Ayres, Augustine and the Trinity." },
-            { "id": "sec-s10-chadwick", "t": "Chadwick, Boethius: The Consolations of Music, Logic, Theology, and Philosophy." },
-            { "id": "sec-s10-torrell", "t": "Torrell, Initiation à saint Thomas d'Aquin." },
-            { "id": "sec-s10-chenu", "t": "Chenu, Introduction à l'étude de saint Thomas d'Aquin." },
-            { "id": "sec-s10-davies", "t": "Davies, The Thought of Thomas Aquinas." },
+            {
+              "id": "sec-s10-chadwick",
+              "t": "Chadwick, Boethius: The Consolations of Music, Logic, Theology, and Philosophy."
+            },
+            {
+              "id": "sec-s10-torrell",
+              "t": "Torrell, Initiation à saint Thomas d'Aquin."
+            },
+            {
+              "id": "sec-s10-chenu",
+              "t": "Chenu, Introduction à l'étude de saint Thomas d'Aquin."
+            },
+            {
+              "id": "sec-s10-davies",
+              "t": "Davies, The Thought of Thomas Aquinas."
+            },
             { "id": "sec-s10-gilson-2", "t": "Gilson, Le thomisme." }
           ]
         },
@@ -7495,11 +8038,23 @@
           "kind": "library",
           "label": "Stage 15",
           "items": [
-            { "id": "sec-s11-chryssavgis", "t": "Chryssavgis, John Climacus: From the Egyptian Desert to the Sinaite Mountain." },
-            { "id": "sec-s11-krivocheine", "t": "Krivochéine, In the Light of Christ." },
-            { "id": "sec-s11-meyendorff", "t": "Meyendorff, Introduction à l'étude de Grégoire Palamas." },
+            {
+              "id": "sec-s11-chryssavgis",
+              "t": "Chryssavgis, John Climacus: From the Egyptian Desert to the Sinaite Mountain."
+            },
+            {
+              "id": "sec-s11-krivocheine",
+              "t": "Krivochéine, In the Light of Christ."
+            },
+            {
+              "id": "sec-s11-meyendorff",
+              "t": "Meyendorff, Introduction à l'étude de Grégoire Palamas."
+            },
             { "id": "sec-s11-ware", "t": "Ware, The Power of the Name." },
-            { "id": "sec-s11-hausherr", "t": "Hausherr, Noms du Christ et voies d'oraison and La méthode d'oraison hésychaste." }
+            {
+              "id": "sec-s11-hausherr",
+              "t": "Hausherr, Noms du Christ et voies d'oraison and La méthode d'oraison hésychaste."
+            }
           ]
         },
         {
@@ -7508,13 +8063,31 @@
           "label": "Stage 16",
           "items": [
             { "id": "sec-s12-o-loughlin", "t": "O'Loughlin, Celtic Theology." },
-            { "id": "sec-s12-meek", "t": "Meek, The Quest for Celtic Christianity." },
-            { "id": "sec-s12-davies-o-loughlin", "t": "Davies & O'Loughlin, Celtic Spirituality (CWS)." },
-            { "id": "sec-s12-carey", "t": "Carey, King of Mysteries and A Single Ray of the Sun." },
-            { "id": "sec-s12-g-r-murphy", "t": "G. R. Murphy, The Saxon Savior." },
+            {
+              "id": "sec-s12-meek",
+              "t": "Meek, The Quest for Celtic Christianity."
+            },
+            {
+              "id": "sec-s12-davies-o-loughlin",
+              "t": "Davies & O'Loughlin, Celtic Spirituality (CWS)."
+            },
+            {
+              "id": "sec-s12-carey",
+              "t": "Carey, King of Mysteries and A Single Ray of the Sun."
+            },
+            {
+              "id": "sec-s12-g-r-murphy",
+              "t": "G. R. Murphy, The Saxon Savior."
+            },
             { "id": "sec-s12-krueger", "t": "Krueger, Symeon the Holy Fool." },
-            { "id": "sec-s12-carabine", "t": "Carabine, John Scottus Eriugena." },
-            { "id": "sec-s12-duclow", "t": "Duclow, Masters of Learned Ignorance." },
+            {
+              "id": "sec-s12-carabine",
+              "t": "Carabine, John Scottus Eriugena."
+            },
+            {
+              "id": "sec-s12-duclow",
+              "t": "Duclow, Masters of Learned Ignorance."
+            },
             { "id": "sec-s12-newman", "t": "Newman, Sister of Wisdom." },
             { "id": "sec-s12-brock", "t": "Brock, The Luminous Eye." }
           ]
@@ -7525,18 +8098,32 @@
           "label": "Stage 17",
           "items": [
             { "id": "sec-s13-louth", "t": "Louth, Modern Orthodox Thinkers." },
-            { "id": "sec-s13-valliere", "t": "Valliere, Modern Russian Theology." },
-            { "id": "sec-s13-williams", "t": "Williams, Sergii Bulgakov: Towards a Russian Political Theology." },
-            { "id": "sec-s13-gallaher", "t": "Gallaher, Freedom and Necessity in Modern Trinitarian Theology." },
+            {
+              "id": "sec-s13-valliere",
+              "t": "Valliere, Modern Russian Theology."
+            },
+            {
+              "id": "sec-s13-williams",
+              "t": "Williams, Sergii Bulgakov: Towards a Russian Political Theology."
+            },
+            {
+              "id": "sec-s13-gallaher",
+              "t": "Gallaher, Freedom and Necessity in Modern Trinitarian Theology."
+            },
             { "id": "sec-s13-nichols", "t": "Nichols, Wisdom from Above." },
             { "id": "sec-s13-kornblatt", "t": "Kornblatt, Divine Sophia." },
-            { "id": "sec-s13-lossky", "t": "Lossky, Théologie négative et connaissance de Dieu chez Maître Eckhart (at the Unit 61 satellite)." },
+            {
+              "id": "sec-s13-lossky",
+              "t": "Lossky, Théologie négative et connaissance de Dieu chez Maître Eckhart (at the Unit 61 satellite)."
+            },
             { "id": "sec-s13-hart", "t": "Hart, You Are Gods (contemporary)." },
-            { "id": "sec-s13-martin", "t": "Martin, The Heavenly Country and The Submerged Reality (flags attached)." }
+            {
+              "id": "sec-s13-martin",
+              "t": "Martin, The Heavenly Country and The Submerged Reality (flags attached)."
+            }
           ]
         }
       ]
     }
   ]
 }
-
