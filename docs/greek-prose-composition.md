@@ -7,9 +7,8 @@ tradition — North & Hillard's *Greek Prose Composition for Schools* (1898) for
 graded drill, Auden's *Greek Prose Phrase-Book* (1899) for idiom, and Smyth's
 *Greek Grammar* (1920) as the court of appeal — with a handful of attributed
 debts to Eleanor Dickey's *An Introduction to the Composition and Analysis of
-Greek Prose* (Cambridge, 2016), which is warmly recommended as the modern
-course. Almost every rule below has exceptions; the references exist so you can
-find them.
+Greek Prose* (Cambridge, 2016). Almost every rule below has exceptions; the
+references exist so you can find them.
 
 Each section ends with pointers: **Drill** names North & Hillard (N&H) pages
 whose exercises practice the construction; **Lookup** names the fuller
@@ -396,9 +395,7 @@ prepositions pp. 233–237, accent rules pp. 240–245.
 - H. W. Smyth, *Greek Grammar* (1920). Public domain; cited by §.
 - W. W. Goodwin, *Syntax of the Moods and Tenses of the Greek Verb* (1890).
   Public domain.
-- J. D. Denniston, *The Greek Particles* (2nd ed. 1954) — recommended; in
-  copyright.
+- J. D. Denniston, *The Greek Particles* (2nd ed. 1954) — in copyright.
 - Eleanor Dickey, *An Introduction to the Composition and Analysis of Greek
-  Prose* (Cambridge University Press, 2016) — the modern course this manual
-  gratefully points to rather than reproduces; the two brief quotations above
-  (§1, §11) are hers. In copyright; buy it.
+  Prose* (Cambridge University Press, 2016) — in copyright; the two brief
+  quotations above (§1, §11) are hers.
